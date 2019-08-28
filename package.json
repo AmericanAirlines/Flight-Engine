@@ -13,6 +13,8 @@
     "lint": "eslint src/**/*.ts --max-warnings 0",
     "lint:fix": "npm run lint -- --fix",
     "lint:staged": "lint-staged",
+    "checkstyle": "prettier -l src/**/*.ts",
+    "checkstyle:fix": "npm run checkstyle -- --write",
     "test": "jest",
     "test:changed": "jest -o"
   },
@@ -42,6 +44,7 @@
     "linters": {
       "src/**/*.{js,ts}": [
         "npm run lint:fix",
+        "npm run checkstyle:fix",
         "git add"
       ]
     },
@@ -78,7 +81,7 @@
     "lint-staged": "^8.1.4",
     "nodemon": "^1.18.10",
     "npm-run-all": "^4.1.5",
-    "prettier": "^1.16.4",
+    "prettier": "^1.18.2",
     "supertest": "^4.0.2",
     "ts-jest": "^24.0.0"
   }
