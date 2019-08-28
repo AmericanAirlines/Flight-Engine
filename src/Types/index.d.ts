@@ -35,3 +35,9 @@ declare interface Flight {
   distance: number;
   duration: FlightDuration;
 }
+
+declare interface FlightQueryParams {
+  date: string;
+  origin?: string;
+  destination?: string;
+}

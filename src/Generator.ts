@@ -20,6 +20,10 @@ export default class Generator {
     this.random = createRandomGenerator(seed);
   }
 
+  numFlightsForRoute(): number {
+    return this.random(5, 15);
+  }
+
   flight(origin: Airport, destination: Airport): Flight {
     const flightNumber: string = this.random(1, 9999)
       .toFixed(0)
