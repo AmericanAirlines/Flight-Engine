@@ -1,7 +1,7 @@
-import airports from './airports';
+import airports from './aircraft';
 
-describe('Airports /', () => {
-  it('At least two airports exist', () => {
-    expect(airports.length).toBeGreaterThan(1);
+describe('Aircraft ', () => {
+  it('At least one aircraft exists', () => {
+    expect(airports.length).toBeGreaterThan(0);
   });
 });
