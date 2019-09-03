@@ -17,6 +17,7 @@ module.exports = {
   },
   rules: {
     'import/no-extraneous-dependencies': ['error', { devDependencies: ['**/*.test.ts'] }],
+    'max-len': [0],
   },
   settings: {
     'import/resolver': {
