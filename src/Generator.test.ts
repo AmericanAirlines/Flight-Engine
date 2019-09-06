@@ -2,7 +2,7 @@ import 'jest';
 import Generator from './Generator';
 import airports from './Data/airports';
 
-describe('Random seed generator /', () => {
+describe('Random seed generator ', () => {
   it('random method returns same values over time using the same seed', () => {
     const seed = '123';
 

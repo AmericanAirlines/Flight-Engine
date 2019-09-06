@@ -3,6 +3,7 @@ import bodyParser from 'body-parser';
 import { DateTime } from 'luxon';
 import Generator from './Generator';
 import airports from './Data/airports';
+import FlightCache from './FlightCache';
 
 const app = express();
 
@@ -23,24 +24,40 @@ app.get('/', (_: express.Request, res: express.Response) => {
 app.get('/flights', (req, res) => {
   const { query } = req;
   const seed = DateTime.fromISO(query.date).toISODate();
+  if (!seed) {
+    const dateFormatText = 'YYYY-MM-DD';
+    if (!query.date) {
+      res.status(400).send(`'date' is a required parameter and must use the following format: ${dateFormatText}`);
+      return;
+    }
+    res.status(400).send(`'date' value (${query.date}) is malformed; 'date' must use the following format: ${dateFormatText}`);
+    return;
+  }
   const gen = new Generator(seed);
   let flights = [];
 
-  for (let i = 0; i < airports.length; i += 1) {
-    // Iterate over all airports
-    for (let j = airports.length - 1; j >= 0; j -= 1) {
-      if (i !== j) {
-        const origin = airports[i];
-        const destination = airports[j];
+  // Test cache for data
+  const cachedFlights = FlightCache.getFlights(seed);
+  if (!cachedFlights) {
+    for (let i = 0; i < airports.length; i += 1) {
+      // Iterate over all airports
+      for (let j = airports.length - 1; j >= 0; j -= 1) {
+        if (i !== j) {
+          const origin = airports[i];
+          const destination = airports[j];
 
-        // For each O&D pair, create flights based on # per day
-        const numFlights = gen.numFlightsForRoute();
+          // For each O&D pair, create flights based on # per day
+          const numFlights = gen.numFlightsForRoute();
 
-        for (let k = 0; k <= numFlights; k += 1) {
-          flights.push(gen.flight(origin, destination));
+          for (let k = 0; k <= numFlights; k += 1) {
+            flights.push(gen.flight(origin, destination));
+          }
         }
       }
     }
+    FlightCache.cacheFlights(seed, flights);
+  } else {
+    flights = cachedFlights;
   }
 
   if (query.origin) {
