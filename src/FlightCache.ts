@@ -5,11 +5,11 @@ class FlightCache {
     this.flights = {};
   }
 
-  getFlights(dateString: string): Flight[] {
-    return this.flights[dateString];
+  public getFlights(dateString: string): Flight[] {
+    return this.flights[dateString] || null;
   }
 
-  cacheFlights(dateString: string, flights: Flight[]): void {
+  public cacheFlights(dateString: string, flights: Flight[]): void {
     this.flights[dateString] = flights;
   }
 }
