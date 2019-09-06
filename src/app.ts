@@ -55,19 +55,23 @@ app.get('/flights', (req, res) => {
         }
       }
     }
+    // Cache flight data that was resulted in a cache miss
     FlightCache.cacheFlights(seed, flights);
   } else {
     flights = cachedFlights;
   }
 
+  // Filter results based on origin
   if (query.origin) {
     flights = flights.filter((flight: Flight) => flight.origin.code === query.origin.toUpperCase());
   }
 
+  // Filter results based on destination
   if (query.destination) {
     flights = flights.filter((flight: Flight) => flight.destination.code === query.destination.toUpperCase());
   }
 
+  // Respond with matching flights
   res.json(flights);
 });
 
