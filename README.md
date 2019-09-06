@@ -13,7 +13,7 @@ After dependencies have been installed, run `npm run dev`, which will perform th
 Once the app has started, try hitting `localhost:3030` (`3030` is the default port unless overridden from `.env`) from a browser.
 
 ## Randomization via a Seed Value
-In order to keep the app lightweight and eliminate the need for a database, this project uses [_seed randomization_](LINK NEEDED) (credit to @JohnKahn for the amazing idea!). If you don't care about the way data is generated, just read the first two bullets below and skip the rest.
+In order to keep the app lightweight and eliminate the need for a database, this project uses [_seed randomization_](https://en.wikipedia.org/wiki/Random_seed) (credit to [@JohnKahn](https://github.com/johnkahn) for the amazing idea!). If you don't care about the way data is generated, just read the first two bullets below and skip the rest.
 
 Here are some important things to note if you plan to modify the random data generation:
 - After a `Generator` is initialized with a `seed`, the `random` method will generate random data each time it is called, however, this data generation is *deterministic*...
