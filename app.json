@@ -1,0 +1,6 @@
+{
+  "name": "American Airlines Flight Engine",
+  "description": "Mock flight data delivered simply and quickly without a database",
+  "repository": "https://github.com/AmericanAirlines/Flight-Engine",
+  "keywords": ["node", "express", "typescript", "jest"]
+}

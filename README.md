@@ -1,6 +1,8 @@
 # Flight Engine
 Mock flight data delivered simply and quickly without a database.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Developing Locally
 First, make sure you have [Node.js and npm](https://nodejs.org/en/download/) and [MongoDB](https://docs.mongodb.com/manual/installation/) installed, then install remaining project dependencies by running `npm install`.
 
