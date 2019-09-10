@@ -22,14 +22,14 @@ app.get('/', (_: express.Request, res: express.Response) => {
 // Retrieve a list of flights for a given day
 // filtered by origin and/or destination
 app.get('/flights', (req, res) => {
+  const dateFormatText = 'YYYY-MM-DD';
   const { query } = req;
+  if (!query || !query.date) {
+    res.status(400).send(`'date' is a required parameter and must use the following format: ${dateFormatText}`);
+    return;
+  }
   const seed = DateTime.fromISO(query.date).toISODate();
   if (!seed) {
-    const dateFormatText = 'YYYY-MM-DD';
-    if (!query.date) {
-      res.status(400).send(`'date' is a required parameter and must use the following format: ${dateFormatText}`);
-      return;
-    }
     res.status(400).send(`'date' value (${query.date}) is malformed; 'date' must use the following format: ${dateFormatText}`);
     return;
   }

@@ -25,7 +25,7 @@ describe('GET /flights', () => {
       .expect(badParamsCode, done);
   });
 
-  it('retrieves the same data when hit multiple times, the second call should hit the cache ', (done) => {
+  it('retrieves the same data when hit multiple times', (done) => {
     const dateString = "2020-01-01";
     supertest(app)
       .get(`/flights?date=${dateString}`).expect(200, (err1, res1) => {
@@ -39,8 +39,6 @@ describe('GET /flights', () => {
             expect(flights2.length).toBeGreaterThan(0);
             
             expect(flights1).toEqual(flights2);
-            // expect(FlightCache.getFlights).toHaveLastReturnedWith(flights1);
-            // TODO: Test to see if Generator.flight was called
             done();
           });
       });
