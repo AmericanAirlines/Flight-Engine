@@ -1,8 +1,10 @@
 # Flight Engine
 Mock flight data delivered simply and quickly without a database.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Running the App Locally
-First, make sure you have [Node.js and npm](https://nodejs.org/en/download/) and [MongoDB](https://docs.mongodb.com/manual/installation/) installed, then install remaining project dependencies by running `npm install`.
+First, make sure you have [Node.js and npm](https://nodejs.org/en/download/) then install project dependencies by running `npm install`.
 
 After dependencies have been installed, run `npm run dev`, which will perform the following actions:
 - Transpile TS into `dist` from `src`
