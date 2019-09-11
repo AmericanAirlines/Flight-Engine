@@ -33,7 +33,6 @@ export default class Generator {
 
   // Determine the number of flights for a given route for a specific day
   numFlightsForRoute(): number {
-    // TODO: Update this method to accept origin, destination, and date
     // Use those values to create a hash and use that value as the seed
     // to create a new random method to be used for numFlights
     return this.random(5, 15);
