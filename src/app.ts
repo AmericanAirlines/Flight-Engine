@@ -1,4 +1,5 @@
 import express from 'express';
+import cors from 'cors';
 import bodyParser from 'body-parser';
 import { DateTime } from 'luxon';
 import Generator from './Generator';
@@ -6,6 +7,9 @@ import airports from './Data/airports';
 import FlightCache from './FlightCache';
 
 const app = express();
+
+// Enable cross origin requests
+app.use(cors());
 
 // Inject middleware to parse JSON body objects
 app.use(bodyParser.json());
