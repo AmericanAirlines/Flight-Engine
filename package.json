@@ -35,11 +35,6 @@
   "engines": {
     "node": "^9.8.0"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "run-s build lint:staged test"
-    }
-  },
   "lint-staged": {
     "linters": {
       "src/**/*.{js,ts}": [
