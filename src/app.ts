@@ -20,6 +20,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 // Establish Routing
 app.get('/', (_: express.Request, res: express.Response) => {
   res.send('👋');
+  res.send('👋👋👋');
 });
 
 // /flights
