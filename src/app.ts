@@ -2,8 +2,6 @@ import express from 'express';
 import cors from 'cors';
 import bodyParser from 'body-parser';
 import { DateTime } from 'luxon';
-import Generator from './Generator';
-import airports from './Data/airports';
 import FlightCache from './FlightCache';
 
 const app = express();
@@ -37,33 +35,9 @@ app.get('/flights', (req, res) => {
     res.status(400).send(`'date' value (${query.date}) is malformed; 'date' must use the following format: ${dateFormatText}`);
     return;
   }
-  const gen = new Generator(seed);
-  let flights = [];
 
   // Test cache for data
-  const cachedFlights = FlightCache.getFlights(seed);
-  if (!cachedFlights) {
-    for (let i = 0; i < airports.length; i += 1) {
-      // Iterate over all airports
-      for (let j = airports.length - 1; j >= 0; j -= 1) {
-        if (i !== j) {
-          const origin = airports[i];
-          const destination = airports[j];
-
-          // For each O&D pair, create flights based on # per day
-          const numFlights = gen.numFlightsForRoute();
-
-          for (let k = 0; k <= numFlights; k += 1) {
-            flights.push(gen.flight(origin, destination));
-          }
-        }
-      }
-    }
-    // Cache flight data that was resulted in a cache miss
-    FlightCache.cacheFlights(seed, flights);
-  } else {
-    flights = cachedFlights;
-  }
+  let flights = FlightCache.getFlights(seed);
 
   // Filter results based on origin
   if (query.origin) {
@@ -73,6 +47,39 @@ app.get('/flights', (req, res) => {
   // Filter results based on destination
   if (query.destination) {
     flights = flights.filter((flight: Flight) => flight.destination.code === query.destination.toUpperCase());
+  }
+
+  // Respond with matching flights
+  res.json(flights);
+});
+
+// flight
+// Retrieve a flight for a given day
+// filtered by flight number
+app.get('/flight', (req, res) => {
+  const dateFormatText = 'YYYY-MM-DD';
+  const { query } = req;
+
+  if (!query.date) {
+    res.status(400).send(`'date' is a required parameter and must use the following format: ${dateFormatText}`);
+    return;
+  }
+
+  if (!query.flightNumber) {
+    res.status(400).send("'flightNumber' is a required parameter.");
+    return;
+  }
+  const seed = DateTime.fromISO(query.date).toISODate();
+  if (!seed) {
+    res.status(400).send(`'date' value (${query.date}) is malformed; 'date' must use the following format: ${dateFormatText}`);
+    return;
+  }
+  // Test cache for data
+  let flights = FlightCache.getFlights(seed);
+
+  // Filter results based on flightNumber
+  if (query.flightNumber) {
+    flights = flights.filter((flight) => flight.flightNumber === query.flightNumber);
   }
 
   // Respond with matching flights
