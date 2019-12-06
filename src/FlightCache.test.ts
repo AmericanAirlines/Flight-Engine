@@ -2,7 +2,6 @@ import 'jest';
 import Generator from './Generator';
 import airports from './Data/airports';
 import FlightCache from './FlightCache';
-import { JestEnvironment } from '@jest/environment';
 
 describe('FlightCache ', () => {
   const sampleDate = '2020-01=01';
@@ -21,9 +20,10 @@ describe('FlightCache ', () => {
   it('should return flights for a cache hit on date', () => {
     const numFlights = 10;
     const generator = new Generator(sampleDate);
-    const flights = Array(numFlights).fill(null).map(() => {
-      return generator.flight(origin, destination);
-    });
+    const flights = Array(numFlights)
+      .fill(null)
+      .map(() => generator.flight(origin, destination));
+
     FlightCache.cacheFlights(sampleDate, flights);
     const cachedFlights = FlightCache.getFlights(sampleDate);
     expect(cachedFlights).toEqual(flights);
