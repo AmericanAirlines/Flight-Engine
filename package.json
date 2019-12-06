@@ -10,7 +10,7 @@
     "build": "tsc -p src/ --pretty",
     "build:watch": "npm run build -- -w",
     "build:ci": "run-s lint build test",
-    "lint": "eslint src/**/*.ts --max-warnings 0",
+    "lint": "eslint src --ext .ts --max-warnings 0",
     "lint:fix": "npm run lint -- --fix",
     "lint:staged": "lint-staged",
     "checkstyle": "prettier -l src/**/*.ts",
