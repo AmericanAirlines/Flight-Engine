@@ -13,6 +13,7 @@ declare interface Aircraft {
 declare interface Airport {
   code: string; // Airport code, typically 3 characters
   city: string; // Airport city name
+  timezone: string; // IANA timezone string
   location: Location;
 }
 
@@ -34,6 +35,8 @@ declare interface Flight {
   destination: Airport;
   distance: number;
   duration: FlightDuration;
+  departureTime: string;
+  arrivalTime: string;
 }
 
 declare interface FlightQueryParams {

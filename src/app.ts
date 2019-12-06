@@ -32,7 +32,10 @@ app.get('/flights', (req, res) => {
     res.status(400).send(`'date' is a required parameter and must use the following format: ${dateFormatText}`);
     return;
   }
-  const seed = DateTime.fromISO(query.date).toISODate();
+
+  const date = DateTime.fromISO(query.date, { zone: 'utc' });
+
+  const seed = date.toISODate();
   if (!seed) {
     res.status(400).send(`'date' value (${query.date}) is malformed; 'date' must use the following format: ${dateFormatText}`);
     return;
@@ -53,8 +56,17 @@ app.get('/flights', (req, res) => {
           // For each O&D pair, create flights based on # per day
           const numFlights = gen.numFlightsForRoute();
 
+          // 1am - 11pm (22 hours)
+          const flightTimeOffset = 22 / numFlights;
+
+          let time = date
+            .startOf('day')
+            .plus({ hour: 1 })
+            .setZone(origin.timezone, { keepLocalTime: true });
+
           for (let k = 0; k <= numFlights; k += 1) {
-            flights.push(gen.flight(origin, destination));
+            time = time.plus({ hours: flightTimeOffset, minutes: gen.random(-20, 20) });
+            flights.push(gen.flight(origin, destination, time));
           }
         }
       }

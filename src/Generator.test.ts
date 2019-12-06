@@ -1,4 +1,5 @@
 import 'jest';
+import { DateTime } from 'luxon';
 import Generator from './Generator';
 import airports from './Data/airports';
 
@@ -31,12 +32,13 @@ describe('Random seed generator ', () => {
     const seed = '2020-01-01';
     const origin = airports[0];
     const destination = airports[1];
+    const departureTime = DateTime.utc();
 
     const generator1 = new Generator(seed);
-    const values1 = new Array(10).fill(null).map(() => generator1.flight(origin, destination));
+    const values1 = new Array(10).fill(null).map(() => generator1.flight(origin, destination, departureTime));
 
     const generator2 = new Generator(seed);
-    const values2 = new Array(10).fill(null).map(() => generator2.flight(origin, destination));
+    const values2 = new Array(10).fill(null).map(() => generator2.flight(origin, destination, departureTime));
 
     expect(values1).toEqual(values2);
   });

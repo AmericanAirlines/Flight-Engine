@@ -1,4 +1,5 @@
 import 'jest';
+import { DateTime } from 'luxon';
 import Generator from './Generator';
 import airports from './Data/airports';
 import FlightCache from './FlightCache';
@@ -20,9 +21,11 @@ describe('FlightCache ', () => {
   it('should return flights for a cache hit on date', () => {
     const numFlights = 10;
     const generator = new Generator(sampleDate);
+    const departureTime = DateTime.utc();
+
     const flights = Array(numFlights)
       .fill(null)
-      .map(() => generator.flight(origin, destination));
+      .map(() => generator.flight(origin, destination, departureTime));
 
     FlightCache.cacheFlights(sampleDate, flights);
     const cachedFlights = FlightCache.getFlights(sampleDate);
