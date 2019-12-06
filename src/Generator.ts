@@ -1,5 +1,6 @@
 import seedrandom from 'seedrandom';
 import haversine from 'haversine-distance';
+import { DateTime } from 'luxon';
 import aircraft from './Data/aircraft';
 
 const createRandomGenerator = (seed: string): (() => number) => {
@@ -15,8 +16,11 @@ const createRandomGenerator = (seed: string): (() => number) => {
   };
 };
 
+// Convert meters to miles
+const metersToMiles = (num: number): number => num / 1609.344;
+
 // Determine miles value for distance between two locations (lat/lon)
-const calcDistance = (a: Location, b: Location): number => Math.round(haversine(a, b) / 1609.344);
+const calcDistance = (a: Location, b: Location): number => Math.round(metersToMiles(haversine(a, b)));
 
 export default class Generator {
   random: (min?: number, max?: number) => number;
@@ -39,7 +43,7 @@ export default class Generator {
   }
 
   // Randomly generate a flight for the given origin and destination
-  flight(origin: Airport, destination: Airport): Flight {
+  flight(origin: Airport, destination: Airport, departureTime: DateTime): Flight {
     // Generate a random flight number
     const flightNumber: string = this.random(1, 9999)
       .toFixed(0)
@@ -61,12 +65,16 @@ export default class Generator {
     duration.hours = Math.floor(duration.hours);
     duration.locale = `${duration.hours}h ${duration.minutes}m`;
 
+    const arrivalTime = departureTime.plus({ hours: duration.hours, minutes: duration.minutes }).setZone(destination.timezone);
+
     return {
       flightNumber,
       origin,
       destination,
       distance,
       duration,
+      departureTime: departureTime.toISO(),
+      arrivalTime: arrivalTime.toISO(),
       aircraft: randAircraft,
     };
   }
