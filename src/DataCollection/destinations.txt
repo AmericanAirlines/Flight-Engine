@@ -1,0 +1,1969 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>List of American Airlines destinations - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XiC2HApAAEUAAAW-qmMAAABH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"List_of_American_Airlines_destinations","wgTitle":"List of American Airlines destinations","wgCurRevisionId":936107788,"wgRevisionId":936107788,"wgArticleId":1216578,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing potentially dated statements from December 2019","All articles containing potentially dated statements","Lists of airline destinations",
+"Oneworld destinations","American Airlines"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"List_of_American_Airlines_destinations","wgRelevantArticleId":1216578,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1053234","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.15"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_American_Airlines_destinations"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_American_Airlines_destinations&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_American_Airlines_destinations&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_American_Airlines_destinations"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_American_Airlines_destinations rootpage-List_of_American_Airlines_destinations skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">List of American Airlines destinations</h1>
+
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+
+
+
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><a href="/wiki/American_Airlines" title="American Airlines">American Airlines</a> flies to 95 domestic destinations and 95 international destinations in 55 countries (as of December&#160;2019<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=List_of_American_Airlines_destinations&amp;action=edit">&#91;update&#93;</a></sup>). The list includes the city, country, and the airport's name, with the airline's hubs, seasonal destinations, and previously served destinations marked where applicable. This list does not include airports served by only <a href="/wiki/American_Eagle_(airline_brand)" title="American Eagle (airline brand)">American Eagle</a>, the airline's regional brand.
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Country (Province/State)
+</th>
+<th>City
+</th>
+<th>Airport
+</th>
+<th>Notes
+</th>
+<th class="unsortable">Refs
+</th></tr>
+<tr>
+<td>Antigua and Barbuda</td>
+<td><a href="/wiki/St._John%27s,_Antigua_and_Barbuda" title="St. John&#39;s, Antigua and Barbuda">Saint John's</a></td>
+<td><a href="/wiki/V._C._Bird_International_Airport" title="V. C. Bird International Airport">V. C. Bird International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">Argentina</td>
+<td><a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a></td>
+<td><a href="/wiki/Ministro_Pistarini_International_Airport" title="Ministro Pistarini International Airport">Ministro Pistarini International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/C%C3%B3rdoba,_Argentina" title="Córdoba, Argentina">Córdoba</a></td>
+<td><a href="/wiki/Ingeniero_Aeron%C3%A1utico_Ambrosio_L.V._Taravella_International_Airport" title="Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport">Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport</a></td>
+<td align="center"></td>
+<td align="center"><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Aruba</td>
+<td><a href="/wiki/Oranjestad,_Aruba" title="Oranjestad, Aruba">Oranjestad</a></td>
+<td><a href="/wiki/Queen_Beatrix_International_Airport" title="Queen Beatrix International Airport">Queen Beatrix International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Australia (<a href="/wiki/New_South_Wales" title="New South Wales">New South Wales</a>)</td>
+<td><a href="/wiki/Sydney" title="Sydney">Sydney</a></td>
+<td><a href="/wiki/Sydney_Airport" title="Sydney Airport">Sydney Airport</a></td>
+<td align="center"></td>
+<td align="center"><sup id="cite_ref-SYD_resumes_2-0" class="reference"><a href="#cite_note-SYD_resumes-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2">Bahamas</td>
+<td><a href="/wiki/Nassau,_Bahamas" title="Nassau, Bahamas">Nassau</a></td>
+<td><a href="/wiki/Lynden_Pindling_International_Airport" title="Lynden Pindling International Airport">Lynden Pindling International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Freeport,_Bahamas" title="Freeport, Bahamas">Freeport</a></td>
+<td><a href="/wiki/Freeport_International_Airport" class="mw-redirect" title="Freeport International Airport">Freeport International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Barbados</td>
+<td><a href="/wiki/Bridgetown" title="Bridgetown">Bridgetown</a></td>
+<td><a href="/wiki/Grantley_Adams_International_Airport" title="Grantley Adams International Airport">Grantley Adams International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Belgium</td>
+<td><a href="/wiki/Brussels" title="Brussels">Brussels</a></td>
+<td><a href="/wiki/Brussels_Airport" title="Brussels Airport">Brussels Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-EuroCuts_3-0" class="reference"><a href="#cite_note-EuroCuts-3">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Belize</td>
+<td><a href="/wiki/Belize_City" title="Belize City">Belize City</a></td>
+<td><a href="/wiki/Philip_S._W._Goldson_International_Airport" title="Philip S. W. Goldson International Airport">Philip S. W. Goldson International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Bermuda</td>
+<td><a href="/wiki/St._George%27s_Parish,_Bermuda" title="St. George&#39;s Parish, Bermuda">St. George's Parish</a></td>
+<td><a href="/wiki/L.F._Wade_International_Airport" title="L.F. Wade International Airport">L.F. Wade International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">Bolivia</td>
+<td><a href="/wiki/La_Paz" title="La Paz">La Paz</a></td>
+<td><a href="/wiki/El_Alto_International_Airport" title="El Alto International Airport">El Alto International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Santa_Cruz_de_la_Sierra" title="Santa Cruz de la Sierra">Santa Cruz de la Sierra</a></td>
+<td><a href="/wiki/Viru_Viru_International_Airport" title="Viru Viru International Airport">Viru Viru International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Bonaire</td>
+<td><a href="/wiki/Kralendijk" title="Kralendijk">Kralendijk</a></td>
+<td><a href="/wiki/Flamingo_International_Airport" title="Flamingo International Airport">Flamingo International Airport</a></td>
+<td align="center"></td>
+<td align="center"><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="9">Brazil</td>
+<td><a href="/wiki/Belo_Horizonte" title="Belo Horizonte">Belo Horizonte</a></td>
+<td><a href="/wiki/Tancredo_Neves_International_Airport" class="mw-redirect" title="Tancredo Neves International Airport">Tancredo Neves International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bras%C3%ADlia" title="Brasília">Brasília</a></td>
+<td><a href="/wiki/Bras%C3%ADlia_International_Airport" title="Brasília International Airport">Brasília International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Curitiba" title="Curitiba">Curitiba</a></td>
+<td><a href="/wiki/Afonso_Pena_International_Airport" title="Afonso Pena International Airport">Afonso Pena International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Manaus" title="Manaus">Manaus</a></td>
+<td><a href="/wiki/Eduardo_Gomes_International_Airport" title="Eduardo Gomes International Airport">Eduardo Gomes International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Porto_Alegre" title="Porto Alegre">Porto Alegre</a></td>
+<td><a href="/wiki/Salgado_Filho_International_Airport" title="Salgado Filho International Airport">Salgado Filho International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Recife" title="Recife">Recife</a></td>
+<td><a href="/wiki/Recife/Guararapes%E2%80%93Gilberto_Freyre_International_Airport" title="Recife/Guararapes–Gilberto Freyre International Airport">Recife/Guararapes–Gilberto Freyre International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-TripAdvisor_10-0" class="reference"><a href="#cite_note-TripAdvisor-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a></td>
+<td><a href="/wiki/Rio_de_Janeiro%E2%80%93Gale%C3%A3o_International_Airport" title="Rio de Janeiro–Galeão International Airport">Rio de Janeiro–Galeão International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Salvador_da_Bahia" class="mw-redirect" title="Salvador da Bahia">Salvador da Bahia</a></td>
+<td><a href="/wiki/Deputado_Lu%C3%ADs_Eduardo_Magalh%C3%A3es_International_Airport" title="Deputado Luís Eduardo Magalhães International Airport">Deputado Luís Eduardo Magalhães International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-TripAdvisor_10-1" class="reference"><a href="#cite_note-TripAdvisor-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a></td>
+<td><a href="/wiki/S%C3%A3o_Paulo%E2%80%93Guarulhos_International_Airport" title="São Paulo–Guarulhos International Airport">São Paulo–Guarulhos International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Canada (<a href="/wiki/Alberta" title="Alberta">Alberta</a>)</td>
+<td><a href="/wiki/Calgary" title="Calgary">Calgary</a></td>
+<td><a href="/wiki/Calgary_International_Airport" title="Calgary International Airport">Calgary International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Canada (<a href="/wiki/British_Columbia" title="British Columbia">British Columbia</a>)</td>
+<td><a href="/wiki/Vancouver" title="Vancouver">Vancouver</a></td>
+<td><a href="/wiki/Vancouver_International_Airport" title="Vancouver International Airport">Vancouver International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Canada (<a href="/wiki/Ontario" title="Ontario">Ontario</a>)</td>
+<td><a href="/wiki/Toronto" title="Toronto">Toronto</a></td>
+<td><a href="/wiki/Toronto_Pearson_International_Airport" title="Toronto Pearson International Airport">Toronto Pearson International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Canada (<a href="/wiki/Quebec" title="Quebec">Quebec</a>)</td>
+<td><a href="/wiki/Montreal" title="Montreal">Montreal</a></td>
+<td><a href="/wiki/Montr%C3%A9al%E2%80%93Pierre_Elliott_Trudeau_International_Airport" class="mw-redirect" title="Montréal–Pierre Elliott Trudeau International Airport">Montréal–Pierre Elliott Trudeau International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Cayman Islands</td>
+<td><a href="/wiki/George_Town,_Cayman_Islands" title="George Town, Cayman Islands">George Town</a></td>
+<td><a href="/wiki/Owen_Roberts_International_Airport" title="Owen Roberts International Airport">Owen Roberts International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Chile</td>
+<td><a href="/wiki/Santiago" title="Santiago">Santiago de Chile</a></td>
+<td><a href="/wiki/Arturo_Merino_Ben%C3%ADtez_International_Airport" title="Arturo Merino Benítez International Airport">Arturo Merino Benítez International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">China</td>
+<td><a href="/wiki/Beijing" title="Beijing">Beijing</a></td>
+<td><a href="/wiki/Beijing_Capital_International_Airport" title="Beijing Capital International Airport">Beijing Capital International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Shanghai" title="Shanghai">Shanghai</a></td>
+<td><a href="/wiki/Shanghai_Pudong_International_Airport" title="Shanghai Pudong International Airport">Shanghai Pudong International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="6">Colombia</td>
+<td><a href="/wiki/Barranquilla" title="Barranquilla">Barranquilla</a></td>
+<td><a href="/wiki/Ernesto_Cortissoz_International_Airport" title="Ernesto Cortissoz International Airport">Ernesto Cortissoz International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Bogot%C3%A1" title="Bogotá">Bogotá</a></td>
+<td><a href="/wiki/El_Dorado_International_Airport" title="El Dorado International Airport">El Dorado International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Cali" title="Cali">Cali</a></td>
+<td><a href="/wiki/Alfonso_Bonilla_Arag%C3%B3n_International_Airport" title="Alfonso Bonilla Aragón International Airport">Alfonso Bonilla Aragón International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Cartagena,_Colombia" title="Cartagena, Colombia">Cartagena</a></td>
+<td><a href="/wiki/Rafael_N%C3%BA%C3%B1ez_International_Airport" title="Rafael Núñez International Airport">Rafael Núñez International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Medell%C3%ADn" title="Medellín">Medellín</a></td>
+<td><a href="/wiki/Jos%C3%A9_Mar%C3%ADa_C%C3%B3rdova_International_Airport" title="José María Córdova International Airport">José María Córdova International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Pereira,_Colombia" title="Pereira, Colombia">Pereira</a></td>
+<td><a href="/wiki/Mateca%C3%B1a_International_Airport" title="Matecaña International Airport">Matecaña International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">Costa Rica</td>
+<td><a href="/wiki/Liberia" title="Liberia">Liberia</a></td>
+<td><a href="/wiki/Daniel_Oduber_Quir%C3%B3s_International_Airport" title="Daniel Oduber Quirós International Airport">Daniel Oduber Quirós International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/San_Jos%C3%A9,_Costa_Rica" title="San José, Costa Rica">San José</a></td>
+<td><a href="/wiki/Juan_Santamar%C3%ADa_International_Airport" title="Juan Santamaría International Airport">Juan Santamaría International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Croatia</td>
+<td><a href="/wiki/Dubrovnik" title="Dubrovnik">Dubrovnik</a></td>
+<td><a href="/wiki/Dubrovnik_Airport" title="Dubrovnik Airport">Dubrovnik Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center"><sup id="cite_ref-Euro19_11-0" class="reference"><a href="#cite_note-Euro19-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="6">Cuba</td>
+<td><a href="/wiki/Camag%C3%BCey" title="Camagüey">Camagüey</a></td>
+<td><a href="/wiki/Ignacio_Agramonte_International_Airport" title="Ignacio Agramonte International Airport">Ignacio Agramonte International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-aacubajune15_12-0" class="reference"><a href="#cite_note-aacubajune15-12">&#91;12&#93;</a></sup><sup id="cite_ref-Cuba2019_13-0" class="reference"><a href="#cite_note-Cuba2019-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Havana" title="Havana">Havana</a></td>
+<td><a href="/wiki/Jos%C3%A9_Mart%C3%AD_International_Airport" title="José Martí International Airport">José Martí International Airport</a></td>
+<td align="center"></td>
+<td align="center"><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Holgu%C3%ADn" title="Holguín">Holguín</a></td>
+<td><a href="/wiki/Frank_Pa%C3%ADs_Airport" title="Frank País Airport">Frank País Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-aacubajune15_12-1" class="reference"><a href="#cite_note-aacubajune15-12">&#91;12&#93;</a></sup><sup id="cite_ref-Cuba2019_13-1" class="reference"><a href="#cite_note-Cuba2019-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Santa_Clara,_Cuba" title="Santa Clara, Cuba">Santa Clara</a></td>
+<td><a href="/wiki/Abel_Santamar%C3%ADa_Airport" title="Abel Santamaría Airport">Abel Santamaría Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-aacubajune15_12-2" class="reference"><a href="#cite_note-aacubajune15-12">&#91;12&#93;</a></sup><sup id="cite_ref-Cuba2019_13-2" class="reference"><a href="#cite_note-Cuba2019-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Santiago_de_Cuba" title="Santiago de Cuba">Santiago de Cuba</a></td>
+<td><a href="/wiki/Antonio_Maceo_Airport" title="Antonio Maceo Airport">Antonio Maceo Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-Cuba2019_13-3" class="reference"><a href="#cite_note-Cuba2019-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Varadero" title="Varadero">Varadero</a></td>
+<td><a href="/wiki/Juan_Gualberto_G%C3%B3mez_Airport" title="Juan Gualberto Gómez Airport">Juan Gualberto Gómez Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-aacubajune15_12-3" class="reference"><a href="#cite_note-aacubajune15-12">&#91;12&#93;</a></sup><sup id="cite_ref-Cuba2019_13-4" class="reference"><a href="#cite_note-Cuba2019-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Curaçao</td>
+<td><a href="/wiki/Willemstad" title="Willemstad">Willemstad</a></td>
+<td><a href="/wiki/Cura%C3%A7ao_International_Airport" title="Curaçao International Airport">Curaçao International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Czech Republic</td>
+<td><a href="/wiki/Prague" title="Prague">Prague</a></td>
+<td><a href="/wiki/V%C3%A1clav_Havel_Airport_Prague" title="Václav Havel Airport Prague">Václav Havel Airport Prague</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center"><sup id="cite_ref-Budapest_and_Prague_17-0" class="reference"><a href="#cite_note-Budapest_and_Prague-17">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="5">Dominican Republic</td>
+<td><a href="/wiki/La_Romana_Province,_Dominican_Republic" title="La Romana Province, Dominican Republic">La Romana</a></td>
+<td><a href="/wiki/La_Romana_International_Airport" title="La Romana International Airport">La Romana International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Puerto_Plata,_Dominican_Republic" title="Puerto Plata, Dominican Republic">Puerto Plata</a></td>
+<td><a href="/wiki/Gregorio_Luper%C3%B3n_International_Airport" title="Gregorio Luperón International Airport">Gregorio Luperón International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Punta_Cana" title="Punta Cana">Punta Cana</a></td>
+<td><a href="/wiki/Punta_Cana_International_Airport" title="Punta Cana International Airport">Punta Cana International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Santiago_de_los_Caballeros" title="Santiago de los Caballeros">Santiago de los Caballeros</a></td>
+<td><a href="/wiki/Cibao_International_Airport" title="Cibao International Airport">Cibao International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Santo_Domingo" title="Santo Domingo">Santo Domingo</a></td>
+<td><a href="/wiki/Las_Am%C3%A9ricas_International_Airport" title="Las Américas International Airport">Las Américas International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">Ecuador</td>
+<td><a href="/wiki/Guayaquil" title="Guayaquil">Guayaquil</a></td>
+<td><a href="/wiki/Jos%C3%A9_Joaqu%C3%ADn_de_Olmedo_International_Airport" title="José Joaquín de Olmedo International Airport">José Joaquín de Olmedo International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Quito" title="Quito">Quito</a></td>
+<td><a href="/wiki/Mariscal_Sucre_International_Airport" title="Mariscal Sucre International Airport">Mariscal Sucre International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>El Salvador</td>
+<td><a href="/wiki/San_Salvador" title="San Salvador">San Salvador</a></td>
+<td><a href="/wiki/El_Salvador_International_Airport" title="El Salvador International Airport">El Salvador International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Finland</td>
+<td><a href="/wiki/Helsinki" title="Helsinki">Helsinki</a></td>
+<td><a href="/wiki/Helsinki_Airport" title="Helsinki Airport">Helsinki Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center">
+</td></tr>
+<tr>
+<td>France</td>
+<td><a href="/wiki/Paris" title="Paris">Paris</a></td>
+<td><a href="/wiki/Charles_de_Gaulle_Airport" title="Charles de Gaulle Airport">Charles de Gaulle Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="4">Germany</td>
+<td><a href="/wiki/Berlin" title="Berlin">Berlin</a></td>
+<td><a href="/wiki/Berlin_Tegel_Airport" title="Berlin Tegel Airport">Berlin Tegel Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center"><sup id="cite_ref-Euro19_11-1" class="reference"><a href="#cite_note-Euro19-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></td>
+<td><a href="/wiki/D%C3%BCsseldorf_Airport" title="Düsseldorf Airport">Düsseldorf Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-EuroCuts_3-1" class="reference"><a href="#cite_note-EuroCuts-3">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></td>
+<td><a href="/wiki/Frankfurt_Airport" title="Frankfurt Airport">Frankfurt Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Munich" title="Munich">Munich</a></td>
+<td><a href="/wiki/Munich_Airport" title="Munich Airport">Munich Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Guadeloupe</td>
+<td><a href="/wiki/Pointe-%C3%A0-Pitre" title="Pointe-à-Pitre">Pointe-à-Pitre</a></td>
+<td><a href="/wiki/Pointe-%C3%A0-Pitre_International_Airport" title="Pointe-à-Pitre International Airport">Pointe-à-Pitre International Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Greece</td>
+<td><a href="/wiki/Athens" title="Athens">Athens</a></td>
+<td><a href="/wiki/Athens_International_Airport" title="Athens International Airport">Athens International Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Grenada</td>
+<td><a href="/wiki/St._George%27s,_Grenada" title="St. George&#39;s, Grenada">St. George's</a></td>
+<td><a href="/wiki/Maurice_Bishop_International_Airport" title="Maurice Bishop International Airport">Maurice Bishop International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Guatemala</td>
+<td><a href="/wiki/Guatemala_City" title="Guatemala City">Guatemala City</a></td>
+<td><a href="/wiki/La_Aurora_International_Airport" title="La Aurora International Airport">La Aurora International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Guyana</td>
+<td><a href="/wiki/Georgetown,_Guyana" title="Georgetown, Guyana">Georgetown</a></td>
+<td><a href="/wiki/Cheddi_Jagan_International_Airport" title="Cheddi Jagan International Airport">Cheddi Jagan International Airport</a></td>
+<td align="center"></td>
+<td align="center"><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2">Haiti</td>
+<td><a href="/wiki/Cap-Ha%C3%AFtien" title="Cap-Haïtien">Cap-Haïtien</a></td>
+<td><a href="/wiki/Hugo_Ch%C3%A1vez_International_Airport" class="mw-redirect" title="Hugo Chávez International Airport">Hugo Chávez International Airport</a></td>
+<td align="center"></td>
+<td align="center"><sup id="cite_ref-aa_19-0" class="reference"><a href="#cite_note-aa-19">&#91;19&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Port-au-Prince" title="Port-au-Prince">Port-au-Prince</a></td>
+<td><a href="/wiki/Toussaint_Louverture_International_Airport" title="Toussaint Louverture International Airport">Toussaint Louverture International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="3">Honduras</td>
+<td><a href="/wiki/Roat%C3%A1n" title="Roatán">Roatán</a></td>
+<td><a href="/wiki/Juan_Manuel_G%C3%A1lvez_International_Airport" title="Juan Manuel Gálvez International Airport">Juan Manuel Gálvez International Airport</a></td>
+<td align="center"></td>
+<td align="center"><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/San_Pedro_Sula" title="San Pedro Sula">San Pedro Sula</a></td>
+<td><a href="/wiki/La_Mesa_International_Airport" class="mw-redirect" title="La Mesa International Airport">La Mesa International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Tegucigalpa" title="Tegucigalpa">Tegucigalpa</a></td>
+<td><a href="/wiki/Toncont%C3%ADn_International_Airport" title="Toncontín International Airport">Toncontín International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Hong Kong</td>
+<td><a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a></td>
+<td><a href="/wiki/Hong_Kong_International_Airport" title="Hong Kong International Airport">Hong Kong International Airport</a></td>
+<td align="center"></td>
+<td align="center"><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Hungary</td>
+<td><a href="/wiki/Budapest" title="Budapest">Budapest</a></td>
+<td><a href="/wiki/Budapest_Ferenc_Liszt_International_Airport" title="Budapest Ferenc Liszt International Airport">Budapest Ferenc Liszt International Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center"><sup id="cite_ref-Budapest_and_Prague_17-1" class="reference"><a href="#cite_note-Budapest_and_Prague-17">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Iceland</td>
+<td><a href="/wiki/Reykjav%C3%ADk" title="Reykjavík">Reykjavík</a></td>
+<td><a href="/wiki/Keflav%C3%ADk_International_Airport" title="Keflavík International Airport">Keflavík International Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center"><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</td></tr>
+<tr>
+<td>India</td>
+<td><a href="/wiki/Delhi" title="Delhi">Delhi</a></td>
+<td><a href="/wiki/Indira_Gandhi_International_Airport" title="Indira Gandhi International Airport">Indira Gandhi International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2">Ireland</td>
+<td><a href="/wiki/Dublin" title="Dublin">Dublin</a></td>
+<td><a href="/wiki/Dublin_Airport" title="Dublin Airport">Dublin Airport</a></td>
+<td align="center"></td>
+<td align="center"><sup id="cite_ref-AA_24-0" class="reference"><a href="#cite_note-AA-24">&#91;24&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Shannon,_County_Clare" title="Shannon, County Clare">Shannon</a></td>
+<td><a href="/wiki/Shannon_Airport" title="Shannon Airport">Shannon Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center"><sup id="cite_ref-AA_24-1" class="reference"><a href="#cite_note-AA-24">&#91;24&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Israel</td>
+<td><a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a></td>
+<td><a href="/wiki/Ben_Gurion_International_Airport" class="mw-redirect" title="Ben Gurion International Airport">Ben Gurion International Airport</a></td>
+<td style="background:#FFD1DC; color: black; vertical-align: middle; text-align: center;" class="active table-siteactive">Resumes September 9, 2020</td>
+<td align="center"><sup id="cite_ref-Aug2019_25-0" class="reference"><a href="#cite_note-Aug2019-25">&#91;25&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="4">Italy</td>
+<td><a href="/wiki/Bologna" title="Bologna">Bologna</a></td>
+<td><a href="/wiki/Bologna_Guglielmo_Marconi_Airport" title="Bologna Guglielmo Marconi Airport">Bologna Guglielmo Marconi Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-Euro19_11-2" class="reference"><a href="#cite_note-Euro19-11">&#91;11&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Milan" title="Milan">Milan</a></td>
+<td><a href="/wiki/Milan_Malpensa_Airport" title="Milan Malpensa Airport">Milan Malpensa Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Rome" title="Rome">Rome</a></td>
+<td><a href="/wiki/Leonardo_da_Vinci%E2%80%93Fiumicino_Airport" title="Leonardo da Vinci–Fiumicino Airport">Leonardo da Vinci–Fiumicino Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Venice" title="Venice">Venice</a></td>
+<td><a href="/wiki/Venice_Marco_Polo_Airport" title="Venice Marco Polo Airport">Venice Marco Polo Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center"><sup id="cite_ref-AA_24-2" class="reference"><a href="#cite_note-AA-24">&#91;24&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2">Jamaica</td>
+<td><a href="/wiki/Kingston,_Jamaica" title="Kingston, Jamaica">Kingston</a></td>
+<td><a href="/wiki/Norman_Manley_International_Airport" title="Norman Manley International Airport">Norman Manley International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Montego_Bay" title="Montego Bay">Montego Bay</a></td>
+<td><a href="/wiki/Sangster_International_Airport" title="Sangster International Airport">Sangster International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="4">Japan</td>
+<td><a href="/wiki/Nagoya" title="Nagoya">Nagoya</a></td>
+<td><a href="/wiki/Chubu_Centrair_International_Airport" title="Chubu Centrair International Airport">Chubu Centrair International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Osaka" title="Osaka">Osaka</a></td>
+<td><a href="/wiki/Kansai_International_Airport" title="Kansai International Airport">Kansai International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Tokyo" title="Tokyo">Tokyo</a></td>
+<td><a href="/wiki/Haneda_Airport" title="Haneda Airport">Haneda Airport</a></td>
+<td align="center"></td>
+<td align="center"><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Narita_International_Airport" title="Narita International Airport">Narita International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Martinique</td>
+<td><a href="/wiki/Fort-de-France" title="Fort-de-France">Fort-de-France</a></td>
+<td><a href="/wiki/Martinique_Aim%C3%A9_C%C3%A9saire_International_Airport" title="Martinique Aimé Césaire International Airport">Martinique Aimé Césaire International Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Mexico (<a href="/wiki/Baja_California_del_Sur" class="mw-redirect" title="Baja California del Sur">Baja California del Sur</a>)</td>
+<td><a href="/wiki/San_Jos%C3%A9_del_Cabo" title="San José del Cabo">San José del Cabo</a></td>
+<td><a href="/wiki/Los_Cabos_International_Airport" title="Los Cabos International Airport">Los Cabos International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Mexico (<a href="/wiki/State_of_Mexico" title="State of Mexico">Mexico</a>)</td>
+<td><a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a></td>
+<td><a href="/wiki/Mexico_City_International_Airport" title="Mexico City International Airport">Mexico City International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Mexico (<a href="/wiki/Guerrero" title="Guerrero">Guerrero</a>)</td>
+<td><a href="/wiki/Zihuatanejo" title="Zihuatanejo">Zihuatanejo</a></td>
+<td><a href="/wiki/Ixtapa-Zihuatanejo_International_Airport" title="Ixtapa-Zihuatanejo International Airport">Ixtapa-Zihuatanejo International Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">Mexico (<a href="/wiki/Jalisco" title="Jalisco">Jalisco</a>)</td>
+<td><a href="/wiki/Guadalajara" title="Guadalajara">Guadalajara</a></td>
+<td><a href="/wiki/Miguel_Hidalgo_y_Costilla_Guadalajara_International_Airport" title="Miguel Hidalgo y Costilla Guadalajara International Airport">Miguel Hidalgo y Costilla Guadalajara International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Puerto_Vallarta" title="Puerto Vallarta">Puerto Vallarta</a></td>
+<td><a href="/wiki/Licenciado_Gustavo_D%C3%ADaz_Ordaz_International_Airport" title="Licenciado Gustavo Díaz Ordaz International Airport">Licenciado Gustavo Díaz Ordaz International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Mexico (<a href="/wiki/Oaxaca" title="Oaxaca">Oaxaca</a>)</td>
+<td><a href="/wiki/Oaxaca" title="Oaxaca">Oaxaca</a></td>
+<td><a href="/wiki/Oaxaca_International_Airport" title="Oaxaca International Airport">Oaxaca International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Mexico (<a href="/wiki/Puebla" title="Puebla">Puebla</a>)</td>
+<td><a href="/wiki/Puebla" title="Puebla">Puebla</a></td>
+<td><a href="/wiki/Puebla_International_Airport" title="Puebla International Airport">Puebla International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">Mexico (<a href="/wiki/Quintana_Roo" title="Quintana Roo">Quintana Roo</a>)</td>
+<td><a href="/wiki/Canc%C3%BAn" title="Cancún">Cancún</a></td>
+<td><a href="/wiki/Canc%C3%BAn_International_Airport" title="Cancún International Airport">Cancún International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Cozumel" title="Cozumel">Cozumel</a></td>
+<td><a href="/wiki/Cozumel_International_Airport" title="Cozumel International Airport">Cozumel International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Morocco</td>
+<td><a href="/wiki/Casablanca" title="Casablanca">Casablanca</a></td>
+<td><a href="/wiki/Mohammed_V_International_Airport" title="Mohammed V International Airport">Mohammed V International Airport</a></td>
+<td style="background:#FFD1DC; color: black; vertical-align: middle; text-align: center;" class="active table-siteactive">Begins June 4, 2020</td>
+<td align="center"><sup id="cite_ref-Aug2019_25-1" class="reference"><a href="#cite_note-Aug2019-25">&#91;25&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Netherlands</td>
+<td><a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a></td>
+<td><a href="/wiki/Amsterdam_Airport_Schiphol" title="Amsterdam Airport Schiphol">Amsterdam Airport Schiphol</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">New Zealand</td>
+<td><a href="/wiki/Auckland" title="Auckland">Auckland</a></td>
+<td><a href="/wiki/Auckland_Airport" title="Auckland Airport">Auckland Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center"><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Christchurch" title="Christchurch">Christchurch</a></td>
+<td><a href="/wiki/Christchurch_Airport" title="Christchurch Airport">Christchurch Airport</a></td>
+<td style="background:#FFD1DC; color: black; vertical-align: middle; text-align: center;" class="active table-siteactive">Begins October 25, 2020</td>
+<td align="center"><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Nicaragua</td>
+<td><a href="/wiki/Managua" title="Managua">Managua</a></td>
+<td><a href="/wiki/Augusto_C._Sandino_International_Airport" title="Augusto C. Sandino International Airport">Augusto C. Sandino International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Panama</td>
+<td><a href="/wiki/Panama_City" title="Panama City">Panama City</a></td>
+<td><a href="/wiki/Tocumen_International_Airport" title="Tocumen International Airport">Tocumen International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Paraguay</td>
+<td><a href="/wiki/Asunci%C3%B3n" title="Asunción">Asunción</a></td>
+<td><a href="/wiki/Silvio_Pettirossi_International_Airport" title="Silvio Pettirossi International Airport">Silvio Pettirossi International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Peru</td>
+<td><a href="/wiki/Lima" title="Lima">Lima</a></td>
+<td><a href="/wiki/Jorge_Ch%C3%A1vez_International_Airport" title="Jorge Chávez International Airport">Jorge Chávez International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Poland</td>
+<td><a href="/wiki/Krakow" class="mw-redirect" title="Krakow">Krakow</a></td>
+<td><a href="/wiki/Krak%C3%B3w_John_Paul_II_International_Airport" title="Kraków John Paul II International Airport">Kraków John Paul II International Airport</a></td>
+<td style="background:#FFD1DC; color: black; vertical-align: middle; text-align: center;" class="active table-siteactive">Begins May 7, 2020</td>
+<td align="center"><sup id="cite_ref-Aug2019_25-2" class="reference"><a href="#cite_note-Aug2019-25">&#91;25&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Portugal</td>
+<td><a href="/wiki/Lisbon" title="Lisbon">Lisbon</a></td>
+<td><a href="/wiki/Lisbon_Airport" title="Lisbon Airport">Lisbon Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Russia</td>
+<td><a href="/wiki/Moscow" title="Moscow">Moscow</a></td>
+<td><a href="/wiki/Domodedovo_International_Airport" class="mw-redirect" title="Domodedovo International Airport">Domodedovo International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Saint Kitts and Nevis</td>
+<td><a href="/wiki/Basseterre" title="Basseterre">Basseterre</a></td>
+<td><a href="/wiki/Robert_L._Bradshaw_International_Airport" title="Robert L. Bradshaw International Airport">Robert L. Bradshaw International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Saint Lucia</td>
+<td><a href="/wiki/Vieux_Fort,_Saint_Lucia" title="Vieux Fort, Saint Lucia">Vieux Fort</a></td>
+<td><a href="/wiki/Hewanorra_International_Airport" title="Hewanorra International Airport">Hewanorra International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Saint Vincent and the Grenadines</td>
+<td><a href="/wiki/Kingstown" title="Kingstown">Kingstown</a></td>
+<td><a href="/wiki/Argyle_International_Airport" title="Argyle International Airport">Argyle International Airport</a></td>
+<td align="center"></td>
+<td align="center"><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Sint Maarten</td>
+<td><a href="/wiki/Philipsburg,_Sint_Maarten" title="Philipsburg, Sint Maarten">Philipsburg</a></td>
+<td><a href="/wiki/Princess_Juliana_International_Airport" title="Princess Juliana International Airport">Princess Juliana International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>South Korea</td>
+<td><a href="/wiki/Seoul" title="Seoul">Seoul</a></td>
+<td><a href="/wiki/Incheon_International_Airport" title="Incheon International Airport">Incheon International Airport</a></td>
+<td align="center"></td>
+<td align="center"><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2">Spain</td>
+<td><a href="/wiki/Barcelona" title="Barcelona">Barcelona</a></td>
+<td><a href="/wiki/Barcelona%E2%80%93El_Prat_Josep_Tarradellas_Airport" title="Barcelona–El Prat Josep Tarradellas Airport">Barcelona–El Prat Josep Tarradellas Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Madrid" title="Madrid">Madrid</a></td>
+<td><a href="/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport" title="Adolfo Suárez Madrid–Barajas Airport">Adolfo Suárez Madrid–Barajas Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Switzerland</td>
+<td><a href="/wiki/Z%C3%BCrich" title="Zürich">Zürich</a></td>
+<td><a href="/wiki/Zurich_Airport" title="Zurich Airport">Zurich Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Trinidad and Tobago</td>
+<td><a href="/wiki/Port_of_Spain" title="Port of Spain">Port of Spain</a></td>
+<td><a href="/wiki/Piarco_International_Airport" title="Piarco International Airport">Piarco International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Turks and Caicos Islands</td>
+<td><a href="/wiki/Providenciales" title="Providenciales">Providenciales</a></td>
+<td><a href="/wiki/Providenciales_International_Airport" title="Providenciales International Airport">Providenciales International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="4">United Kingdom (<a href="/wiki/England" title="England">England</a>)</td>
+<td><a href="/wiki/Birmingham" title="Birmingham">Birmingham</a></td>
+<td><a href="/wiki/Birmingham_Airport" title="Birmingham Airport">Birmingham Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-EuroCuts_3-2" class="reference"><a href="#cite_note-EuroCuts-3">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/London" title="London">London</a></td>
+<td><a href="/wiki/Gatwick_Airport" title="Gatwick Airport">Gatwick Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Heathrow_Airport" title="Heathrow Airport">Heathrow Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Manchester" title="Manchester">Manchester</a></td>
+<td><a href="/wiki/Manchester_Airport" title="Manchester Airport">Manchester Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United Kingdom (<a href="/wiki/Scotland" title="Scotland">Scotland</a>)</td>
+<td><a href="/wiki/Edinburgh" title="Edinburgh">Edinburgh</a></td>
+<td><a href="/wiki/Edinburgh_Airport" title="Edinburgh Airport">Edinburgh Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center"><sup id="cite_ref-EDIBHX_35-0" class="reference"><a href="#cite_note-EDIBHX-35">&#91;35&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Glasgow" title="Glasgow">Glasgow</a></td>
+<td><a href="/wiki/Glasgow_Airport" title="Glasgow Airport">Glasgow Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-Euro19_11-3" class="reference"><a href="#cite_note-Euro19-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/Alaska" title="Alaska">Alaska</a>)</td>
+<td><a href="/wiki/Anchorage" class="mw-redirect" title="Anchorage">Anchorage</a></td>
+<td><a href="/wiki/Ted_Stevens_Anchorage_International_Airport" title="Ted Stevens Anchorage International Airport">Ted Stevens Anchorage International Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Fairbanks" class="mw-redirect" title="Fairbanks">Fairbanks</a></td>
+<td><a href="/wiki/Fairbanks_International_Airport" title="Fairbanks International Airport">Fairbanks International Airport</a></td>
+<td style="background:#FFD1DC; color: black; vertical-align: middle; text-align: center;" class="active table-siteactive">Begins May 7, 2020</td>
+<td align="center"><sup id="cite_ref-ktuu.com_36-0" class="reference"><a href="#cite_note-ktuu.com-36">&#91;36&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/Arizona" title="Arizona">Arizona</a>)</td>
+<td><a href="/wiki/Phoenix,_Arizona" title="Phoenix, Arizona">Phoenix</a></td>
+<td><a href="/wiki/Phoenix_Sky_Harbor_International_Airport" title="Phoenix Sky Harbor International Airport">Phoenix Sky Harbor International Airport</a></td>
+<td style="background: #FFE6BD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><b><a href="/wiki/Airline_hub" title="Airline hub">Hub</a></b></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Tucson" class="mw-redirect" title="Tucson">Tucson</a></td>
+<td><a href="/wiki/Tucson_International_Airport" title="Tucson International Airport">Tucson International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Arkansas" title="Arkansas">Arkansas</a>)</td>
+<td><a href="/wiki/Bentonville,_Arkansas" title="Bentonville, Arkansas">Bentonville</a></td>
+<td><a href="/wiki/Northwest_Arkansas_Regional_Airport" class="mw-redirect" title="Northwest Arkansas Regional Airport">Northwest Arkansas Regional Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="12">United States (<a href="/wiki/California" title="California">California</a>)</td>
+<td><a href="/wiki/Burbank,_California" title="Burbank, California">Burbank</a></td>
+<td><a href="/wiki/Hollywood_Burbank_Airport" title="Hollywood Burbank Airport">Hollywood Burbank Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Fresno" class="mw-redirect" title="Fresno">Fresno</a></td>
+<td><a href="/wiki/Fresno_Yosemite_International_Airport" title="Fresno Yosemite International Airport">Fresno Yosemite International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a></td>
+<td><a href="/wiki/Los_Angeles_International_Airport" title="Los Angeles International Airport">Los Angeles International Airport</a></td>
+<td style="background: #FFE6BD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><b><a href="/wiki/Airline_hub" title="Airline hub">Hub</a></b></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Oakland,_California" title="Oakland, California">Oakland</a></td>
+<td><a href="/wiki/Oakland_International_Airport" title="Oakland International Airport">Oakland International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Ontario,_California" title="Ontario, California">Ontario</a></td>
+<td><a href="/wiki/Ontario_International_Airport" title="Ontario International Airport">Ontario International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Palm_Springs" class="mw-redirect" title="Palm Springs">Palm Springs</a></td>
+<td><a href="/wiki/Palm_Springs_International_Airport" title="Palm Springs International Airport">Palm Springs International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Sacramento" class="mw-redirect" title="Sacramento">Sacramento</a></td>
+<td><a href="/wiki/Sacramento_International_Airport" title="Sacramento International Airport">Sacramento International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/San_Diego" title="San Diego">San Diego</a></td>
+<td><a href="/wiki/San_Diego_International_Airport" title="San Diego International Airport">San Diego International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a></td>
+<td><a href="/wiki/San_Francisco_International_Airport" title="San Francisco International Airport">San Francisco International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/San_Jose,_California" title="San Jose, California">San Jose</a></td>
+<td><a href="/wiki/San_Jose_International_Airport" title="San Jose International Airport">San Jose International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Santa_Ana,_California" title="Santa Ana, California">Santa Ana</a></td>
+<td><a href="/wiki/John_Wayne_Airport" title="John Wayne Airport">John Wayne Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Santa_Barbara,_California" title="Santa Barbara, California">Santa Barbara</a></td>
+<td><a href="/wiki/Santa_Barbara_Municipal_Airport" title="Santa Barbara Municipal Airport">Santa Barbara Municipal Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="5">United States (<a href="/wiki/Colorado" title="Colorado">Colorado</a>)</td>
+<td><a href="/wiki/Colorado_Springs" class="mw-redirect" title="Colorado Springs">Colorado Springs</a></td>
+<td><a href="/wiki/Colorado_Springs_Airport" title="Colorado Springs Airport">Colorado Springs Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Denver" title="Denver">Denver</a></td>
+<td><a href="/wiki/Denver_International_Airport" title="Denver International Airport">Denver International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Hayden,_Colorado" title="Hayden, Colorado">Hayden</a></td>
+<td><a href="/wiki/Yampa_Valley_Airport" title="Yampa Valley Airport">Yampa Valley Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Montrose,_Colorado" title="Montrose, Colorado">Montrose</a></td>
+<td><a href="/wiki/Montrose_Regional_Airport" title="Montrose Regional Airport">Montrose Regional Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Vail" class="mw-redirect" title="Vail">Vail</a></td>
+<td><a href="/wiki/Eagle_County_Regional_Airport" title="Eagle County Regional Airport">Eagle County Regional Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Connecticut" title="Connecticut">Connecticut</a>)</td>
+<td><a href="/wiki/Hartford" class="mw-redirect" title="Hartford">Hartford</a></td>
+<td><a href="/wiki/Bradley_International_Airport" title="Bradley International Airport">Bradley International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/District_of_Columbia" class="mw-redirect" title="District of Columbia">District of Columbia</a>)</td>
+<td rowspan="2"><a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a></td>
+<td><a href="/wiki/Washington_Dulles_International_Airport" title="Washington Dulles International Airport">Washington Dulles International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Ronald_Reagan_Washington_National_Airport" class="mw-redirect" title="Ronald Reagan Washington National Airport">Ronald Reagan Washington National Airport</a></td>
+<td style="background: #FFE6BD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><b><a href="/wiki/Airline_hub" title="Airline hub">Hub</a></b></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="8">United States (<a href="/wiki/Florida" title="Florida">Florida</a>)</td>
+<td><a href="/wiki/Fort_Lauderdale" class="mw-redirect" title="Fort Lauderdale">Fort Lauderdale</a></td>
+<td><a href="/wiki/Fort_Lauderdale%E2%80%93Hollywood_International_Airport" title="Fort Lauderdale–Hollywood International Airport">Fort Lauderdale–Hollywood International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Fort_Myers" class="mw-redirect" title="Fort Myers">Fort Myers</a></td>
+<td><a href="/wiki/Southwest_Florida_International_Airport" title="Southwest Florida International Airport">Southwest Florida International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Jacksonville" class="mw-redirect" title="Jacksonville">Jacksonville</a></td>
+<td><a href="/wiki/Jacksonville_International_Airport" title="Jacksonville International Airport">Jacksonville International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Miami" title="Miami">Miami</a></td>
+<td><a href="/wiki/Miami_International_Airport" title="Miami International Airport">Miami International Airport</a></td>
+<td style="background: #FFE6BD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><b><a href="/wiki/Airline_hub" title="Airline hub">Hub</a></b></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Orlando" class="mw-redirect" title="Orlando">Orlando</a></td>
+<td><a href="/wiki/Orlando_International_Airport" title="Orlando International Airport">Orlando International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Pensacola" class="mw-redirect" title="Pensacola">Pensacola</a></td>
+<td><a href="/wiki/Pensacola_International_Airport" title="Pensacola International Airport">Pensacola International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Tampa" class="mw-redirect" title="Tampa">Tampa</a></td>
+<td><a href="/wiki/Tampa_International_Airport" title="Tampa International Airport">Tampa International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/West_Palm_Beach" class="mw-redirect" title="West Palm Beach">West Palm Beach</a></td>
+<td><a href="/wiki/Palm_Beach_International_Airport" title="Palm Beach International Airport">Palm Beach International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a>)</td>
+<td><a href="/wiki/Atlanta" title="Atlanta">Atlanta</a></td>
+<td><a href="/wiki/Hartsfield%E2%80%93Jackson_Atlanta_International_Airport" title="Hartsfield–Jackson Atlanta International Airport">Hartsfield–Jackson Atlanta International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="4">United States (<a href="/wiki/Hawaii" title="Hawaii">Hawaii</a>)</td>
+<td><a href="/wiki/Honolulu" title="Honolulu">Honolulu</a></td>
+<td><a href="/wiki/Daniel_K._Inouye_International_Airport" title="Daniel K. Inouye International Airport">Daniel K. Inouye International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Kahului" class="mw-redirect" title="Kahului">Kahului</a></td>
+<td><a href="/wiki/Kahului_Airport" title="Kahului Airport">Kahului Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Kailua,_Hawaii_County,_Hawaii" title="Kailua, Hawaii County, Hawaii">Kailua-Kona</a></td>
+<td><a href="/wiki/Kona_International_Airport" title="Kona International Airport">Kona International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Lihue" class="mw-redirect" title="Lihue">Lihue</a></td>
+<td><a href="/wiki/Lihue_Airport" title="Lihue Airport">Lihue Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Idaho" title="Idaho">Idaho</a>)</td>
+<td><a href="/wiki/Boise" class="mw-redirect" title="Boise">Boise</a></td>
+<td><a href="/wiki/Boise_Airport" title="Boise Airport">Boise Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Illinois" title="Illinois">Illinois</a>)</td>
+<td><a href="/wiki/Chicago" title="Chicago">Chicago</a></td>
+<td><a href="/wiki/O%27Hare_International_Airport" title="O&#39;Hare International Airport">O'Hare International Airport</a></td>
+<td style="background: #FFE6BD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><b><a href="/wiki/Airline_hub" title="Airline hub">Hub</a></b></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Indiana" title="Indiana">Indiana</a>)</td>
+<td><a href="/wiki/Indianapolis" title="Indianapolis">Indianapolis</a></td>
+<td><a href="/wiki/Indianapolis_International_Airport" title="Indianapolis International Airport">Indianapolis International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Iowa" title="Iowa">Iowa</a>)</td>
+<td><a href="/wiki/Des_Moines" class="mw-redirect" title="Des Moines">Des Moines</a></td>
+<td><a href="/wiki/Des_Moines_International_Airport" title="Des Moines International Airport">Des Moines International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Kansas" title="Kansas">Kansas</a>)</td>
+<td><a href="/wiki/Wichita,_Kansas" title="Wichita, Kansas">Wichita</a></td>
+<td><a href="/wiki/Wichita_Dwight_D._Eisenhower_National_Airport" title="Wichita Dwight D. Eisenhower National Airport">Wichita Dwight D. Eisenhower National Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Kentucky" title="Kentucky">Kentucky</a>)</td>
+<td><a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">Louisville</a></td>
+<td><a href="/wiki/Louisville_International_Airport" title="Louisville International Airport">Louisville International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/Louisiana" title="Louisiana">Louisiana</a>)</td>
+<td><a href="/wiki/Baton_Rouge" class="mw-redirect" title="Baton Rouge">Baton Rouge</a></td>
+<td><a href="/wiki/Baton_Rouge_Metropolitan_Airport" title="Baton Rouge Metropolitan Airport">Baton Rouge Metropolitan Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a></td>
+<td><a href="/wiki/Louis_Armstrong_New_Orleans_International_Airport" title="Louis Armstrong New Orleans International Airport">Louis Armstrong New Orleans International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Maine" title="Maine">Maine</a>)</td>
+<td><a href="/wiki/Portland,_Maine" title="Portland, Maine">Portland</a></td>
+<td><a href="/wiki/Portland_International_Jetport" title="Portland International Jetport">Portland International Jetport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Maryland" title="Maryland">Maryland</a>)</td>
+<td><a href="/wiki/Baltimore" title="Baltimore">Baltimore</a></td>
+<td><a href="/wiki/Baltimore%E2%80%93Washington_International_Airport" title="Baltimore–Washington International Airport">Baltimore–Washington International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>)</td>
+<td><a href="/wiki/Boston" title="Boston">Boston</a></td>
+<td><a href="/wiki/Logan_International_Airport" title="Logan International Airport">Logan International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Worcester,_Massachusetts" title="Worcester, Massachusetts">Worcester</a></td>
+<td><a href="/wiki/Worcester_Regional_Airport" title="Worcester Regional Airport">Worcester Regional Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Michigan" title="Michigan">Michigan</a>)</td>
+<td><a href="/wiki/Detroit" title="Detroit">Detroit</a></td>
+<td><a href="/wiki/Detroit_Metropolitan_Airport" title="Detroit Metropolitan Airport">Detroit Metropolitan Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Minnesota" title="Minnesota">Minnesota</a>)</td>
+<td><a href="/wiki/Minneapolis" title="Minneapolis">Minneapolis</a></td>
+<td><a href="/wiki/Minneapolis%E2%88%92Saint_Paul_International_Airport" class="mw-redirect" title="Minneapolis−Saint Paul International Airport">Minneapolis−Saint Paul International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/Missouri" title="Missouri">Missouri</a>)</td>
+<td><a href="/wiki/Kansas_City,_Missouri" title="Kansas City, Missouri">Kansas City</a></td>
+<td><a href="/wiki/Kansas_City_International_Airport" title="Kansas City International Airport">Kansas City International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/St._Louis" title="St. Louis">St. Louis</a></td>
+<td><a href="/wiki/St._Louis_Lambert_International_Airport" title="St. Louis Lambert International Airport">St. Louis Lambert International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/Montana" title="Montana">Montana</a>)</td>
+<td><a href="/wiki/Bozeman,_Montana" title="Bozeman, Montana">Bozeman</a></td>
+<td><a href="/wiki/Bozeman_Yellowstone_International_Airport" title="Bozeman Yellowstone International Airport">Bozeman Yellowstone International Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Missoula,_Montana" title="Missoula, Montana">Missoula</a>
+</td>
+<td><a href="/wiki/Missoula_International_Airport" title="Missoula International Airport">Missoula International Airport</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Nebraska" title="Nebraska">Nebraska</a>)</td>
+<td><a href="/wiki/Omaha" class="mw-redirect" title="Omaha">Omaha</a></td>
+<td><a href="/wiki/Eppley_Airfield" title="Eppley Airfield">Eppley Airfield</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/Nevada" title="Nevada">Nevada</a>)</td>
+<td><a href="/wiki/Las_Vegas" title="Las Vegas">Las Vegas</a></td>
+<td><a href="/wiki/McCarran_International_Airport" title="McCarran International Airport">McCarran International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Reno" class="mw-redirect" title="Reno">Reno</a></td>
+<td><a href="/wiki/Reno%E2%80%93Tahoe_International_Airport" title="Reno–Tahoe International Airport">Reno–Tahoe International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>)</td>
+<td><a href="/wiki/Newark,_New_Jersey" title="Newark, New Jersey">Newark</a></td>
+<td><a href="/wiki/Newark_Liberty_International_Airport" title="Newark Liberty International Airport">Newark Liberty International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/New_Mexico" title="New Mexico">New Mexico</a>)</td>
+<td><a href="/wiki/Albuquerque" class="mw-redirect" title="Albuquerque">Albuquerque</a></td>
+<td><a href="/wiki/Albuquerque_International_Sunport" title="Albuquerque International Sunport">Albuquerque International Sunport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Santa_Fe,_New_Mexico" title="Santa Fe, New Mexico">Santa Fe</a></td>
+<td><a href="/wiki/Santa_Fe_Municipal_Airport" class="mw-redirect" title="Santa Fe Municipal Airport">Santa Fe Municipal Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="6">United States (<a href="/wiki/New_York_(state)" title="New York (state)">New York</a>)</td>
+<td><a href="/wiki/Albany,_New_York" title="Albany, New York">Albany</a></td>
+<td><a href="/wiki/Albany_International_Airport" title="Albany International Airport">Albany International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Buffalo,_New_York" title="Buffalo, New York">Buffalo</a></td>
+<td><a href="/wiki/Buffalo_Niagara_International_Airport" title="Buffalo Niagara International Airport">Buffalo Niagara International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/New_York_City" title="New York City">New York City</a></td>
+<td><a href="/wiki/John_F._Kennedy_International_Airport" title="John F. Kennedy International Airport">John F. Kennedy International Airport</a></td>
+<td style="background: #FFE6BD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><b><a href="/wiki/Airline_hub" title="Airline hub">Hub</a></b></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/LaGuardia_Airport" title="LaGuardia Airport">LaGuardia Airport</a></td>
+<td style="background: #FFE6BD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><b><a href="/wiki/Airline_hub" title="Airline hub">Hub</a></b></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Rochester,_New_York" title="Rochester, New York">Rochester</a></td>
+<td><a href="/wiki/Greater_Rochester_International_Airport" title="Greater Rochester International Airport">Greater Rochester International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Syracuse,_New_York" title="Syracuse, New York">Syracuse</a></td>
+<td><a href="/wiki/Syracuse_Hancock_International_Airport" title="Syracuse Hancock International Airport">Syracuse Hancock International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="4">United States (<a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a>)</td>
+<td><a href="/wiki/Charlotte" class="mw-redirect" title="Charlotte">Charlotte</a></td>
+<td><a href="/wiki/Charlotte_Douglas_International_Airport" title="Charlotte Douglas International Airport">Charlotte Douglas International Airport</a></td>
+<td style="background: #FFE6BD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><b><a href="/wiki/Airline_hub" title="Airline hub">Hub</a></b></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Greensboro" class="mw-redirect" title="Greensboro">Greensboro</a></td>
+<td><a href="/wiki/Piedmont_Triad_International_Airport" title="Piedmont Triad International Airport">Piedmont Triad International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Raleigh" class="mw-redirect" title="Raleigh">Raleigh</a></td>
+<td><a href="/wiki/Raleigh%E2%80%93Durham_International_Airport" title="Raleigh–Durham International Airport">Raleigh–Durham International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Wilmington,_North_Carolina" title="Wilmington, North Carolina">Wilmington</a></td>
+<td><a href="/wiki/Wilmington_International_Airport" title="Wilmington International Airport">Wilmington International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/North_Dakota" title="North Dakota">North Dakota</a>)</td>
+<td><a href="/wiki/Bismarck,_North_Dakota" title="Bismarck, North Dakota">Bismarck</a></td>
+<td><a href="/wiki/Bismarck_Municipal_Airport" title="Bismarck Municipal Airport">Bismarck Municipal Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Fargo,_North_Dakota" title="Fargo, North Dakota">Fargo</a></td>
+<td><a href="/wiki/Hector_International_Airport" title="Hector International Airport">Hector International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="6">United States (<a href="/wiki/Ohio" title="Ohio">Ohio</a>)</td>
+<td><a href="/wiki/Akron,_Ohio" title="Akron, Ohio">Akron</a></td>
+<td><a href="/wiki/Akron%E2%80%93Canton_Regional_Airport" class="mw-redirect" title="Akron–Canton Regional Airport">Akron–Canton Regional Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Cincinnati" title="Cincinnati">Cincinnati</a></td>
+<td><a href="/wiki/Cincinnati/Northern_Kentucky_International_Airport" title="Cincinnati/Northern Kentucky International Airport">Cincinnati/Northern Kentucky International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Cleveland" title="Cleveland">Cleveland</a></td>
+<td><a href="/wiki/Cleveland_Hopkins_International_Airport" title="Cleveland Hopkins International Airport">Cleveland Hopkins International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Columbus,_Ohio" title="Columbus, Ohio">Columbus</a></td>
+<td><a href="/wiki/John_Glenn_Columbus_International_Airport" title="John Glenn Columbus International Airport">John Glenn Columbus International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Dayton" class="mw-redirect" title="Dayton">Dayton</a></td>
+<td><a href="/wiki/Dayton_International_Airport" title="Dayton International Airport">Dayton International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Toledo,_Ohio" title="Toledo, Ohio">Toledo</a></td>
+<td><a href="/wiki/Toledo_Express_Airport" title="Toledo Express Airport">Toledo Express Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/Oklahoma" title="Oklahoma">Oklahoma</a>)</td>
+<td><a href="/wiki/Oklahoma_City" title="Oklahoma City">Oklahoma City</a></td>
+<td><a href="/wiki/Will_Rogers_World_Airport" title="Will Rogers World Airport">Will Rogers World Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Tulsa" class="mw-redirect" title="Tulsa">Tulsa</a></td>
+<td><a href="/wiki/Tulsa_International_Airport" title="Tulsa International Airport">Tulsa International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/Oregon" title="Oregon">Oregon</a>)</td>
+<td><a href="/wiki/Portland,_Oregon" title="Portland, Oregon">Portland</a></td>
+<td><a href="/wiki/Portland_International_Airport" title="Portland International Airport">Portland International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Redmond,_Oregon" title="Redmond, Oregon">Redmond</a></td>
+<td><a href="/wiki/Redmond_Municipal_Airport" class="mw-redirect" title="Redmond Municipal Airport">Redmond Municipal Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="3">United States (<a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>)</td>
+<td><a href="/wiki/Harrisburg" class="mw-redirect" title="Harrisburg">Harrisburg</a></td>
+<td><a href="/wiki/Harrisburg_International_Airport" title="Harrisburg International Airport">Harrisburg International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a></td>
+<td><a href="/wiki/Philadelphia_International_Airport" title="Philadelphia International Airport">Philadelphia International Airport</a></td>
+<td style="background: #FFE6BD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><b><a href="/wiki/Airline_hub" title="Airline hub">Hub</a></b></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Pittsburgh" title="Pittsburgh">Pittsburgh</a></td>
+<td><a href="/wiki/Pittsburgh_International_Airport" title="Pittsburgh International Airport">Pittsburgh International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>)</td>
+<td><a href="/wiki/San_Juan,_Puerto_Rico" title="San Juan, Puerto Rico">San Juan</a></td>
+<td><a href="/wiki/Luis_Mu%C3%B1oz_Mar%C3%ADn_International_Airport" title="Luis Muñoz Marín International Airport">Luis Muñoz Marín International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Rhode_Island" title="Rhode Island">Rhode Island</a>)</td>
+<td><a href="/wiki/Providence,_Rhode_Island" title="Providence, Rhode Island">Providence</a></td>
+<td><a href="/wiki/T._F._Green_Airport" title="T. F. Green Airport">T. F. Green Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="3">United States (<a href="/wiki/Tennessee" title="Tennessee">Tennessee</a>)</td>
+<td><a href="/wiki/Knoxville" class="mw-redirect" title="Knoxville">Knoxville</a></td>
+<td><a href="/wiki/McGhee_Tyson_Airport" title="McGhee Tyson Airport">McGhee Tyson Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Memphis,_Tennessee" title="Memphis, Tennessee">Memphis</a></td>
+<td><a href="/wiki/Memphis_International_Airport" title="Memphis International Airport">Memphis International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Nashville" class="mw-redirect" title="Nashville">Nashville</a></td>
+<td><a href="/wiki/Nashville_International_Airport" title="Nashville International Airport">Nashville International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="6">United States (<a href="/wiki/Texas" title="Texas">Texas</a>)</td>
+<td><a href="/wiki/Austin" class="mw-redirect" title="Austin">Austin</a></td>
+<td><a href="/wiki/Austin%E2%80%93Bergstrom_International_Airport" title="Austin–Bergstrom International Airport">Austin–Bergstrom International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Dallas" title="Dallas">Dallas</a></td>
+<td><a href="/wiki/Dallas/Fort_Worth_International_Airport" title="Dallas/Fort Worth International Airport">Dallas/Fort Worth International Airport</a></td>
+<td style="background: #FFE6BD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><b><a href="/wiki/Airline_hub" title="Airline hub">Hub</a></b></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/El_Paso" class="mw-redirect" title="El Paso">El Paso</a></td>
+<td><a href="/wiki/El_Paso_International_Airport" title="El Paso International Airport">El Paso International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Houston" title="Houston">Houston</a></td>
+<td><a href="/wiki/George_Bush_Intercontinental_Airport" title="George Bush Intercontinental Airport">George Bush Intercontinental Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/William_P._Hobby_Airport" title="William P. Hobby Airport">William P. Hobby Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/San_Antonio" title="San Antonio">San Antonio</a></td>
+<td><a href="/wiki/San_Antonio_International_Airport" title="San Antonio International Airport">San Antonio International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Utah" title="Utah">Utah</a>)</td>
+<td><a href="/wiki/Salt_Lake_City" title="Salt Lake City">Salt Lake City</a></td>
+<td><a href="/wiki/Salt_Lake_City_International_Airport" title="Salt Lake City International Airport">Salt Lake City International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/U.S._Virgin_Islands" class="mw-redirect" title="U.S. Virgin Islands">U.S. Virgin Islands</a>)</td>
+<td><a href="/wiki/Saint_Croix" title="Saint Croix">Saint Croix</a></td>
+<td><a href="/wiki/Henry_E._Rohlsen_Airport" title="Henry E. Rohlsen Airport">Henry E. Rohlsen Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Saint_Thomas,_U.S._Virgin_Islands" title="Saint Thomas, U.S. Virgin Islands">Saint Thomas</a></td>
+<td><a href="/wiki/Cyril_E._King_Airport" title="Cyril E. King Airport">Cyril E. King Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/Virginia" title="Virginia">Virginia</a>)</td>
+<td><a href="/wiki/Norfolk,_Virginia" title="Norfolk, Virginia">Norfolk</a></td>
+<td><a href="/wiki/Norfolk_International_Airport" title="Norfolk International Airport">Norfolk International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Richmond,_Virginia" title="Richmond, Virginia">Richmond</a></td>
+<td><a href="/wiki/Richmond_International_Airport" title="Richmond International Airport">Richmond International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="2">United States (<a href="/wiki/Washington_(state)" title="Washington (state)">Washington</a>)</td>
+<td><a href="/wiki/Seattle" title="Seattle">Seattle</a></td>
+<td><a href="/wiki/Seattle%E2%80%93Tacoma_International_Airport" title="Seattle–Tacoma International Airport">Seattle–Tacoma International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td><a href="/wiki/Spokane" class="mw-redirect" title="Spokane">Spokane</a></td>
+<td><a href="/wiki/Spokane_International_Airport" title="Spokane International Airport">Spokane International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a>)</td>
+<td><a href="/wiki/Milwaukee" title="Milwaukee">Milwaukee</a></td>
+<td><a href="/wiki/Milwaukee_Mitchell_International_Airport" title="Milwaukee Mitchell International Airport">Milwaukee Mitchell International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>United States (<a href="/wiki/Wyoming" title="Wyoming">Wyoming</a>)</td>
+<td><a href="/wiki/Jackson,_Wyoming" title="Jackson, Wyoming">Jackson</a></td>
+<td><a href="/wiki/Jackson_Hole_Airport" title="Jackson Hole Airport">Jackson Hole Airport</a></td>
+<td style="background: #DDFFDD; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped"><i>Seasonal</i></td>
+<td align="center">
+</td></tr>
+<tr>
+<td>Uruguay</td>
+<td><a href="/wiki/Montevideo" title="Montevideo">Montevideo</a></td>
+<td><a href="/wiki/Carrasco_International_Airport" title="Carrasco International Airport">Carrasco International Airport</a></td>
+<td align="center"></td>
+<td align="center">
+</td></tr>
+<tr>
+<td rowspan="3">Venezuela</td>
+<td><a href="/wiki/Caracas" title="Caracas">Caracas</a></td>
+<td><a href="/wiki/Sim%C3%B3n_Bol%C3%ADvar_International_Airport_(Venezuela)" title="Simón Bolívar International Airport (Venezuela)">Simón Bolívar International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup><sup id="cite_ref-AA_VEN_38-0" class="reference"><a href="#cite_note-AA_VEN-38">&#91;38&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Maracaibo" title="Maracaibo">Maracaibo</a></td>
+<td><a href="/wiki/La_Chinita_International_Airport" title="La Chinita International Airport">La Chinita International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-AA_VEN_38-1" class="reference"><a href="#cite_note-AA_VEN-38">&#91;38&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Valencia" title="Valencia">Valencia</a></td>
+<td><a href="/wiki/Arturo_Michelena_International_Airport" title="Arturo Michelena International Airport">Arturo Michelena International Airport</a></td>
+<td style="background: #EDF; color: black; vertical-align: middle; text-align: center;" class="dropped table-dropped">Terminated</td>
+<td align="center"><sup id="cite_ref-AA_VEN_38-2" class="reference"><a href="#cite_note-AA_VEN-38">&#91;38&#93;</a></sup>
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_American_Airlines_destinations&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_American_Eagle_Airlines_destinations" title="List of American Eagle Airlines destinations">List of American Eagle Airlines destinations</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_American_Airlines_destinations&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Liu, Jim (December 19, 2018). <a rel="nofollow" class="external text" href="https://www.routesonline.com/news/38/airlineroute/282056/american-delays-miami-cordoba-launch-to-june-2019/">"American delays Miami – Cordoba launch to June 2019"</a>. <i>Routesonline</i>. UBM (UK) Ltd<span class="reference-accessdate">. Retrieved <span class="nowrap">December 19,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Routesonline&amp;rft.atitle=American+delays+Miami+%E2%80%93+Cordoba+launch+to+June+2019&amp;rft.date=2018-12-19&amp;rft.aulast=Liu&amp;rft.aufirst=Jim&amp;rft_id=https%3A%2F%2Fwww.routesonline.com%2Fnews%2F38%2Fairlineroute%2F282056%2Famerican-delays-miami-cordoba-launch-to-june-2019%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-SYD_resumes-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-SYD_resumes_2-0">^</a></b></span> <span class="reference-text">{{cite
+news|url=<a rel="nofollow" class="external free" href="http://australianaviation.com.au/2015/06/american-to-operate-syd-lax-qantas-returns-to-sfo/%7Ctitle=">http://australianaviation.com.au/2015/06/american-to-operate-syd-lax-qantas-returns-to-sfo/%7Ctitle=</a> American Airlines to operate SYD-LAX, Qantas returning to SFO|work=Australian Aviation|date=June 10, 2015}}</span>
+</li>
+<li id="cite_note-EuroCuts-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-EuroCuts_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EuroCuts_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EuroCuts_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Liu, Jim (September 11, 2016). <a rel="nofollow" class="external text" href="http://www.routesonline.com/news/38/airlineroute/268803/american-adds-new-international-routes-in-s17/">"American adds new International routes in S17"</a>. <i>Routesonline</i>. UBM (UK) Ltd.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Routesonline&amp;rft.atitle=American+adds+new+International+routes+in+S17&amp;rft.date=2016-09-11&amp;rft.aulast=Liu&amp;rft.aufirst=Jim&amp;rft_id=http%3A%2F%2Fwww.routesonline.com%2Fnews%2F38%2Fairlineroute%2F268803%2Famerican-adds-new-international-routes-in-s17%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Yeo, Ghim-Lay (February 26, 2018). <a rel="nofollow" class="external text" href="https://www.flightglobal.com/news/articles/american-to-drop-la-paz-in-july-446234/">"American Airlines will drop La Paz in Bolivia from its network beginning 4 July, in response to insufficient market demand"</a>. <i><a href="/wiki/FlightGlobal" title="FlightGlobal">FlightGlobal</a></i>. DVV Media International Limited<span class="reference-accessdate">. Retrieved <span class="nowrap">November 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FlightGlobal&amp;rft.atitle=American+Airlines+will+drop+La+Paz+in+Bolivia+from+its+network+beginning+4+July%2C+in+response+to+insufficient+market+demand.&amp;rft.date=2018-02-26&amp;rft.aulast=Yeo&amp;rft.aufirst=Ghim-Lay&amp;rft_id=https%3A%2F%2Fwww.flightglobal.com%2Fnews%2Farticles%2Famerican-to-drop-la-paz-in-july-446234%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Curley, Robert (July 30, 2019). <a rel="nofollow" class="external text" href="https://www.businesstraveller.com/business-travel/2019/07/30/american-airlines-ends-flights-to-bolivia/">"American Airlines ends flights to Bolivia"</a>. <i>Business Traveller</i>. Panacea Media Limited<span class="reference-accessdate">. Retrieved <span class="nowrap">November 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Business+Traveller&amp;rft.atitle=American+Airlines+ends+flights+to+Bolivia&amp;rft.date=2019-07-30&amp;rft.aulast=Curley&amp;rft.aufirst=Robert&amp;rft_id=https%3A%2F%2Fwww.businesstraveller.com%2Fbusiness-travel%2F2019%2F07%2F30%2Famerican-airlines-ends-flights-to-bolivia%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Liu, Jim (December 17, 2017). <a rel="nofollow" class="external text" href="https://www.routesonline.com/news/38/airlineroute/276251/american-adds-miami-bonaire-service-from-june-2018/">"American adds Miami – Bonaire service from June 2018"</a>. <i>Routesonline</i>. UBM (UK) Ltd.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Routesonline&amp;rft.atitle=American+adds+Miami+%E2%80%93+Bonaire+service+from+June+2018&amp;rft.date=2017-12-17&amp;rft.aulast=Liu&amp;rft.aufirst=Jim&amp;rft_id=https%3A%2F%2Fwww.routesonline.com%2Fnews%2F38%2Fairlineroute%2F276251%2Famerican-adds-miami-bonaire-service-from-june-2018%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Leff, Gary (March 27, 2018). <a rel="nofollow" class="external text" href="https://viewfromthewing.boardingarea.com/2018/03/27/heres-american-didnt-tell-new-latin-america-service-announcement/">"Here's What American Didn't Tell You In Their New Latin America Service Announcement"</a>. <i>View From The Wing</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 27,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=View+From+The+Wing&amp;rft.atitle=Here%27s+What+American+Didn%27t+Tell+You+In+Their+New+Latin+America+Service+Announcement&amp;rft.date=2018-03-27&amp;rft.aulast=Leff&amp;rft.aufirst=Gary&amp;rft_id=https%3A%2F%2Fviewfromthewing.boardingarea.com%2F2018%2F03%2F27%2Fheres-american-didnt-tell-new-latin-america-service-announcement%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.routesonline.com/news/38/airlineroute/251429/american-airlines-miami-brazil-service-changes-from-feb-2016/">"American Airlines Miami – Brazil Service Changes from Feb 2016"</a>. <i>Routesonline</i>. Informa Markets. October 14, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">November 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Routesonline&amp;rft.atitle=American+Airlines+Miami+%E2%80%93+Brazil+Service+Changes+from+Feb+2016&amp;rft.date=2015-10-14&amp;rft_id=https%3A%2F%2Fwww.routesonline.com%2Fnews%2F38%2Fairlineroute%2F251429%2Famerican-airlines-miami-brazil-service-changes-from-feb-2016%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.routesonline.com/news/38/airlineroute/253565/american-airlines-ends-porto-alegre-service-in-early-march-2016/">"American Airlines Ends Porto Alegre Service in early-March 2016"</a>. <i>Routesonline</i>. UBM (UK) Ltd. March 1, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">July 31,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Routesonline&amp;rft.atitle=American+Airlines+Ends+Porto+Alegre+Service+in+early-March+2016&amp;rft.date=2016-03-01&amp;rft_id=https%3A%2F%2Fwww.routesonline.com%2Fnews%2F38%2Fairlineroute%2F253565%2Famerican-airlines-ends-porto-alegre-service-in-early-march-2016%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-TripAdvisor-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-TripAdvisor_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TripAdvisor_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.tripadvisor.com/ShowTopic-g294280-i1045-k9394535-American_Air_cancels_Miami_to_Salvador_and_Recife_routes-Brazil.html">"American Air cancels Miami to Salvador and Recife routes"</a>. TripAdvisor. March 30, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">July 31,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Air+cancels+Miami+to+Salvador+and+Recife+routes&amp;rft.pub=TripAdvisor&amp;rft.date=2016-03-30&amp;rft_id=https%3A%2F%2Fwww.tripadvisor.com%2FShowTopic-g294280-i1045-k9394535-American_Air_cancels_Miami_to_Salvador_and_Recife_routes-Brazil.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-Euro19-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Euro19_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Euro19_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Euro19_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Euro19_11-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://news.aa.com/news/news-details/2018/American-Airlines-Expands-European-Footprint-and-Modifies-Asia-Service/">"American Airlines Expands European Footprint and Modifies Asia Service"</a>. <i>American Airlines Newsroom</i> (Press release). August 21, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 21,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+Expands+European+Footprint+and+Modifies+Asia+Service&amp;rft.date=2018-08-21&amp;rft_id=http%3A%2F%2Fnews.aa.com%2Fnews%2Fnews-details%2F2018%2FAmerican-Airlines-Expands-European-Footprint-and-Modifies-Asia-Service%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-aacubajune15-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-aacubajune15_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-aacubajune15_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-aacubajune15_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-aacubajune15_12-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Liu, Jim (June 15, 2016). <a rel="nofollow" class="external text" href="http://www.routesonline.com/news/38/airlineroute/267465/american-airlines-details-planned-cuba-schedule-from-sep-2016/">"American Airlines Details Planned Cuba Schedule from Sep 2016"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=American+Airlines+Details+Planned+Cuba+Schedule+from+Sep+2016&amp;rft.date=2016-06-15&amp;rft.aulast=Liu&amp;rft.aufirst=Jim&amp;rft_id=http%3A%2F%2Fwww.routesonline.com%2Fnews%2F38%2Fairlineroute%2F267465%2Famerican-airlines-details-planned-cuba-schedule-from-sep-2016%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-Cuba2019-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cuba2019_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cuba2019_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Cuba2019_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Cuba2019_13-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Cuba2019_13-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Gámez Torres, Nora (25 October 2019). <a rel="nofollow" class="external text" href="https://www.miamiherald.com/news/nation-world/world/americas/cuba/article236658748.html">"The Trump administration will end commercial flights to nine destinations in Cuba"</a>. <i>Miami Herald</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Miami+Herald&amp;rft.atitle=The+Trump+administration+will+end+commercial+flights+to+nine+destinations+in+Cuba&amp;rft.date=2019-10-25&amp;rft.aulast=G%C3%A1mez+Torres&amp;rft.aufirst=Nora&amp;rft_id=https%3A%2F%2Fwww.miamiherald.com%2Fnews%2Fnation-world%2Fworld%2Famericas%2Fcuba%2Farticle236658748.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dailynews.com/business/20150818/american-airlines-to-fly-from-lax-to-cuba">"American Airlines to fly from LAX to Cuba"</a>. <i>dailynews.com</i>. August 18, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">September 14,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=dailynews.com&amp;rft.atitle=American+Airlines+to+fly+from+LAX+to+Cuba&amp;rft.date=2015-08-18&amp;rft_id=http%3A%2F%2Fwww.dailynews.com%2Fbusiness%2F20150818%2Famerican-airlines-to-fly-from-lax-to-cuba&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Liu, Jim. <a rel="nofollow" class="external text" href="http://www.routesonline.com/news/38/airlineroute/268801/american-plans-late-nov-2016-havana-launch/">"American plans late-Nov 2016 Havana launch"</a>. <i>Routesonline</i>. UBM (UK) Ltd<span class="reference-accessdate">. Retrieved <span class="nowrap">11 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Routesonline&amp;rft.atitle=American+plans+late-Nov+2016+Havana+launch&amp;rft.aulast=Liu&amp;rft.aufirst=Jim&amp;rft_id=http%3A%2F%2Fwww.routesonline.com%2Fnews%2F38%2Fairlineroute%2F268801%2Famerican-plans-late-nov-2016-havana-launch%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.routesonline.com/news/38/airlineroute/280889/american-schedules-additional-international-routes-in-s19/">"American schedules additional international routes in S19"</a>. <i>Routesonline</i>. UBM (UK) Ltd. 8 October 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Routesonline&amp;rft.atitle=American+schedules+additional+international+routes+in+S19&amp;rft.date=2018-10-08&amp;rft_id=https%3A%2F%2Fwww.routesonline.com%2Fnews%2F38%2Fairlineroute%2F280889%2Famerican-schedules-additional-international-routes-in-s19%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-Budapest_and_Prague-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Budapest_and_Prague_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Budapest_and_Prague_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Loyd, Linda (August 16, 2017). <a rel="nofollow" class="external text" href="http://www.philly.com/philly/business/transportation/american-airlines-to-begin-nonstop-flights-from-phl-to-budapest-prague-next-summer-20170816.html">"American Airlines to begin nonstop flights from PHL to Budapest and Prague and restore a daily nonstop flight to Zurich"</a>. <i>The Philadelphia Inquirer</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Philadelphia+Inquirer&amp;rft.atitle=American+Airlines+to+begin+nonstop+flights+from+PHL+to+Budapest+and+Prague+and+restore+a+daily+nonstop+flight+to+Zurich&amp;rft.date=2017-08-16&amp;rft.aulast=Loyd&amp;rft.aufirst=Linda&amp;rft_id=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fbusiness%2Ftransportation%2Famerican-airlines-to-begin-nonstop-flights-from-phl-to-budapest-prague-next-summer-20170816.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.caribjournal.com/.../american-airlines-planning-guyana-launch-november">"American Airlines Planning Guyana Launch in November"</a>. Caribbean Journal. 31 May 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+Planning+Guyana+Launch+in+November&amp;rft.pub=Caribbean+Journal&amp;rft.date=2018-05-31&amp;rft_id=https%3A%2F%2Fwww.caribjournal.com%2F...%2Famerican-airlines-planning-guyana-launch-november&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-aa-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-aa_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Schaaf, Bryan. <a rel="nofollow" class="external text" href="https://www.haitiinnovation.org/american-airlines-offer-daily-direct-flights-cap-haïtien">"American Airlines to offer daily direct flights to Cap-Haitian"</a>. Haiti Innovation<span class="reference-accessdate">. Retrieved <span class="nowrap">April 1,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+to+offer+daily+direct+flights+to+Cap-Haitian&amp;rft.pub=Haiti+Innovation&amp;rft.aulast=Schaaf&amp;rft.aufirst=Bryan&amp;rft_id=https%3A%2F%2Fwww.haitiinnovation.org%2Famerican-airlines-offer-daily-direct-flights-cap-ha%C3%AFtien&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://news.aa.com/news/news-details/2013/American-Airlines-Begins-Nonstop-Service-Between-DallasFt-Worth-and-Roatan-Honduras-Increases-Service-Between-Miami-and-Roatan/default.aspx">"American Airlines Begins Nonstop Service Between Dallas/Ft. Worth and Roatan, Honduras; Increases Service Between Miami and Roatan"</a>. <i>American Airlines Newsroom</i> (Press release). November 23, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">November 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+Begins+Nonstop+Service+Between+Dallas%2FFt.+Worth+and+Roatan%2C+Honduras%3B+Increases+Service+Between+Miami+and+Roatan&amp;rft.date=2013-11-23&amp;rft_id=http%3A%2F%2Fnews.aa.com%2Fnews%2Fnews-details%2F2013%2FAmerican-Airlines-Begins-Nonstop-Service-Between-DallasFt-Worth-and-Roatan-Honduras-Increases-Service-Between-Miami-and-Roatan%2Fdefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://airlineroute.net/2013/12/16/aa-dfwhkg-jun14/">"American Airlines to Start Dallas – Hong Kong Service from June 2014"</a>. Airlineroute. December 16, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">December 17,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+to+Start+Dallas+%E2%80%93+Hong+Kong+Service+from+June+2014&amp;rft.pub=Airlineroute&amp;rft.date=2013-12-16&amp;rft_id=http%3A%2F%2Fairlineroute.net%2F2013%2F12%2F16%2Faa-dfwhkg-jun14%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://news.aa.com/news/news-details/2017/American-Airlines-Announces-New-Service-to-Reykjavik-Iceland-11142017/default.aspx">"American Airlines Announces New Service to Reykjavik, Iceland"</a>. <i>American Airlines Newsroom</i> (Press release). November 14, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+Announces+New+Service+to+Reykjavik%2C+Iceland&amp;rft.date=2017-11-14&amp;rft_id=http%3A%2F%2Fnews.aa.com%2Fnews%2Fnews-details%2F2017%2FAmerican-Airlines-Announces-New-Service-to-Reykjavik-Iceland-11142017%2Fdefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Choudhury, Uttara (December 20, 2014). <a rel="nofollow" class="external text" href="https://www.firstpost.com/business/american-airlines-to-stop-flying-to-india-sack-150-workers-184613.html">"American Airlines to stop flying to India, sacks 150 workers"</a>. <i>Firstpost</i>. Network18 Media &amp; Investment Ltd.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Firstpost&amp;rft.atitle=American+Airlines+to+stop+flying+to+India%2C+sacks+150+workers&amp;rft.date=2014-12-20&amp;rft.aulast=Choudhury&amp;rft.aufirst=Uttara&amp;rft_id=https%3A%2F%2Fwww.firstpost.com%2Fbusiness%2Famerican-airlines-to-stop-flying-to-india-sack-150-workers-184613.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-AA-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-AA_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AA_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AA_24-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.prnewswire.com/news-releases/american-airlines-adjusts-international-winter-schedule-269425731.html">"American Airlines Adjusts International Winter Schedule"</a> (Press release). PR Newswire Association LLC<span class="reference-accessdate">. Retrieved <span class="nowrap">July 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+Adjusts+International+Winter+Schedule&amp;rft.pub=PR+Newswire+Association+LLC&amp;rft_id=http%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Famerican-airlines-adjusts-international-winter-schedule-269425731.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-Aug2019-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Aug2019_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Aug2019_25-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Aug2019_25-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Casey, David (August 8, 2019). <a rel="nofollow" class="external text" href="https://www.routesonline.com/news/29/breaking-news/285781/american-airlines-to-add-first-africa-route-alongside-eastern-europe-and-tel-aviv-expansion/">"American Airlines to launch first Africa route alongside Eastern Europe and Tel Aviv expansion"</a>. <i>Routesonline</i>. Informa Markets.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Routesonline&amp;rft.atitle=American+Airlines+to+launch+first+Africa+route+alongside+Eastern+Europe+and+Tel+Aviv+expansion&amp;rft.date=2019-08-08&amp;rft.aulast=Casey&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fwww.routesonline.com%2Fnews%2F29%2Fbreaking-news%2F285781%2Famerican-airlines-to-add-first-africa-route-alongside-eastern-europe-and-tel-aviv-expansion%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web">Dunn, Catherine (August 30, 2019). <a rel="nofollow" class="external text" href="https://www.inquirer.com/business/american-airlines-new-routes-philadelphia-europe-africa-florida-20190830.html">"From Florida to Casablanca, a look at American Airlines' Philly strategy"</a>. <i>The Philadelphia Inquirer</i>. The Philadelphia Inquirer, LLC.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Philadelphia+Inquirer&amp;rft.atitle=From+Florida+to+Casablanca%2C+a+look+at+American+Airlines%E2%80%99+Philly+strategy&amp;rft.date=2019-08-30&amp;rft.aulast=Dunn&amp;rft.aufirst=Catherine&amp;rft_id=https%3A%2F%2Fwww.inquirer.com%2Fbusiness%2Famerican-airlines-new-routes-philadelphia-europe-africa-florida-20190830.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web">Skertic, Mark (October 1, 2005). <a rel="nofollow" class="external text" href="http://articles.chicagotribune.com/2005-10-01/business/0510010145_1_american-airlines-northwest-airlines-mary-frances-fagan">"American Airlines to end flights to Nagoya, Japan"</a>. Chicago Tribune<span class="reference-accessdate">. Retrieved <span class="nowrap">July 31,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+to+end+flights+to+Nagoya%2C+Japan&amp;rft.pub=Chicago+Tribune&amp;rft.date=2005-10-01&amp;rft.aulast=Skertic&amp;rft.aufirst=Mark&amp;rft_id=http%3A%2F%2Farticles.chicagotribune.com%2F2005-10-01%2Fbusiness%2F0510010145_1_american-airlines-northwest-airlines-mary-frances-fagan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://americanairlines.gcs-web.com/news-releases/news-release-details/american-airlines-launch-service-between-los-angeles-and-tokyo">"American Airlines To Launch Service Between Los Angeles And Tokyo Haneda In February 2016"</a>. <i>American Airlines Investor Relations</i> (Press release). November 4, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">November 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+To+Launch+Service+Between+Los+Angeles+And+Tokyo+Haneda+In+February+2016&amp;rft.date=2015-11-04&amp;rft_id=https%3A%2F%2Famericanairlines.gcs-web.com%2Fnews-releases%2Fnews-release-details%2Famerican-airlines-launch-service-between-los-angeles-and-tokyo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://airlineroute.net/2015/12/17/sn-skg-s16/">"American Airlines Opens Los Angeles - Auckland Route Reservation due late-June 2016"</a>. <i>Airlineroute</i>. November 22, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">November 22,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Airlineroute&amp;rft.atitle=American+Airlines+Opens+Los+Angeles+-+Auckland+Route+Reservation+due+late-June+2016&amp;rft.date=2015-11-22&amp;rft_id=http%3A%2F%2Fairlineroute.net%2F2015%2F12%2F17%2Fsn-skg-s16%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation news">Bradley, Grant (12 April 2017). <a rel="nofollow" class="external text" href="https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;objectid=11837619">"American Airlines suspends flying to NZ for two months, puts on bigger Dreamliner"</a>. <i>NZ Herald</i>. NZME. Publishing Limited.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NZ+Herald&amp;rft.atitle=American+Airlines+suspends+flying+to+NZ+for+two+months%2C+puts+on+bigger+Dreamliner&amp;rft.date=2017-04-12&amp;rft.aulast=Bradley&amp;rft.aufirst=Grant&amp;rft_id=https%3A%2F%2Fwww.nzherald.co.nz%2Fbusiness%2Fnews%2Farticle.cfm%3Fc_id%3D3%26objectid%3D11837619&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web">Lake, Dan (October 29, 2019). <a rel="nofollow" class="external text" href="https://www.newshub.co.nz/home/travel/2019/10/american-airlines-announces-christchurch-los-angeles-auckland-dallas-services.html/">"American Airlines announces Christchurch-Los Angeles, Auckland-Dallas services"</a>. <i>Newshub</i>. MediaWorks TV.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Newshub&amp;rft.atitle=American+Airlines+announces+Christchurch-Los+Angeles%2C+Auckland-Dallas+services&amp;rft.date=2019-10-29&amp;rft.aulast=Lake&amp;rft.aufirst=Dan&amp;rft_id=https%3A%2F%2Fwww.newshub.co.nz%2Fhome%2Ftravel%2F2019%2F10%2Famerican-airlines-announces-christchurch-los-angeles-auckland-dallas-services.html%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.kontinent.org/american-airlines-to-begin-service-from-chicago-to-moscow-2ytjs">"American Airlines To Begin Service From Chicago To Moscow"</a>. <i>Новый Континент</i>. КОНТИНЕНТ 4U. June 13, 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9+%D0%9A%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82&amp;rft.atitle=American+Airlines+To+Begin+Service+From+Chicago+To+Moscow&amp;rft.date=2008-06-13&amp;rft_id=http%3A%2F%2Fwww.kontinent.org%2Famerican-airlines-to-begin-service-from-chicago-to-moscow-2ytjs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web">Major, Brian (June 5, 2019). <a rel="nofollow" class="external text" href="https://www.travelpulse.com/news/airlines/american-airlines-expands-st-vincent-service.html">"American Airlines Expands St. Vincent Service"</a>. <i>TravelPulse</i>. Northstar Travel Media, LLC<span class="reference-accessdate">. Retrieved <span class="nowrap">November 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TravelPulse&amp;rft.atitle=American+Airlines+Expands+St.+Vincent+Service&amp;rft.date=2019-06-05&amp;rft.aulast=Major&amp;rft.aufirst=Brian&amp;rft_id=https%3A%2F%2Fwww.travelpulse.com%2Fnews%2Fairlines%2Famerican-airlines-expands-st-vincent-service.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://dfwairport.mediaroom.com/American-Airlines-Launches-New-Daily-Nonstop-Service-from-DFW-Airport-to-Seoul-South-Korea">"American Airlines Launches New Daily Nonstop Service from DFW Airport to Seoul, South Korea"</a>. <i>DFW Airport News Releases</i> (Press release). DFW International Airport. May 9, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">November 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+Launches+New+Daily+Nonstop+Service+from+DFW+Airport+to+Seoul%2C+South+Korea&amp;rft.pub=DFW+International+Airport&amp;rft.date=2013-05-09&amp;rft_id=http%3A%2F%2Fdfwairport.mediaroom.com%2FAmerican-Airlines-Launches-New-Daily-Nonstop-Service-from-DFW-Airport-to-Seoul-South-Korea&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-EDIBHX-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-EDIBHX_35-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://airlineroute.net/2014/11/01/aa-s15europe-update1/">"American Airlines Expands European Service in S15"</a>. Airlineroute. November 1, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+Expands+European+Service+in+S15&amp;rft.pub=Airlineroute&amp;rft.date=2014-11-01&amp;rft_id=http%3A%2F%2Fairlineroute.net%2F2014%2F11%2F01%2Faa-s15europe-update1%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-ktuu.com-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-ktuu.com_36-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.ktuu.com/content/news/American-Airlines-adding-three-new-routes-to-Alaska-including-first-time-flights-to-Fairbanks-558690231.html">https://www.ktuu.com/content/news/American-Airlines-adding-three-new-routes-to-Alaska-including-first-time-flights-to-Fairbanks-558690231.html</a></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://miami.cbslocal.com/2019/03/15/american-airlines-stops-flights-to-venezuela/">"American Airlines Stops Flights To Venezuela"</a>. <i>CBS Miami</i>. CBS Broadcasting Inc. March 15, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CBS+Miami&amp;rft.atitle=American+Airlines+Stops+Flights+To+Venezuela&amp;rft.date=2019-03-15&amp;rft_id=https%3A%2F%2Fmiami.cbslocal.com%2F2019%2F03%2F15%2Famerican-airlines-stops-flights-to-venezuela%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-AA_VEN-38"><span class="mw-cite-backlink">^ <a href="#cite_ref-AA_VEN_38-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AA_VEN_38-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AA_VEN_38-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Dolven, Taylor (March 15, 2019). <a rel="nofollow" class="external text" href="https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article227901139.html">"American Airlines stops flying to Venezuela"</a>. <i>Miami Herald</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Miami+Herald&amp;rft.atitle=American+Airlines+stops+flying+to+Venezuela&amp;rft.date=2019-03-15&amp;rft.aulast=Dolven&amp;rft.aufirst=Taylor&amp;rft_id=https%3A%2F%2Fwww.miamiherald.com%2Fnews%2Fnation-world%2Fworld%2Famericas%2Fvenezuela%2Farticle227901139.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+American+Airlines+destinations" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="American_Airlines" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:American_Airlines" title="Template:American Airlines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:American_Airlines" title="Template talk:American Airlines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:American_Airlines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="American_Airlines" style="font-size:114%;margin:0 4em"><a href="/wiki/American_Airlines" title="American Airlines">American Airlines</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="Oneworld_member"><a href="/wiki/Oneworld" title="Oneworld">Oneworld</a> member</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mergers and<br />acquisitions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Air_California" title="Air California">Air California</a></li>
+<li><a href="/wiki/American_Overseas_Airlines" title="American Overseas Airlines">American Overseas Airlines</a></li>
+<li><a href="/wiki/Executive_Airlines" title="Executive Airlines">Executive Airlines</a></li>
+<li><a href="/wiki/Reno_Air" title="Reno Air">Reno Air</a></li>
+<li><a href="/wiki/Simmons_Airlines" title="Simmons Airlines">Simmons Airlines</a></li>
+<li><a href="/wiki/Trans_Caribbean_Airways" title="Trans Caribbean Airways">Trans Caribbean Airways</a></li>
+<li><a href="/wiki/Trans_World_Airlines" title="Trans World Airlines">Trans World Airlines</a></li>
+<li><a href="/wiki/US_Airways" title="US Airways">US Airways</a>
+<ul><li><a href="/wiki/All_American_Aviation" title="All American Aviation">All American Aviation</a></li>
+<li><a href="/wiki/Allegheny_Airlines" title="Allegheny Airlines">Allegheny Airlines</a></li>
+<li><a href="/wiki/America_West_Airlines" title="America West Airlines">America West Airlines</a></li>
+<li><a href="/wiki/Lake_Central_Airlines" title="Lake Central Airlines">Lake Central Airlines</a></li>
+<li><a href="/wiki/MetroJet_(American_airline)" title="MetroJet (American airline)">MetroJet</a></li>
+<li><a href="/wiki/MidAtlantic_Airways" title="MidAtlantic Airways">MidAtlantic Airways</a></li>
+<li><a href="/wiki/Mohawk_Airlines" title="Mohawk Airlines">Mohawk Airlines</a></li>
+<li><a href="/wiki/Piedmont_Airlines_(1948%E2%80%931989)" title="Piedmont Airlines (1948–1989)">Piedmont Airlines</a></li>
+<li><a href="/wiki/Pacific_Southwest_Airlines" title="Pacific Southwest Airlines">Pacific Southwest Airlines</a></li>
+<li><a href="/wiki/Trump_Shuttle" title="Trump Shuttle">Trump Shuttle</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Facilities</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_Airlines_Arena" title="American Airlines Arena">AA Arena</a></li>
+<li><a href="/wiki/American_Airlines_Center" title="American Airlines Center">AA Center</a></li>
+<li><a href="/wiki/American_Airlines_C.R._Smith_Museum" title="American Airlines C.R. Smith Museum">C.R. Smith Museum</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Programs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AAdvantage" title="AAdvantage">AAdvantage</a></li>
+<li><a href="/wiki/AAirpass" title="AAirpass">AAirpass</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Brands</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_Airlines_Shuttle" title="American Airlines Shuttle">American Airlines Shuttle</a></li>
+<li><a href="/wiki/American_Eagle_(airline_brand)" title="American Eagle (airline brand)">American Eagle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/American_Airlines_accidents_and_incidents" class="mw-redirect" title="American Airlines accidents and incidents">Incidents</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="AmericanAirlines" scope="row" class="navbox-group" style="width:1%">American<br />Airlines</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_Airlines_Flight_1" title="American Airlines Flight 1">Flight 1</a></li>
+<li><a href="/wiki/American_Airlines_Flight_2" title="American Airlines Flight 2">Flight 2</a></li>
+<li><a href="/wiki/American_Airlines_Flight_11" title="American Airlines Flight 11">Flight 11</a></li>
+<li><a href="/wiki/American_Airlines_Flight_28" title="American Airlines Flight 28">Flight 28</a></li>
+<li>Flight 63
+<ul><li><a href="/wiki/American_Airlines_Flight_63_(Flagship_Ohio)" title="American Airlines Flight 63 (Flagship Ohio)">July 1943</a></li>
+<li><a href="/wiki/American_Airlines_Flight_63_(Flagship_Missouri)" title="American Airlines Flight 63 (Flagship Missouri)">October 1943</a></li>
+<li><a href="/wiki/2001_failed_shoe_bomb_attempt" class="mw-redirect" title="2001 failed shoe bomb attempt">2001</a></li></ul></li>
+<li><a href="/wiki/American_Airlines_Flight_77" title="American Airlines Flight 77">Flight 77</a></li>
+<li><a href="/wiki/American_Airlines_Flight_96" title="American Airlines Flight 96">Flight 96</a></li>
+<li><a href="/wiki/American_Airlines_Flight_157" title="American Airlines Flight 157">Flight 157</a></li>
+<li><a href="/wiki/American_Airlines_Flight_191" title="American Airlines Flight 191">Flight 191</a></li>
+<li><a href="/wiki/American_Airlines_Flight_293" title="American Airlines Flight 293">Flight 293</a></li>
+<li><a href="/wiki/American_Airlines_Flight_320" title="American Airlines Flight 320">Flight 320</a></li>
+<li><a href="/wiki/American_Airlines_Flight_331" title="American Airlines Flight 331">Flight 331</a></li>
+<li>Flight 383
+<ul><li><a href="/wiki/American_Airlines_Flight_383_(1965)" title="American Airlines Flight 383 (1965)">1965</a></li>
+<li><a href="/wiki/American_Airlines_Flight_383_(2016)" title="American Airlines Flight 383 (2016)">2016</a></li></ul></li>
+<li><a href="/wiki/American_Airlines_Flight_444" title="American Airlines Flight 444">Flight 444</a></li>
+<li><a href="/wiki/American_Airlines_Flight_514" title="American Airlines Flight 514">Flight 514</a></li>
+<li><a href="/wiki/American_Airlines_Flight_587" title="American Airlines Flight 587">Flight 587</a></li>
+<li><a href="/wiki/American_Airlines_Flight_625" title="American Airlines Flight 625">Flight 625</a></li>
+<li><a href="/wiki/American_Airlines_Flight_711" title="American Airlines Flight 711">Flight 711</a></li>
+<li><a href="/wiki/American_Airlines_Flight_723" title="American Airlines Flight 723">Flight 723</a></li>
+<li><a href="/wiki/American_Airlines_Flight_910" title="American Airlines Flight 910">Flight 910</a></li>
+<li><a href="/wiki/Death_of_Rigoberto_Alpizar" title="Death of Rigoberto Alpizar">Flight 924</a></li>
+<li><a href="/wiki/American_Airlines_Flight_965" title="American Airlines Flight 965">Flight 965</a></li>
+<li><a href="/wiki/American_Airlines_Flight_1420" title="American Airlines Flight 1420">Flight 1420</a></li>
+<li><a href="/wiki/American_Airlines_Flight_1502" title="American Airlines Flight 1502">Flight 1502</a></li>
+<li><a href="/wiki/American_Airlines_Flight_1572" title="American Airlines Flight 1572">Flight 1572</a></li>
+<li><a href="/wiki/American_Airlines_Flight_6780" title="American Airlines Flight 6780">Flight 6780</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">American<br />Eagle</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_Eagle_Flight_4184" title="American Eagle Flight 4184">Flight 4184</a></li>
+<li><a href="/wiki/American_Eagle_Flight_5452" title="American Eagle Flight 5452">Flight 5452</a></li>
+<li><a href="/wiki/American_Eagle_Flight_5456" title="American Eagle Flight 5456">Flight 5456</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gerard_Arpey" title="Gerard Arpey">Gerard Arpey</a></li>
+<li><a href="/wiki/Donald_J._Carty" title="Donald J. Carty">Donald J. Carty</a></li>
+<li><a href="/wiki/Albert_Vincent_Casey" title="Albert Vincent Casey">Albert V. Casey</a></li>
+<li><a href="/wiki/O._Roy_Chalk" title="O. Roy Chalk">O. Roy Chalk</a></li>
+<li><a href="/wiki/Errett_Lobban_Cord" title="Errett Lobban Cord">E. L. Cord</a></li>
+<li><a href="/wiki/Robert_Crandall" title="Robert Crandall">Robert Crandall</a></li>
+<li><a href="/wiki/Thomas_W._Horton" title="Thomas W. Horton">Thomas W. Horton</a></li>
+<li><a href="/wiki/Doug_Parker" title="Doug Parker">Doug Parker</a></li>
+<li><a href="/wiki/C._R._Smith" title="C. R. Smith">C. R. Smith</a></li>
+<li><a href="/wiki/George_A._Spater" title="George A. Spater">George A. Spater</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Organizations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Allied_Pilots_Association" title="Allied Pilots Association">Allied Pilots Association</a></li>
+<li><a href="/wiki/Association_of_Professional_Flight_Attendants" title="Association of Professional Flight Attendants">Association of Professional Flight Attendants</a></li>
+<li><a href="/wiki/Transport_Workers_Union_of_America" title="Transport Workers Union of America">TWU</a>-<a href="/wiki/International_Association_of_Machinists_and_Aerospace_Workers" title="International Association of Machinists and Aerospace Workers">IAM</a> Association</li>
+<li><a href="/wiki/Communications_Workers_of_America" title="Communications Workers of America">CWA</a>/<a href="/wiki/International_Brotherhood_of_Teamsters" title="International Brotherhood of Teamsters">Teamsters</a> Passenger Service Association</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_American_Airlines" title="History of American Airlines">History of American Airlines</a></li>
+<li><a href="/wiki/American_Airlines_fleet" title="American Airlines fleet">Fleet</a></li>
+<li><a href="/wiki/American_Airlines_Group" title="American Airlines Group">American Airlines Group</a>
+<ul><li><a href="/wiki/AMR_Corporation" title="AMR Corporation">AMR Corporation</a></li></ul></li>
+<li><i><a href="/wiki/American_Way_(magazine)" title="American Way (magazine)">American Way</a></i></li>
+<li><i><a href="/wiki/Celebrated_Living" title="Celebrated Living">Celebrated Living</a></i></li>
+<li><a href="/wiki/Reservisor" title="Reservisor">Reservisor</a></li>
+<li><a href="/wiki/Sabre_(computer_system)" title="Sabre (computer system)">Sabre</a></li>
+<li><a href="/wiki/Transpacific_Route_Case" title="Transpacific Route Case">Transpacific Route Case</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:American_Airlines" title="Category:American Airlines">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!--
+NewPP limit report
+Parsed by mw1348
+Cached time: 20200116191412
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.540 seconds
+Real time usage: 0.621 seconds
+Preprocessor visited node count: 2599/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 98226/2097152 bytes
+Template argument size: 654/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 119800/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.214/10.000 seconds
+Lua memory usage: 3.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  419.694      1 -total
+ 68.12%  285.897      1 Template:Reflist
+ 46.93%  196.947     28 Template:Cite_web
+ 11.21%   47.067      1 Template:As_of
+  8.92%   37.447      1 Template:DMCA
+  8.39%   35.220      1 Template:Dated_maintenance_category
+  7.55%   31.704      2 Template:Navbox
+  7.51%   31.533      1 Template:American_Airlines
+  7.31%   30.686      6 Template:Cite_press
+  7.20%   30.210      1 Template:FULLROOTPAGENAME
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1216578-0!canonical and timestamp 20200116191412 and revision id 936107788
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_American_Airlines_destinations&amp;oldid=936107788">https://en.wikipedia.org/w/index.php?title=List_of_American_Airlines_destinations&amp;oldid=936107788</a>"</div>
+
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lists_of_airline_destinations" title="Category:Lists of airline destinations">Lists of airline destinations</a></li><li><a href="/wiki/Category:Oneworld_destinations" title="Category:Oneworld destinations">Oneworld destinations</a></li><li><a href="/wiki/Category:American_Airlines" title="Category:American Airlines">American Airlines</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_December_2019" title="Category:Articles containing potentially dated statements from December 2019">Articles containing potentially dated statements from December 2019</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>
+		<div class="visualClear"></div>
+
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+
+
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+American+Airlines+destinations" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+American+Airlines+destinations" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+				<div id="left-navigation">
+
+<div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/List_of_American_Airlines_destinations" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:List_of_American_Airlines_destinations" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+	</ul>
+</div>
+		<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+
+<div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/List_of_American_Airlines_destinations">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=List_of_American_Airlines_destinations&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=List_of_American_Airlines_destinations&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+		<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+			<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_American_Airlines_destinations" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_American_Airlines_destinations" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_American_Airlines_destinations&amp;oldid=936107788" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_American_Airlines_destinations&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1053234" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_American_Airlines_destinations&amp;id=936107788" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+American+Airlines+destinations">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+American+Airlines+destinations&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_American_Airlines_destinations&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anexo:Destinos_de_American_Airlines" title="Anexo:Destinos de American Airlines – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%82%D8%B5%D8%AF%D9%87%D8%A7%DB%8C_%D9%BE%D8%B1%D9%88%D8%A7%D8%B2%DB%8C_%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D9%86_%D8%A7%DB%8C%D8%B1%D9%84%D8%A7%DB%8C%D9%86%D8%B2" title="مقصدهای پروازی امریکن ایرلاینز – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8_%ED%95%AD%EA%B3%B5%EC%9D%98_%EC%9A%B4%ED%95%AD_%EB%85%B8%EC%84%A0" title="아메리칸 항공의 운항 노선 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E8%88%AA%E7%A9%BA%E8%88%AA%E7%82%B9" title="美国航空航点 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1053234#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 January 2020, at 19:14<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_American_Airlines_destinations&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.540","walltime":"0.621","ppvisitednodes":{"value":2599,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":98226,"limit":2097152},"templateargumentsize":{"value":654,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":119800,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  419.694      1 -total"," 68.12%  285.897      1 Template:Reflist"," 46.93%  196.947     28 Template:Cite_web"," 11.21%   47.067      1 Template:As_of","  8.92%   37.447      1 Template:DMCA","  8.39%   35.220      1 Template:Dated_maintenance_category","  7.55%   31.704      2 Template:Navbox","  7.51%   31.533      1 Template:American_Airlines","  7.31%   30.686      6 Template:Cite_press","  7.20%   30.210      1 Template:FULLROOTPAGENAME"]},"scribunto":{"limitreport-timeusage":{"value":"0.214","limit":"10.000"},"limitreport-memusage":{"value":3576410,"limit":52428800}},"cachereport":{"origin":"mw1348","timestamp":"20200116191412","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of American Airlines destinations","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_American_Airlines_destinations","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1053234","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1053234","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-27T23:21:09Z","dateModified":"2020-01-16T19:14:05Z","headline":"Wikimedia list article"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":139,"wgHostname":"mw1274"});});</script>
+</body>
+</html>
