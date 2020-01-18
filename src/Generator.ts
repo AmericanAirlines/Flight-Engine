@@ -39,7 +39,7 @@ export default class Generator {
   numFlightsForRoute(): number {
     // Use those values to create a hash and use that value as the seed
     // to create a new random method to be used for numFlights
-    return this.random(0, 5);
+    return this.random(0, 3);
   }
 
   // Randomly generate a flight for the given origin and destination
