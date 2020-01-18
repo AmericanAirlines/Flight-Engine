@@ -67,6 +67,7 @@ export default class Generator {
 
     const arrivalTime = departureTime.plus({ hours: duration.hours, minutes: duration.minutes }).setZone(destination.timezone);
 
+    const randCost = distance * 0.3;
     return {
       flightNumber,
       origin,
@@ -75,7 +76,8 @@ export default class Generator {
       duration,
       departureTime: departureTime.toISO(),
       arrivalTime: arrivalTime.toISO(),
-      aircraft: randAircraft,
+      aircraft: randAircraft, 
+      cost: randCost
     };
   }
 }
