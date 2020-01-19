@@ -35,9 +35,14 @@ Here are some important things to note if you plan to modify the random data gen
 ## Pulling in Additional Data
 The src/DataCollection folder contains tools and data to augment the airport options. The ```parse_csv.py``` script takes the airports in ```airports.json``` and compares them with the Wikipedia page for American Airlines destinations. Only airports with American Airlines flights are included.
 
-This data can be customized by changing the constants at the top of ```parse_csv.json```. The ```ALLOWED_COUNTRIES``` list is the countries that airports can be in -- currently, this is set to only grab data from the United States. The ```MIN_DIRECT_FLIGHTS_PER_DAY``` is another way to narrow down the data by selecting only larger airports. The current value for this is 10, meaning that only airports that have more than 10 direct flights there.
+This data can be customized by changing the constants at the top of ```parse_csv.json```. The ```ALLOWED_COUNTRIES``` list is the countries that airports can be in -- currently, this is set to only grab data from the United States. The ```MIN_DIRECT_FLIGHTS_PER_DAY``` is another way to narrow down the data by selecting only larger airports. The current value for this is 10, meaning that only airports that have more than 10 direct flights per day there are included.
 
-While this script is set up to produce output in the correct format for the typescript file ```airports.ts```, it's recommended that the end of the input is glanced over to ensure no airport information was truncated.
+This script is set up to produce output in the correct format for the typescript file ```airports.ts```. When the script is run, the airports in that file are updated.
+
+### Dependencies
+The python script uses the ```wikipedia``` package, a package for retrieving and parsing Wikipedia pages. Before the script can run, this package must be installed with 
+
+```pip install wikipedia``` 
 
 ## Testing
 This project utilizes framework uses Facebook's [Jest](https://facebook.github.io/jest/) framework for testing. Jest is based on the `Jasmine` framework. While some developers prefer `Mocha`, we've chosen to fully adopt `Jest` on top of `Jasmine` as-is until a significant need requires an alternative solution.

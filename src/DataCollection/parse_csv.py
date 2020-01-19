@@ -3,6 +3,11 @@ run this to update the airports_clean data to add to airports.ts
 
 airport data is from https://gist.github.com/tdreyno/4278655 and the American Airlines destinations
 are filtered according to https://en.wikipedia.org/wiki/List_of_American_Airlines_destinations
+
+if you recieve a "ModuleNotFoundError: No module named 'wikipedia' error, make sure you have
+installed the wikipedia package: "pip install wikipedia" on the command line
+
+this code requires a network connection to run.
 """
 import json
 import wikipedia
