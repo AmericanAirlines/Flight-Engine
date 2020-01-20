@@ -67,7 +67,10 @@ export default class Generator {
 
     const arrivalTime = departureTime.plus({ hours: duration.hours, minutes: duration.minutes }).setZone(destination.timezone);
 
-    const randCost = distance * 0.3;
+    // cost is calculated as a percentage of distance, between 10% and 30%
+    // this allows for variability in flight prices while maintaining some relativity between values
+    // (i.e., longer flights are usually more expensive)
+    const randCost = distance * (this.random(10,30) / 100);
     return {
       flightNumber,
       origin,
