@@ -22,6 +22,19 @@ declare interface Location {
   longitude: number;
 }
 
+declare interface Bag {
+  tagNumber: string;
+  weight: number; // Weight in pounds
+  dimension: number; // length + width + height in inches
+}
+
+declare interface Passenger {
+  flights: string[]; // Array of flight numbers that a passenger has tickets for
+  firstName: string;
+  lastName: string;
+  bags?: Bag[];
+}
+
 declare interface FlightDuration {
   hours: number;
   minutes: number;
