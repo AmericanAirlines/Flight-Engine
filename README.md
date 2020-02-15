@@ -3,6 +3,9 @@ Mock flight data delivered simply and quickly without a database.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+## Making Requests
+Once the app is running, you should see a 👋 emoji if you hit the root of the app (e.g., `your-app.herokuapp.com` or `localhost:3030`). In order to retrieve flight information, make a `GET` request to `/flights` with a `date` query paramter and a date value with the following format: `YYYY-MM-DD`. For example, `your-app.herokuapp.com/flights?date=2020-01-01` will return flight details for January 1st, 2020. If you'd like to specify an origin or a destination, use the `origin` and/or `destination` query parameters with an airport code as the value; for example, `your-app.herokuapp.com/flights?date=2020-01-01&origin=DFW&destination=LGA` will retrieve flights from DFW to LGA on 1/1/2020.
+
 ## Running the App Locally
 First, make sure you have [Node.js and npm](https://nodejs.org/en/download/) then install project dependencies by running `npm install`.
 
