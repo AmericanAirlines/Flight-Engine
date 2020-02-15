@@ -37,6 +37,7 @@ declare interface Flight {
   duration: FlightDuration;
   departureTime: string;
   arrivalTime: string;
+  cost: number;
 }
 
 declare interface FlightQueryParams {
