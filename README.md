@@ -31,7 +31,7 @@ Here are some important things to note if you plan to modify the random data gen
             1. Generate LGA flights (`random` calls 1-4)
             1. Generate MIA flights (`random` calls 6-7)
             1. Generate DFW flights (`random` calls 8-10), flight `123` was call 9 and got a random value of `2`
-        - `/flights?date=2020-01-01?origin=DFW`:
+        - `/flights?date=2020-01-01&origin=DFW`:
             1. Generate DFW flights (`random` calls 1-3), flight `123` was call 2 and got a random value of `7`
         - Because the values are different, the data for flight 123 will not be the same for those two calls
 
