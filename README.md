@@ -3,14 +3,14 @@ Mock flight data delivered simply and quickly without a database.
 
 ## Let's Get Started
 
-## 👉  [I just want flight data](#deploy-flight-engine-and-use-now)
+### 👉  [I just want flight data](#deploy-flight-engine-and-use-now)
 
-## 👉  [I want a backend that I can customize](#running-flight-engine-locally)
+### 👉  [I want a backend that I can customize](#running-flight-engine-locally)
 
 ---
 
 ## Deploy Flight Engine and Use Now
-If you'd like to just use Flight Engine as we have designed it, deploy a copy to Heroku using the button below.
+If you would like to just use Flight Engine as we have designed it, deploy a copy to Heroku using the button below.
 
 **NOTE**: If you go with this approach, you will not be able to customize Flight Engine.
 
