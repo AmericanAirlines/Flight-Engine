@@ -1,3 +1,5 @@
 # Authors
 
+- John Kahn (john.kahn@aa.com)
+- Melinda Malmgren (melinda.malmgren@aa.com)
 - Henry Nguyen (henry.nguyen@aa.com)
