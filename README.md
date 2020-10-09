@@ -1,24 +1,67 @@
 # Flight Engine
 Mock flight data delivered simply and quickly without a database.
 
+## Let's Get Started
+
+### 👉  [I just want flight data](#deploy-flight-engine-and-use-now)
+
+### 👉  [I want a backend that I can customize](#running-flight-engine-locally)
+
+---
+
+## Deploy Flight Engine and Use Now
+If you would like to just use Flight Engine as we have designed it, deploy a copy to Heroku using the button below.
+
+**NOTE**: If you go with this approach, you will not be able to customize Flight Engine.
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+---
+
+## Running Flight Engine Locally
+
+### Running the App Locally
+First, make sure you have [Node.js (which includes `npm`)](https://nodejs.org/en/download/). Then navigate to the project directory and install project dependencies by running `npm install`.
+
+After dependencies have been installed, run `npm run dev` to start the app. Once the app has started, try going to `localhost:3030` from a browser. When you're ready to start getting data, see the [Retrieving Data](#retrieving-data) and [Modifying Flight Engine](#modifying-flight-engine) sections.
+
 ## Retrieving Data
-Once the app is running, you should see a 👋 emoji if you hit the root of the app (e.g., `your-app.herokuapp.com` or `localhost:3030`). In order to retrieve flight information, make a `GET` request to `/flights` with a `date` query paramter and a date value with the following format: `YYYY-MM-DD`. For example, `your-app.herokuapp.com/flights?date=2020-01-01` will return flight details for January 1st, 2020. If you'd like to specify an origin or a destination, use the `origin` and/or `destination` query parameters with an airport code as the value; for example, `your-app.herokuapp.com/flights?date=2020-01-01&origin=DFW&destination=LGA` will retrieve flights from DFW to LGA on 1/1/2020.
+Once the app is running (either locally or in a cloud environment - e.g., `your-app.herokuapp.com` or `localhost:3030`) navigate to its URL in a browser and you should see a "👋". To start retrieving flight information, make a `GET` request to `/flights` with a `date` query parameter and a date value with the following format: `YYYY-MM-DD`. For example, `your-app.herokuapp.com/flights?date=2020-01-01` will return flight details for January 1st, 2020. If you'd like to specify an origin or a destination, use the `origin` and/or `destination` query parameters with an airport code as the value; for example, `your-app.herokuapp.com/flights?date=2020-01-01&origin=DFW&destination=LGA` will retrieve flights from DFW to LGA on January 1st, 2020.
 
-## Running the App Locally
-First, make sure you have [Node.js and npm](https://nodejs.org/en/download/) then install project dependencies by running `npm install`.
+### Explore the app with Postman
+A quick way to start exploring the app is to use Postman. [Download the app](https://www.postman.com/downloads/) and import the `Flight Engine.postman_collection.json` Postman collection contained within this project. After importing, you can edit the collection and modify the `baseURL` variable if you've deployed to a cloud environment if needed.
 
-After dependencies have been installed, run `npm run dev`, which will perform the following actions:
-- Transpile TS into `dist` from `src`
-- Start the application
-- Watch `src` for changes, and transpile into `dist` again after observed changes
-- Watch `dist` for changes and restart the application after observed changes
+The collection contains several example requests, including `/flights` and shows how to request data from the API, including the use of the `date`, `origin`, and `destination` query parameters.
 
-Once the app has started, try hitting `localhost:3030` (`3030` is the default port unless overridden from `.env`) from a browser.
+## Modifying Flight Engine
+You can customize Flight Engine to tweak existing routes, add data, or even add new routes so it can be used as your app's backend.
 
-## Randomization via a Seed Value
-In order to keep the app lightweight and eliminate the need for a database, this project uses [_seed randomization_](https://en.wikipedia.org/wiki/Random_seed) (credit to [@JohnKahn](https://github.com/johnkahn) for the amazing idea!). If you don't care about the way data is generated, just read the first two bullets below and skip the rest.
+### Adding a new Route
+If you want to create a new API route, use the `app` variable defined within/exported from `src/app.ts` and follow the documentation for [Express.js](https://github.com/expressjs/express) to create a new listener. For example, you could create the `/theMeaningOfLife` endpoint by adding the following code to `src/app.ts` (at the bottom but above `export default app;`):
+``` typescript
+app.get('/theMeaningOfLife', (_: express.Request, res: express.Response): void => {
+  res.send('42');
+});
+```
+
+You could also create a new file and consume that route from within `src/app.ts`:
+``` typescript
+// src/theMeaningOfLife.ts
+import express from 'express';
+
+export default function theMeaningOfLife(_: express.Request, res: express.Response): void {
+  res.send('42');
+}
+
+
+// src/app.ts
+import theMeaningOfLife from './theMeaningOfLife';
+// ...
+app.use('/theMeaningOfLife', theMeaningOfLife);
+```
+
+### Randomization via a Seed Value
+In order to keep the app lightweight and eliminate the need for a database, this project uses [_seed randomization_](https://en.wikipedia.org/wiki/Random_seed) (credit to [@JohnKahn](https://github.com/johnkahn) for the amazing idea!). If you plan to modify routes that use flight data, make sure to read this content carefully as it is critical in order to maintain data integrity.
 
 Here are some important things to note if you plan to modify the random data generation:
 - After a `Generator` is initialized with a `seed`, the `random` method will generate random data each time it is called, however, this data generation is *deterministic*...
@@ -35,16 +78,20 @@ Here are some important things to note if you plan to modify the random data gen
             1. Generate DFW flights (`random` calls 1-3), flight `123` was call 2 and got a random value of `7`
         - Because the values are different, the data for flight 123 will not be the same for those two calls
 
+---
+
 ## Testing
-This project utilizes framework uses Facebook's [Jest](https://facebook.github.io/jest/) framework for testing. Jest is based on the `Jasmine` framework. While some developers prefer `Mocha`, we've chosen to fully adopt `Jest` on top of `Jasmine` as-is until a significant need requires an alternative solution.
+This project utilizes framework uses Facebook's [Jest](https://facebook.github.io/jest/) framework for testing.
 
-Writing a test is as simple as creating a `*.test.ts` file in the `./src` directory along with an associated `describe()` and `test()` function.
+Writing a test is as simple as creating a `*.test.ts` file in the `./src` directory along with an associated `describe()` and `it()` function.
 
-Simply run `npm run test` to run tests.
+Simply run `npm run test` to run the existing test suite or use it to execute your own tests once you've created new ones.
 
 Additional testing scripts:
 - `test`: runs all tests
 - `test:changed`: runs tests related to uncommited git changes only
+
+---
 
 ## Contributing
 Interested in contributing to the project? Check out our [Contributing Guidelines](.github/CONTRIBUTING.md).
