@@ -91,4 +91,35 @@ app.get('/flights', (req, res) => {
   res.json(flights);
 });
 
+// /airport
+// Retrieve a list of details for a given airport
+app.get('/airport', (req, res) => {
+  const codeFormatText = 'AAA';
+  const { query } = req;
+
+  if (!query || !query.code) {
+    res.status(400).send(`airport 'code' is a required parameter and must use the following format: ${codeFormatText}`);
+    return;
+  }
+  const userCode = query.code.toUpperCase();
+
+  // Determine if code entered follows the given format for an airport code
+  for (let i = 0; i < userCode.length; i += 1) {
+    if (userCode.length !== 3 || !/[a-zA-z]/.test(userCode[i])) {
+      res.status(400).send(`airport 'code' is a required parameter and must use the following format: ${codeFormatText}`);
+    }
+  }
+
+  // Search airport library for a given code and return airport information
+  for (let i = 0; i < airports.length; i += 1) {
+    if (userCode === airports[i].code) {
+      res.send(airports[i]);
+      return;
+    }
+  }
+
+  // Error status if given airport code is not in the data base but follows correct format
+  res.status(400).send("airport 'code' does not match any airport codes in the data base");
+});
+
 export default app;

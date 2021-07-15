@@ -45,3 +45,52 @@ describe('GET /flights', () => {
       });
   });
 });
+
+describe('GET /airport', () => {
+  const badParamsCode = 400;
+  it('returns an error when code is not provided ', (done) => {
+    supertest(app)
+      .get('/airport')
+      .expect(badParamsCode, done);
+  });
+
+  it('returns an error when code is malformed ', (done) => {
+    supertest(app)
+      .get('/airport?code=junk')
+      .expect(badParamsCode, done);
+  });
+
+  it('returns an error when code is malformed ', (done) => {
+    supertest(app)
+      .get('/airport?code=D4W')
+      .expect(badParamsCode, done);
+  });
+
+  it('returns an error when code is not in airport data ', (done) => {
+    const invalidCode = 'BNA';
+    supertest(app)
+      .get(`/airport?code=${invalidCode}`)
+      .expect(badParamsCode, done);
+  });
+
+  it('retrieves the same data when hit multiple times', (done) => {
+    const codeString = 'DFW';
+    supertest(app)
+      .get(`/airport?code=${codeString}`)
+      .expect(200, (err1, res1) => {
+        expect(err1).toBeNull();
+        const airport1 = Object.keys(res1.body).length;
+        expect(airport1).toBeGreaterThan(0);
+        supertest(app)
+          .get(`/airport?code=${codeString}`)
+          .expect(200, (err2, res2) => {
+            expect(err2).toBeNull();
+            const airport2 = Object.keys(res2.body).length;
+            expect(airport2).toBeGreaterThan(0);
+
+            expect(airport1).toEqual(airport2);
+            done();
+          });
+      });
+  });
+});
