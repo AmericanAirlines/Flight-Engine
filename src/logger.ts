@@ -16,10 +16,7 @@ const simpleErrorFormat = winston.format((info) => {
   const newInfo = { ...info };
   if (newInfo.level.includes('error')) {
     if (newInfo.stack) {
-      const stack = newInfo.stack
-        .split('\n')
-        .slice(1)
-        .join('\n');
+      const stack = newInfo.stack.split('\n').slice(1).join('\n');
 
       newInfo.message += `\n${stack}`;
     }

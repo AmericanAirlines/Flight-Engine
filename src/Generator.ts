@@ -46,9 +46,7 @@ export class Generator {
   // Randomly generate a flight for the given origin and destination
   flight(origin: Airport, destination: Airport, departureTime: DateTime): Flight {
     // Generate a random flight number
-    const flightNumber: string = this.random(1, 9999)
-      .toFixed(0)
-      .padStart(4, '0');
+    const flightNumber: string = this.random(1, 9999).toFixed(0).padStart(4, '0');
 
     // Calculate distance of route based on lat/lon
     const distance = calcDistance(origin.location, destination.location);
