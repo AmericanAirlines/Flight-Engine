@@ -2,7 +2,7 @@
 import express from 'express';
 import cors from 'cors';
 import { env } from './env';
-import logger from './logger';
+import { logger } from './logger';
 import { flights } from './api/flights';
 
 const port = env.port || '4000';

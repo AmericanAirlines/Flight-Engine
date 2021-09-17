@@ -40,7 +40,7 @@ const simpleErrorFormat = winston.format((info) => {
   return newInfo;
 });
 
-const logger = winston.createLogger({
+export const logger = winston.createLogger({
   format: format.combine(format.colorize(), format.splat(), simpleErrorFormat(), format.simple()),
   transports: [new winston.transports.Console({ level })],
   levels: {
@@ -54,5 +54,3 @@ const logger = winston.createLogger({
     debug: 7,
   },
 });
-
-export default logger;

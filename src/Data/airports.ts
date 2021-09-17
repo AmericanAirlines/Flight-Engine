@@ -1,6 +1,6 @@
-import { Airport } from "../types";
+import { Airport } from '../types';
 
-export default [
+export const airports: Airport[] = [
   {
     code: 'DFW',
     city: 'Dallas-Fort Worth',
@@ -37,4 +37,4 @@ export default [
       longitude: 87.9073,
     },
   },
-] as Airport[];
+];
