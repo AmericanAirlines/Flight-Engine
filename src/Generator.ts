@@ -1,7 +1,8 @@
 import seedrandom from 'seedrandom';
 import haversine from 'haversine-distance';
 import { DateTime } from 'luxon';
-import aircraft from './Data/aircraft';
+import aircraft from './data/aircraft';
+import { Airport, Flight, FlightDuration, Location } from './types';
 
 const createRandomGenerator = (seed: string): (() => number) => {
   if (seed === undefined || seed === null) {

@@ -4,23 +4,58 @@
   "description": "Mock flight data delivered simply and quickly without a database.",
   "main": "dist/index.js",
   "scripts": {
-    "dev": "npm-run-all -l build -p build:watch start:watch",
+    "dev": "ts-node-dev --watch .env.local --respawn src/index.ts",
     "start": "node dist/index.js",
-    "start:watch": "nodemon -w dist -e js dist/index.js",
-    "build": "tsc -p src/ --pretty",
-    "build:watch": "npm run build -- -w",
-    "build:ci": "run-s lint build test",
-    "lint": "eslint src --ext .ts --max-warnings 0",
-    "lint:fix": "npm run lint -- --fix",
-    "lint:staged": "lint-staged",
-    "checkstyle": "prettier -l src/**/*.ts",
-    "checkstyle:fix": "npm run checkstyle -- --write",
+    "build": "tsc -p tsconfig.build.json --pretty",
+    "typecheck": "tsc",
     "test": "jest",
-    "test:changed": "jest -o"
+    "test:coverage": "yarn test --coverage",
+    "prettier": "prettier -cu \"**/*\"",
+    "prettier:fix": "yarn prettier --write",
+    "lint": "eslint \"src/**/*.ts\" --max-warnings 0",
+    "lint:fix": "yarn lint --fix",
+    "clean": "rimraf dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "TBD"
+  "dependencies": {
+    "@americanairlines/simple-env": "^1.0.4",
+    "cors": "^2.8.5",
+    "dotenv-flow": "^3.2.0",
+    "express": "^4.17.1",
+    "haversine-distance": "^1.2.1",
+    "luxon": "^2.0.2",
+    "seedrandom": "^3.0.5",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-typescript": "^7.15.0",
+    "@types/cors": "^2.8.12",
+    "@types/dotenv": "^6.1.1",
+    "@types/dotenv-flow": "^3.2.0",
+    "@types/express": "^4.17.13",
+    "@types/jest": "^27.0.1",
+    "@types/luxon": "^2.0.4",
+    "@types/node": "^16.9.1",
+    "@types/seedrandom": "^3.0.1",
+    "@types/supertest": "^2.0.11",
+    "@types/winston": "^2.4.4",
+    "@typescript-eslint/eslint-plugin": "^4.31.1",
+    "@typescript-eslint/parser": "^4.31.1",
+    "babel-jest": "^27.1.1",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-airbnb-typescript": "^14.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jest": "^24.4.0",
+    "jest": "^27.2.0",
+    "prettier": "^2.4.0",
+    "rimraf": "^3.0.2",
+    "supertest": "^6.1.6",
+    "ts-node": "^10.2.1",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.3"
   },
   "keywords": [
     "Node",
@@ -33,62 +68,6 @@
   "author": "Spencer Kaiser <spencer.kaiser@aa.com>, John Kahn <john.kahn@aa.com>",
   "license": "MIT",
   "engines": {
-    "node": "^9.8.0"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "run-s build lint:staged test"
-    }
-  },
-  "lint-staged": {
-    "linters": {
-      "src/**/*.{js,ts}": [
-        "npm run checkstyle:fix",
-        "npm run lint:fix",
-        "git add"
-      ]
-    },
-    "ignore": [
-      "**/*.test.ts"
-    ]
-  },
-  "nodemonConfig": {
-    "delay": "400"
-  },
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "cors": "^2.8.5",
-    "dotenv": "^6.2.0",
-    "express": "^4.16.4",
-    "haversine-distance": "^1.1.4",
-    "luxon": "^1.21.3",
-    "seedrandom": "^3.0.3",
-    "typescript": "^3.3.3333",
-    "winston": "^3.2.1"
-  },
-  "devDependencies": {
-    "@types/cors": "^2.8.6",
-    "@types/dotenv": "^6.1.0",
-    "@types/express": "^4.17.1",
-    "@types/jest": "^24.0.6",
-    "@types/luxon": "^1.21.0",
-    "@types/node": "^11.9.5",
-    "@types/seedrandom": "^2.4.28",
-    "@types/supertest": "^2.0.8",
-    "@types/winston": "^2.4.4",
-    "@typescript-eslint/eslint-plugin": "^2.0.0",
-    "@typescript-eslint/parser": "^2.0.0",
-    "eslint": "^6.2.2",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-jest": "^22.15.2",
-    "husky": "^1.3.1",
-    "jest": "^24.1.0",
-    "lint-staged": "^8.1.4",
-    "nodemon": "^1.18.10",
-    "npm-run-all": "^4.1.5",
-    "prettier": "^1.18.2",
-    "supertest": "^4.0.2",
-    "ts-jest": "^24.0.0"
+    "node": "14.x"
   }
 }

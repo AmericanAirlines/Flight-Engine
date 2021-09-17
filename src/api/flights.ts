@@ -1,34 +1,16 @@
-import express from 'express';
-import cors from 'cors';
-import bodyParser from 'body-parser';
+import { Router } from 'express';
 import { DateTime } from 'luxon';
-import Generator from './Generator';
-import airports from './Data/airports';
-import FlightCache from './FlightCache';
+import airports from '../data/airports';
+import FlightCache from '../FlightCache';
+import Generator from '../Generator';
+import { Flight } from '../types';
 
-const app = express();
+export const flights = Router();
 
-// Enable cross origin requests
-app.use(cors());
-
-// Inject middleware to parse JSON body objects
-app.use(bodyParser.json());
-
-// Inject middleware to parse URL-encoded form body objects
-app.use(bodyParser.urlencoded({ extended: true }));
-
-// Establish Routing
-app.get('/', (_: express.Request, res: express.Response) => {
-  res.send('👋');
-});
-
-// /flights
-// Retrieve a list of flights for a given day
-// filtered by origin and/or destination
-app.get('/flights', (req, res) => {
+flights.get('/', (req, res) => {
   const dateFormatText = 'YYYY-MM-DD';
   const { query } = req;
-  if (!query || !query.date) {
+  if (!query || typeof query.date !== 'string') {
     res.status(400).send(`'date' is a required parameter and must use the following format: ${dateFormatText}`);
     return;
   }
@@ -41,7 +23,7 @@ app.get('/flights', (req, res) => {
     return;
   }
   const gen = new Generator(seed);
-  let flights = [];
+  let generatedFlights = [];
 
   // Test cache for data
   const cachedFlights = FlightCache.getFlights(seed);
@@ -61,34 +43,34 @@ app.get('/flights', (req, res) => {
 
           let time = date
             .startOf('day')
-            .plus({ hour: 1 })
+            .plus({ hours: 1 })
             .setZone(origin.timezone, { keepLocalTime: true });
 
           for (let k = 0; k <= numFlights; k += 1) {
             time = time.plus({ hours: flightTimeOffset, minutes: gen.random(-20, 20) });
-            flights.push(gen.flight(origin, destination, time));
+            generatedFlights.push(gen.flight(origin, destination, time));
           }
         }
       }
     }
     // Cache flight data that was resulted in a cache miss
-    FlightCache.cacheFlights(seed, flights);
+    FlightCache.cacheFlights(seed, generatedFlights);
   } else {
-    flights = cachedFlights;
+    generatedFlights = cachedFlights;
   }
 
+  const {origin, destination } = query;
+
   // Filter results based on origin
-  if (query.origin) {
-    flights = flights.filter((flight: Flight) => flight.origin.code === query.origin.toUpperCase());
+  if (typeof origin === 'string') {
+    generatedFlights = generatedFlights.filter((flight: Flight) => flight.origin.code === origin.toUpperCase());
   }
 
   // Filter results based on destination
-  if (query.destination) {
-    flights = flights.filter((flight: Flight) => flight.destination.code === query.destination.toUpperCase());
+  if (typeof destination === 'string') {
+    generatedFlights = generatedFlights.filter((flight: Flight) => flight.destination.code === destination.toUpperCase());
   }
 
   // Respond with matching flights
-  res.json(flights);
+  res.json(generatedFlights);
 });
-
-export default app;

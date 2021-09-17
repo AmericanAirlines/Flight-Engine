@@ -1,7 +1,7 @@
 import 'jest';
 import { DateTime } from 'luxon';
-import Generator from './Generator';
-import airports from './Data/airports';
+import Generator from '../src/Generator';
+import airports from '../src/data/airports';
 
 describe('Random seed generator ', () => {
   it('random method returns same values over time using the same seed', () => {

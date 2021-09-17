@@ -1,6 +1,4 @@
-declare module 'haversine-distance';
-
-declare interface Aircraft {
+export interface Aircraft {
   model: string;
   speed: number;
   passengerCapacity: {
@@ -10,25 +8,25 @@ declare interface Aircraft {
   };
 }
 
-declare interface Airport {
+export interface Airport {
   code: string; // Airport code, typically 3 characters
   city: string; // Airport city name
   timezone: string; // IANA timezone string
   location: Location;
 }
 
-declare interface Location {
+export interface Location {
   latitude: number;
   longitude: number;
 }
 
-declare interface FlightDuration {
+export interface FlightDuration {
   hours: number;
   minutes: number;
   locale: string;
 }
 
-declare interface Flight {
+export interface Flight {
   flightNumber: string;
   aircraft: Aircraft;
   origin: Airport;
@@ -39,7 +37,7 @@ declare interface Flight {
   arrivalTime: string;
 }
 
-declare interface FlightQueryParams {
+export interface FlightQueryParams {
   date: string;
   origin?: string;
   destination?: string;

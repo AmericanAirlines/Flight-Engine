@@ -1,3 +1,5 @@
+import { Flight } from "./types";
+
 class FlightCache {
   private flights: { [dateString: string]: Flight[] };
 

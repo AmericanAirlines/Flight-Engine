@@ -1,8 +1,8 @@
 import 'jest';
 import { DateTime } from 'luxon';
-import Generator from './Generator';
-import airports from './Data/airports';
-import FlightCache from './FlightCache';
+import Generator from '../src/Generator';
+import airports from '../src/data/airports';
+import FlightCache from '../src/FlightCache';
 
 describe('FlightCache ', () => {
   const sampleDate = '2020-01=01';

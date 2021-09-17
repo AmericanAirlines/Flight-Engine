@@ -1,3 +1,5 @@
+import { Airport } from "../types";
+
 export default [
   {
     code: 'DFW',

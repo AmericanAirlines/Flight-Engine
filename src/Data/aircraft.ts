@@ -1,3 +1,5 @@
+import { Aircraft } from "../types";
+
 export default [
   {
     model: '738',
