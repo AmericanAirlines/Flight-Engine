@@ -1,12 +1,14 @@
-name: Node CI
+name: Checks
 
 on:
+  push:
+    branches: [main]
   pull_request:
-    branches:
-      - master
+    branches: [main]
 
 jobs:
-  build:
+  build-test:
+    name: Build and Test
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -28,9 +30,35 @@ jobs:
 
       - name: Test
         run: npm run test
+  checkstyle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v1
+
+      - name: Use Node.js 14
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.x
+
+      - name: Install Dependencies
+        run: npm ci
 
       - name: Checkstyle
         run: npm run prettier
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v1
+
+      - name: Use Node.js 14
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.x
+
+      - name: Install Dependencies
+        run: npm ci
 
       - name: Lint
         run: npm run lint
