@@ -1,7 +1,8 @@
 import seedrandom from 'seedrandom';
 import haversine from 'haversine-distance';
 import { DateTime } from 'luxon';
-import aircraft from './Data/aircraft';
+import { aircraft } from './data/aircraft';
+import { Airport, Flight, FlightDuration, Location } from './types';
 
 const createRandomGenerator = (seed: string): (() => number) => {
   if (seed === undefined || seed === null) {
@@ -22,7 +23,7 @@ const metersToMiles = (num: number): number => num / 1609.344;
 // Determine miles value for distance between two locations (lat/lon)
 const calcDistance = (a: Location, b: Location): number => Math.round(metersToMiles(haversine(a, b)));
 
-export default class Generator {
+export class Generator {
   random: (min?: number, max?: number) => number;
 
   constructor(seed: string) {
@@ -45,9 +46,7 @@ export default class Generator {
   // Randomly generate a flight for the given origin and destination
   flight(origin: Airport, destination: Airport, departureTime: DateTime): Flight {
     // Generate a random flight number
-    const flightNumber: string = this.random(1, 9999)
-      .toFixed(0)
-      .padStart(4, '0');
+    const flightNumber: string = this.random(1, 9999).toFixed(0).padStart(4, '0');
 
     // Calculate distance of route based on lat/lon
     const distance = calcDistance(origin.location, destination.location);

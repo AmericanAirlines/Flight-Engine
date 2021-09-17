@@ -1,8 +1,8 @@
 import 'jest';
 import { DateTime } from 'luxon';
-import Generator from './Generator';
-import airports from './Data/airports';
-import FlightCache from './FlightCache';
+import { Generator } from '../src/Generator';
+import { airports } from '../src/data/airports';
+import { flightCache } from '../src/FlightCache';
 
 describe('FlightCache ', () => {
   const sampleDate = '2020-01=01';
@@ -14,7 +14,7 @@ describe('FlightCache ', () => {
   });
 
   it('should return null for a cache miss', () => {
-    const flights = FlightCache.getFlights(sampleDate);
+    const flights = flightCache.getFlights(sampleDate);
     expect(flights).toEqual(null);
   });
 
@@ -27,8 +27,8 @@ describe('FlightCache ', () => {
       .fill(null)
       .map(() => generator.flight(origin, destination, departureTime));
 
-    FlightCache.cacheFlights(sampleDate, flights);
-    const cachedFlights = FlightCache.getFlights(sampleDate);
+    flightCache.cacheFlights(sampleDate, flights);
+    const cachedFlights = flightCache.getFlights(sampleDate);
     expect(cachedFlights).toEqual(flights);
     expect(cachedFlights.length).toEqual(numFlights);
   });

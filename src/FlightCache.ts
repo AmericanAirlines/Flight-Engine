@@ -1,3 +1,5 @@
+import { Flight } from './types';
+
 class FlightCache {
   private flights: { [dateString: string]: Flight[] };
 
@@ -14,4 +16,4 @@ class FlightCache {
   }
 }
 
-export default new FlightCache();
+export const flightCache = new FlightCache();

@@ -1,8 +1,0 @@
----
-applications:
- - name: Flight-Engine
-   memory: 256M
-   buildpack: nodejs_buildpack
-   timeout: 120
-   env:
-       NODE_ENV: 'production'

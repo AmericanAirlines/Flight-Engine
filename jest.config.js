@@ -1,25 +1,20 @@
 module.exports = {
-  globals: {
-    'ts-jest': {
-      tsConfig: 'src/tsconfig.json',
+  testEnvironment: 'node',
+  moduleFileExtensions: ['js', 'json', 'ts'],
+  testMatch: ['**/*.test.ts'],
+  setupFilesAfterEnv: ['./tests/setupTests.ts'],
+  testPathIgnorePatterns: ['/node_modules/'],
+  coverageDirectory: './coverage',
+  collectCoverageFrom: [
+    // To ignore an individual file add this on line one `/* istanbul ignore file */`
+    './src/**/*.ts',
+  ],
+  coverageThreshold: {
+    global: {
+      statements: 100,
+      branches: 100,
+      functions: 100,
+      lines: 100,
     },
   },
-  moduleFileExtensions: [
-    'js',
-    'json',
-    'jsx',
-    'ts',
-    'tsx',
-  ],
-  roots: [
-    'src',
-  ],
-  transform: {
-    '^.+\\.(ts|tsx)$': 'ts-jest',
-  },
-  testMatch: [
-    '**/*.test.(ts|js)',
-  ],
-  testEnvironment: 'node',
-  preset: 'ts-jest',
-}
+};

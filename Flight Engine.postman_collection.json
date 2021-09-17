@@ -1,94 +1,82 @@
 {
-	"info": {
-		"_postman_id": "586c604c-b761-490e-b9d4-46d5c86ad18e",
-		"name": "Flight Engine",
-		"description": "Sample requests for the Flight Engine API.",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
-	},
-	"item": [
-		{
-			"name": "GET flights",
-			"request": {
-				"method": "GET",
-				"header": [],
-				"url": {
-					"raw": "{{baseURL}}/flights?date=2021-01-01",
-					"host": [
-						"{{baseURL}}"
-					],
-					"path": [
-						"flights"
-					],
-					"query": [
-						{
-							"key": "date",
-							"value": "2021-01-01"
-						}
-					]
-				}
-			},
-			"response": []
-		},
-		{
-			"name": "GET flights with origin and destination",
-			"request": {
-				"method": "GET",
-				"header": [],
-				"url": {
-					"raw": "{{baseURL}}/flights?date=2021-01-01&destination=ORD&origin=DFW",
-					"host": [
-						"{{baseURL}}"
-					],
-					"path": [
-						"flights"
-					],
-					"query": [
-						{
-							"key": "date",
-							"value": "2021-01-01"
-						},
-						{
-							"key": "destination",
-							"value": "ORD"
-						},
-						{
-							"key": "origin",
-							"value": "DFW"
-						}
-					]
-				}
-			},
-			"response": []
-		}
-	],
-	"event": [
-		{
-			"listen": "prerequest",
-			"script": {
-				"id": "3846d78e-bf86-4d7f-9e36-0dfe3474563c",
-				"type": "text/javascript",
-				"exec": [
-					""
-				]
-			}
-		},
-		{
-			"listen": "test",
-			"script": {
-				"id": "2476c3be-10fb-4bcc-83ba-463c27a8ae05",
-				"type": "text/javascript",
-				"exec": [
-					""
-				]
-			}
-		}
-	],
-	"variable": [
-		{
-			"id": "b4b01f45-e0b3-479d-9125-cf2d77c1b921",
-			"key": "baseURL",
-			"value": "localhost:3030"
-		}
-	],
-	"protocolProfileBehavior": {}
+  "info": {
+    "_postman_id": "586c604c-b761-490e-b9d4-46d5c86ad18e",
+    "name": "Flight Engine",
+    "description": "Sample requests for the Flight Engine API.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "GET flights",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseURL}}/flights?date=2021-01-01",
+          "host": ["{{baseURL}}"],
+          "path": ["flights"],
+          "query": [
+            {
+              "key": "date",
+              "value": "2021-01-01"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "GET flights with origin and destination",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseURL}}/flights?date=2021-01-01&destination=ORD&origin=DFW",
+          "host": ["{{baseURL}}"],
+          "path": ["flights"],
+          "query": [
+            {
+              "key": "date",
+              "value": "2021-01-01"
+            },
+            {
+              "key": "destination",
+              "value": "ORD"
+            },
+            {
+              "key": "origin",
+              "value": "DFW"
+            }
+          ]
+        }
+      },
+      "response": []
+    }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "id": "3846d78e-bf86-4d7f-9e36-0dfe3474563c",
+        "type": "text/javascript",
+        "exec": [""]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "id": "2476c3be-10fb-4bcc-83ba-463c27a8ae05",
+        "type": "text/javascript",
+        "exec": [""]
+      }
+    }
+  ],
+  "variable": [
+    {
+      "id": "b4b01f45-e0b3-479d-9125-cf2d77c1b921",
+      "key": "baseURL",
+      "value": "localhost:3030"
+    }
+  ],
+  "protocolProfileBehavior": {}
 }

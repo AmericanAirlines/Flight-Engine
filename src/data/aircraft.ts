@@ -1,4 +1,6 @@
-export default [
+import { Aircraft } from '../types';
+
+export const aircraft: Aircraft[] = [
   {
     model: '738',
     passengerCapacity: { total: 160, main: 144, first: 16 },
@@ -14,4 +16,4 @@ export default [
     passengerCapacity: { total: 181, main: 165, first: 16 },
     speed: 400,
   },
-] as Aircraft[];
+];

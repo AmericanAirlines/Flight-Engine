@@ -1,4 +1,4 @@
-import airports from './airports';
+import { airports } from '../../src/data/airports';
 
 describe('Airports /', () => {
   it('At least two airports exist', () => {
