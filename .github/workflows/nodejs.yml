@@ -31,6 +31,7 @@ jobs:
       - name: Test
         run: npm run test
   checkstyle:
+    name: Checkstyle
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -47,6 +48,7 @@ jobs:
       - name: Checkstyle
         run: npm run prettier
   lint:
+    name: Lint
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code

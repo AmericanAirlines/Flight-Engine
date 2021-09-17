@@ -16,11 +16,11 @@
     "ecmaVersion": 2018,
     "project": "./tsconfig.json"
   },
-  "ignorePatterns": ["node_modules", "**/*.js", "src/migrations"],
+  "ignorePatterns": ["node_modules", "**/*.js"],
   "rules": {
     "@typescript-eslint/no-floating-promises": ["error"],
     "no-void": ["error", { "allowAsStatement": true }],
-    "import/no-extraneous-dependencies": ["error", { "devDependencies": ["**/*.test.ts"] }],
+    "import/no-extraneous-dependencies": ["error", { "devDependencies": ["tests/**/*.test.ts"] }],
     "import/prefer-default-export": ["off"],
     "object-curly-newline": ["off"],
     "no-await-in-loop": ["off"],
@@ -44,5 +44,5 @@
     "import/no-cycle": ["off"]
   },
   "settings": { "import/resolver": { "node": { "extensions": [".js", ".ts"] } } },
-  "overrides": [{ "files": ["tests/**/*.ts"], "rules": { "global-require": "off", "import/no-extraneous-dependencies": "off" } }]
+  "overrides": [{ "files": ["tests/**/*.ts"], "rules": { "global-require": "off" } }]
 }
