@@ -20,4 +20,22 @@ describe('flights', () => {
     const { body: flights2 } = await testHandler(testApp).get(`/?date=${dateString}`).expect(200);
     expect(flights2).toEqual(flights1);
   });
+
+  it('retrieves one flight when providing a date and flight number', async () => {
+    const flightNumber = 4858; // Arbitrary flight number pulled from generated flight data
+    const dateString = '2020-01-01';
+    const testApp = createTestApp(flights);
+
+    const { body: flights1 } = await testHandler(testApp).get(`/${flightNumber}/${dateString}`).expect(200);
+    expect(flights1.length).toEqual(1);
+  });
+
+  it('returns an empty list when one flight number does not exist', async () => {
+    const flightNumber = 0; // Arbitrary flight number pulled from generated flight data
+    const dateString = '2020-01-01';
+    const testApp = createTestApp(flights);
+
+    const { body: flights1 } = await testHandler(testApp).get(`/${flightNumber}/${dateString}`).expect(404);
+    expect(flights1).toEqual({});
+  });
 });
