@@ -13,41 +13,35 @@ flights.get('/', (req, res) => {
     res.status(400).send(`'date' is a required parameter and must use the following format: ${dateFormatText}`);
     return;
   }
-
-  const date = DateTime.fromISO(query.date, { zone: 'utc' });
-  const seed = date.toISODate();
+  const { date, flightNumber, origin, destination } = query;
+  const isoDate = DateTime.fromISO(date, { zone: 'utc' });
+  const seed = isoDate.toISODate();
   if (!seed) {
     res.status(400).send(`'date' value (${query.date}) is malformed; 'date' must use the following format: ${dateFormatText}`);
     return;
   }
-
-  let generatedFlights = generateFlightsBySeed(seed, date);
-  const { origin, destination } = query;
+  const parsedFlightNumber = parseInt(flightNumber as string, 10);
+  if (flightNumber && (!parsedFlightNumber || parsedFlightNumber < 0)) {
+    res.status(400).send(`'flightNumber' must be an positive integer`);
+    return;
+  }
+  let generatedFlights = generateFlightsBySeed(seed, isoDate);
 
   // Filter results based on origin
   if (typeof origin === 'string') {
-    generatedFlights = generatedFlights?.filter((flight: Flight) => flight.origin.code === origin.toUpperCase());
+    generatedFlights = generatedFlights.filter((flight: Flight) => flight.origin.code === origin.toUpperCase());
   }
 
   // Filter results based on destination
   if (typeof destination === 'string') {
-    generatedFlights = generatedFlights?.filter((flight: Flight) => flight.destination.code === destination.toUpperCase());
+    generatedFlights = generatedFlights.filter((flight: Flight) => flight.destination.code === destination.toUpperCase());
   }
+
+  // Filter results based on flight number
+  if (flightNumber) {
+    generatedFlights = generatedFlights.filter((flight) => flight.flightNumber === flightNumber);
+  }
+
   // Respond with matching flights
   res.json(generatedFlights);
-});
-
-flights.get('/:flightNumber/:departureDate', (req, res) => {
-  const { flightNumber, departureDate } = req.params;
-  const date = DateTime.fromISO(departureDate, { zone: 'utc' });
-  const seed = date.toISODate();
-  if (flightCache.isEmpty()) {
-    generateFlightsBySeed(seed, date);
-  }
-  const flight = flightCache.getFlightByFlightNumberAndDate(departureDate, flightNumber);
-  if (flight.length !== 0) {
-    res.json(flight);
-  } else {
-    res.status(404).send(`No flights found for flight number ${flightNumber} on ${departureDate}`);
-  }
 });
