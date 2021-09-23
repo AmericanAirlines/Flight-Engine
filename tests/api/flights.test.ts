@@ -26,7 +26,7 @@ describe('flights', () => {
     const dateString = '2020-01-01';
     const testApp = createTestApp(flights);
 
-    const { body: flights1 } = await testHandler(testApp).get(`/${flightNumber}/${dateString}`).expect(200);
+    const { body: flights1 } = await testHandler(testApp).get(`/?flightNumber=${flightNumber}&date=${dateString}`).expect(200);
     expect(flights1.length).toEqual(1);
   });
 
