@@ -15,13 +15,21 @@ flights.get('/', (req, res) => {
     return;
   }
 
-  const date = DateTime.fromISO(query.date, { zone: 'utc' });
+  const { date, flightNumber, origin, destination } = query;
+  const isoDate = DateTime.fromISO(date, { zone: 'utc' });
+  const seed = isoDate.toISODate();
 
-  const seed = date.toISODate();
   if (!seed) {
     res.status(400).send(`'date' value (${query.date}) is malformed; 'date' must use the following format: ${dateFormatText}`);
     return;
   }
+
+  const parsedFlightNumber = parseInt(flightNumber as string, 10);
+  if (flightNumber && (!parsedFlightNumber || parsedFlightNumber < 0)) {
+    res.status(400).send(`'flightNumber' must be an positive integer`);
+    return;
+  }
+
   const gen = new Generator(seed);
   let generatedFlights = [];
 
@@ -32,8 +40,8 @@ flights.get('/', (req, res) => {
       // Iterate over all airports
       for (let j = airports.length - 1; j >= 0; j -= 1) {
         if (i !== j) {
-          const origin = airports[i];
-          const destination = airports[j];
+          const originAirport = airports[i];
+          const destinationAirport = airports[j];
 
           // For each O&D pair, create flights based on # per day
           const numFlights = gen.numFlightsForRoute();
@@ -41,11 +49,11 @@ flights.get('/', (req, res) => {
           // 1am - 11pm (22 hours)
           const flightTimeOffset = 22 / numFlights;
 
-          let time = date.startOf('day').plus({ hours: 1 }).setZone(origin.timezone, { keepLocalTime: true });
+          let time = isoDate.startOf('day').plus({ hours: 1 }).setZone(originAirport.timezone, { keepLocalTime: true });
 
           for (let k = 0; k <= numFlights; k += 1) {
             time = time.plus({ hours: flightTimeOffset, minutes: gen.random(-20, 20) });
-            generatedFlights.push(gen.flight(origin, destination, time));
+            generatedFlights.push(gen.flight(originAirport, destinationAirport, time));
           }
         }
       }
@@ -55,8 +63,6 @@ flights.get('/', (req, res) => {
   } else {
     generatedFlights = cachedFlights;
   }
-
-  const { origin, destination } = query;
 
   // Filter results based on origin
   if (typeof origin === 'string') {
@@ -68,6 +74,11 @@ flights.get('/', (req, res) => {
     generatedFlights = generatedFlights.filter((flight: Flight) => flight.destination.code === destination.toUpperCase());
   }
 
+  // Filter results based on flight number
+  if (flightNumber) {
+    generatedFlights = generatedFlights.filter((flight) => flight.flightNumber === flightNumber);
+  }
+  
   // Respond with matching flights
   res.json(generatedFlights);
 });
