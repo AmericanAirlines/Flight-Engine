@@ -1,6 +1,5 @@
 import { Router } from 'express';
 import { DateTime } from 'luxon';
-import { flightCache } from '../FlightCache';
 import { generateFlightsBySeed } from '../services/generateFlightsBySeed';
 import { Flight } from '../types';
 
