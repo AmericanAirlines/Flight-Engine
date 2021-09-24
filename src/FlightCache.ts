@@ -11,7 +11,7 @@ class FlightCache {
     return this.flights[dateString] || null;
   }
 
-  public getFlightByFlightNumberAndDate(dateString: string, flightNumber: string): Flight[] {
+  public getFlightByFlightNumberAndDepartureDate(dateString: string, flightNumber: string): Flight[] {
     return this.flights[dateString].filter((flight) => flight.flightNumber === flightNumber);
   }
 
