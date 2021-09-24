@@ -78,7 +78,7 @@ flights.get('/', (req, res) => {
   if (flightNumber) {
     generatedFlights = generatedFlights.filter((flight) => flight.flightNumber === flightNumber);
   }
-  
+
   // Respond with matching flights
   res.json(generatedFlights);
 });
