@@ -15,8 +15,8 @@ flights.get('/', (req, res) => {
 
   const date = DateTime.fromISO(query.date, { zone: 'utc' });
 
-  const seed = date.toISODate();
-  if (!seed) {
+  const validDate = date.isValid;
+  if (!validDate) {
     res.status(400).send(`'date' value (${query.date}) is malformed; 'date' must use the following format: ${dateFormatText}`);
     return;
   }

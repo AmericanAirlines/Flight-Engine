@@ -15,10 +15,6 @@ class FlightCache {
     return this.flights[dateString].filter((flight) => flight.flightNumber === flightNumber);
   }
 
-  public isEmpty(): boolean {
-    return Object.keys(this.flights).length === 0;
-  }
-
   public cacheFlights(dateString: string, flights: Flight[]): void {
     this.flights[dateString] = flights;
   }
