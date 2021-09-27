@@ -38,13 +38,4 @@ describe('flights', () => {
     const { body: flights1 } = await testHandler(testApp).get(`/?flightNumber=${flightNumber}&date=${dateString}`).expect(200);
     expect(flights1.length).toEqual(0);
   });
-
-  it('throws an error when the flightNumber is not valid', async () => {
-    const flightNumber = 'junk';
-    const dateString = '2020-01-01';
-    const testApp = createTestApp(flights);
-
-    const { body: flights1 } = await testHandler(testApp).get(`/?flightNumber=${flightNumber}&date=${dateString}`).expect(400);
-    expect(flights1).toEqual({});
-  });
 });
