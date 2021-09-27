@@ -3,6 +3,11 @@ import { airports } from '../data/airports';
 
 export const airportRouter = Router();
 
+function validAirportRegex(code: string) {
+  const matchedCodes = code.match(/^[A-Z]{3}$/gi);
+  return matchedCodes?.[0] === code;
+}
+
 airportRouter.get('/', (req, res) => {
   const { code } = req.query;
   if (!code || !validAirportRegex(code.toString())) {
@@ -18,10 +23,3 @@ airportRouter.get('/', (req, res) => {
     res.status(404).send('Airport not found');
   }
 });
-
-function validAirportRegex(code: string) {
-  const matchedCodes = code.match('[A-Za-z]{3}');
-  if (matchedCodes) {
-    return matchedCodes[0] === code;
-  }
-}
