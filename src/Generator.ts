@@ -7,7 +7,7 @@ import { Airport, Flight, FlightDuration, Location } from './types';
 const createRandomGenerator = (seed: string): (() => number) => {
   if (seed === undefined || seed === null) {
     // With a null seed, this method will no longer be deterministic, which is not intended
-    throw new Error('Seed can not be null as it causes unexpected behavior');
+    throw new Error('Seed cannot be null as it causes unexpected behavior');
   }
   // Create a method which returns a random number between 'min' and 'max'
   const random = seedrandom(seed);
