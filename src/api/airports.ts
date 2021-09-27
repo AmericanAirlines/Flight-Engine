@@ -7,7 +7,7 @@ airportRouter.get('/', (req, res) => {
   const airportCodeFormat = RegExp('[A-Za-z]{3}');
   const { code } = req.query;
 
-  if (!code || !airportCodeFormat.test(code as string)) {
+  if (!code || !airportCodeFormat.test(code.toString())) {
     res.status(400).send('Please enter a valid flight code i.e. DFW, GSO, ATL...');
   }
 
