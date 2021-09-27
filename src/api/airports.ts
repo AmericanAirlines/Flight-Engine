@@ -4,10 +4,8 @@ import { airports } from '../data/airports';
 export const airportRouter = Router();
 
 airportRouter.get('/', (req, res) => {
-  const airportCodeFormat = RegExp('[A-Za-z]{3}');
   const { code } = req.query;
-
-  if (!code || !airportCodeFormat.test(code.toString())) {
+  if (!code || !validAirportRegex(code.toString())) {
     res.status(400).send('Please enter a valid flight code i.e. DFW, GSO, ATL...');
     return;
   }
@@ -20,3 +18,10 @@ airportRouter.get('/', (req, res) => {
     res.status(404).send('Airport not found');
   }
 });
+
+function validAirportRegex(code: string) {
+  const matchedCodes = code.match('[A-Za-z]{3}');
+  if (matchedCodes) {
+    return matchedCodes[0] === code;
+  }
+}
