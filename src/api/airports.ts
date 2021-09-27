@@ -9,9 +9,10 @@ airportRouter.get('/', (req, res) => {
 
   if (!code || !airportCodeFormat.test(code.toString())) {
     res.status(400).send('Please enter a valid flight code i.e. DFW, GSO, ATL...');
+    return;
   }
 
-  const airport = airports.find((port) => port.code.toLowerCase() === code!.toString().toLowerCase());
+  const airport = airports.find((port) => port.code.toLowerCase() === code.toString().toLowerCase());
 
   if (airport) {
     res.json(airport);
