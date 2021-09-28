@@ -27,10 +27,7 @@ jest.mock('../../src/services/generateFlightsBySeed.ts', () => ({
 }));
 
 describe('flights', () => {
-  beforeEach(() => {
-    jest.resetMocks();
-  });
-  
+
   it('returns an error when date is not provided ', async () => {
     await testHandler(flights).get('/').expect(400);
   });
