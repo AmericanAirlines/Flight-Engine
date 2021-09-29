@@ -13,16 +13,15 @@ flights.get('/', (req, res) => {
     return;
   }
 
-  const date = DateTime.fromISO(query.date, { zone: 'utc' });
+  const { date, flightNumber, origin, destination } = query;
+  const isoDate = DateTime.fromISO(date, { zone: 'utc' });
 
-  if (!date.isValid) {
+  if (!isoDate.isValid) {
     res.status(400).send(`'date' value (${query.date}) is malformed; 'date' must use the following format: ${dateFormatText}`);
     return;
   }
 
-  let generatedFlights = generateFlightsBySeed(date);
-
-  const { origin, destination } = query;
+  let generatedFlights = generateFlightsBySeed(isoDate);
 
   // Filter results based on origin
   if (typeof origin === 'string') {
@@ -32,6 +31,11 @@ flights.get('/', (req, res) => {
   // Filter results based on destination
   if (typeof destination === 'string') {
     generatedFlights = generatedFlights.filter((flight: Flight) => flight.destination.code === destination.toUpperCase());
+  }
+
+  // Filter results based on flight number
+  if (flightNumber) {
+    generatedFlights = generatedFlights.filter((flight) => flight.flightNumber === flightNumber);
   }
 
   // Respond with matching flights
