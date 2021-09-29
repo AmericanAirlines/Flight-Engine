@@ -37,7 +37,7 @@ describe('generateFlightsByDate ', () => {
   });
 
   it('should return flights from cache if there are flights', () => {
-    getMock(flightCache.cacheFlights).mockReturnValueOnce(mockFlights);
+    getMock(flightCache.getFlights).mockReturnValueOnce(mockFlights);
 
     const flights = generateFlightsByDate(isoDate);
     expect(flights).toBe(mockFlights);
