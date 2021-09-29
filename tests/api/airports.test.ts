@@ -20,4 +20,12 @@ describe('airports', () => {
     const { body: airport2 } = await testHandler(testApp).get(`/?code=${airportCode}`).expect(200);
     expect(airport2).toEqual(airport1);
   });
+
+  it('returns a 404 status code when no airport is found', async () => {
+    const airportCode = 'AAA';
+    const testApp = createTestApp(airportRouter);
+
+    const { body: airport } = await testHandler(testApp).get(`/?code=${airportCode}`).expect(404);
+    expect(airport).toEqual({});
+  });
 });

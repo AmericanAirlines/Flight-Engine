@@ -1,3 +1,5 @@
+/* istanbul ignore file */
+
 import winston, { format } from 'winston';
 
 const level = process.env.LOG_LEVEL || 'debug';
