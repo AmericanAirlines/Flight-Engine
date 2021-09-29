@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import { DateTime } from 'luxon';
-import { generateFlightsBySeed } from '../services/generateFlightsBySeed';
+import { generateFlightsByDate } from '../services/generateFlightsByDate';
 import { Flight } from '../types';
 
 export const flights = Router();
@@ -21,7 +21,7 @@ flights.get('/', (req, res) => {
     return;
   }
 
-  let generatedFlights = generateFlightsBySeed(isoDate);
+  let generatedFlights = generateFlightsByDate(isoDate);
 
   // Filter results based on origin
   if (typeof origin === 'string') {

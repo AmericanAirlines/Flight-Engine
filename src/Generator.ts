@@ -4,14 +4,10 @@ import { DateTime } from 'luxon';
 import { aircraft } from './data/aircraft';
 import { Airport, Flight, FlightDuration, Location } from './types';
 
-const createRandomGenerator = (seed: string): (() => number) => {
-  if (seed === undefined || seed === null) {
-    // With a null seed, this method will no longer be deterministic, which is not intended
-    throw new Error('Seed cannot be null as it causes unexpected behavior');
-  }
+const createRandomGenerator = (seed: string): ((min: number, max: number) => number) => {
   // Create a method which returns a random number between 'min' and 'max'
   const random = seedrandom(seed);
-  return (min = 0, max = 0): number => {
+  return (min: number, max: number): number => {
     const r = random();
     return Math.floor(r * (max - min + 1) + min);
   };
@@ -24,7 +20,7 @@ const metersToMiles = (num: number): number => num / 1609.344;
 const calcDistance = (a: Location, b: Location): number => Math.round(metersToMiles(haversine(a, b)));
 
 export class Generator {
-  random: (min?: number, max?: number) => number;
+  random: (min: number, max: number) => number;
 
   constructor(seed: string) {
     // Generate the random method with the given seed

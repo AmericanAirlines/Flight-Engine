@@ -4,7 +4,7 @@ import { flightCache } from '../FlightCache';
 import { Generator } from '../Generator';
 import { Flight } from '../types';
 
-export function generateFlightsBySeed(date: DateTime): Flight[] {
+export function generateFlightsByDate(date: DateTime): Flight[] {
   const seed = date.toISODate();
   const gen = new Generator(seed);
   let generatedFlights = [];

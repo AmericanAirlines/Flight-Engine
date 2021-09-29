@@ -1,8 +1,8 @@
 import { flights } from '../../src/api/flights';
 import { createTestApp, testHandler } from '../testUtils/testHandler';
 
-jest.mock('../../src/services/generateFlightsBySeed.ts', () => ({
-  generateFlightsBySeed: jest.fn().mockReturnValue([
+jest.mock('../../src/services/generateFlightsByDate.ts', () => ({
+  generateFlightsByDate: jest.fn().mockReturnValue([
     {
       flightNumber: '4858',
       origin: { code: 'DFW', city: 'Dallas-Fort Worth', timezone: 'America/Chicago', location: { latitude: 32.8998, longitude: 97.0403 } },
