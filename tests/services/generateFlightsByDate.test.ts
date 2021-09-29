@@ -42,18 +42,4 @@ describe('generateFlightsByDate ', () => {
     const flights = generateFlightsByDate(isoDate);
     expect(flights).toBe(mockFlights);
   });
-
-  it('should return flights from cache when same date is used', () => {
-    getMock(flightCache.getFlights).mockReturnValueOnce([]);
-    const flights1 = generateFlightsByDate(isoDate);
-    const cacheFlightsMock = getMock(flightCache.cacheFlights);
-
-    expect(flights1.length).toBeGreaterThan(0);
-    getMock(flightCache.getFlights).mockReturnValueOnce(mockFlights);
-
-    const flights2 = generateFlightsByDate(isoDate);
-    expect(flights2.length).toBeGreaterThan(0);
-
-    expect(cacheFlightsMock).toHaveBeenCalledTimes(1);
-  });
 });
