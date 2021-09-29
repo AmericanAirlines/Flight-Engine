@@ -11,7 +11,7 @@ export function generateFlightsByDate(date: DateTime): Flight[] {
 
   // Test cache for data
   const cachedFlights = flightCache.getFlights(seed);
-  if (!cachedFlights|| cachedFlights.length === 0) {
+  if (!cachedFlights || cachedFlights.length === 0) {
     for (let i = 0; i < airports.length; i += 1) {
       // Iterate over all airports
       for (let j = airports.length - 1; j >= 0; j -= 1) {
