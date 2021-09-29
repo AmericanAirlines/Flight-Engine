@@ -18,7 +18,7 @@ const mockFlights = [
 ];
 jest.mock('../../src/FlightCache.ts', () => ({
   flightCache: {
-    getFlights: jest.fn().mockReturnValue([]),
+    getFlights: jest.fn().mockReturnValue(undefined),
     cacheFlights: jest.fn(),
   },
 }));
@@ -36,12 +36,11 @@ describe('generateFlightsByDate ', () => {
     expect(flights.length).toBeGreaterThan(0);
   });
 
-  it('should generate flights the same flights twice when using the same date', () => {
-    const flights1 = generateFlightsByDate(isoDate);
-    expect(flights1.length).toBeGreaterThan(0);
-    const flights2 = generateFlightsByDate(isoDate);
-    expect(flights2.length).toBeGreaterThan(0);
-    expect(flights1).toEqual(flights2);
+  it('should return flights from cache if there are flights', () => {
+    getMock(flightCache.cacheFlights).mockReturnValueOnce(mockFlights);
+
+    const flights = generateFlightsByDate(isoDate);
+    expect(flights).toBe(mockFlights);
   });
 
   it('should return flights from cache when same date is used', () => {
