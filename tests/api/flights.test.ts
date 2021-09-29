@@ -63,4 +63,26 @@ describe('flights', () => {
     const { body: flights1 } = await testHandler(testApp).get(`/?flightNumber=${flightNumber}&date=${dateString}`).expect(200);
     expect(flights1.length).toEqual(0);
   });
+
+  it('returns an empty list when one airport destination does not exist', async () => {
+    const flightNumber = 1234; // Arbitrary flight number pulled from generated flight data
+    const dateString = '2020-01-01';
+    const airportCode = 'GSO';
+    const testApp = createTestApp(flights);
+
+    const { body: flights1 } = await testHandler(testApp)
+      .get(`/?flightNumber=${flightNumber}&date=${dateString}&destination=${airportCode}`)
+      .expect(200);
+    expect(flights1.length).toEqual(0);
+  });
+
+  it('returns an empty list when one airport origin does not exist', async () => {
+    const flightNumber = 1234; // Arbitrary flight number pulled from generated flight data
+    const dateString = '2020-01-01';
+    const airportCode = 'GSO';
+    const testApp = createTestApp(flights);
+
+    const { body: flights1 } = await testHandler(testApp).get(`/?flightNumber=${flightNumber}&date=${dateString}&origin=${airportCode}`).expect(200);
+    expect(flights1.length).toEqual(0);
+  });
 });
