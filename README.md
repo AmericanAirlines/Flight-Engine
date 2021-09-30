@@ -90,6 +90,20 @@ Here are some important things to note if you plan to modify the random data gen
 
 ---
 
+## Airport Related
+Each endpoint displays information related to the airport whose IATA (Airport Code) is provided with the request:
+- [Airport Information](https://github.com/AmericanAirlines/Flight-Engine/blob/main/src/api/airports/airports.md#success-response): `GET /airports?code=<IATA-CODE>`
+
+---
+## Flight Related
+- [Flight Records By Date](https://github.com/AmericanAirlines/Flight-Engine/blob/main/src/api/flights/flights.md#default-success-response):  `GET /flights?date=YYYY-MM-DD`
+- 
+- [Flight Records By Destination](https://github.com/AmericanAirlines/Flight-Engine/blob/main/src/api/flights/flights.md#desitnation-success-response):  `GET /flights?date=YYYY-MM-DD&destination=<IATA-CODE>`
+- 
+- [Flight Records By Origin](https://github.com/AmericanAirlines/Flight-Engine/blob/main/src/api/flights/flights.md#origin-success-response):  `GET /flights?date=YYYY-MM-DD&destination=<IATA-CODE>`
+
+---
+
 ## Testing
 
 This project utilizes framework uses Facebook's [Jest](https://facebook.github.io/jest/) framework for testing.
