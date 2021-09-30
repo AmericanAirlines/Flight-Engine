@@ -85,6 +85,7 @@ Will display flights filtered by airport destination
 **Code**: `200 OK`
 
 **Examples**
+
 <details><summary> Flights by Destination</summary>
 <p>
 
@@ -194,6 +195,7 @@ Will display flights filtered by airport destination
 **Code**: `200 OK`
 
 **Examples**
+
 <details><summary> Flights by Origin</summary>
 <p>
 

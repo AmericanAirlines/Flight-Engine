@@ -21,16 +21,20 @@ If you would like to just use Flight Engine as we have designed it, deploy a cop
 ---
 
 ## Airport Related
+
 Each endpoint displays information related to the airport whose IATA (Airport Code) is provided with the request:
+
 - [Airport Information](https://github.com/AmericanAirlines/Flight-Engine/blob/main/docs/AIRPORTS.md#success-response): `GET /airports?code=<IATA-CODE>`
 
 ---
+
 ## Flight Related
-- [Flight Records By Date](https://github.com/AmericanAirlines/Flight-Engine/blob/main/docs/FLIGHTS.md#default-success-response):  `GET /flights?date=YYYY-MM-DD`
 
-- [Flight Records By Origin](https://github.com/AmericanAirlines/Flight-Engine/blob/main/docs/FLIGHTS.md#origin-success-response):  `GET /flights?date=YYYY-MM-DD&destination=<IATA-CODE>`
+- [Flight Records By Date](https://github.com/AmericanAirlines/Flight-Engine/blob/main/docs/FLIGHTS.md#default-success-response): `GET /flights?date=YYYY-MM-DD`
 
-- [Flight Records By Destination](https://github.com/AmericanAirlines/Flight-Engine/blob/main/docs/FLIGHTS.md#desitnation-success-response):  `GET /flights?date=YYYY-MM-DD&destination=<IATA-CODE>`
+- [Flight Records By Origin](https://github.com/AmericanAirlines/Flight-Engine/blob/main/docs/FLIGHTS.md#origin-success-response): `GET /flights?date=YYYY-MM-DD&destination=<IATA-CODE>`
+
+- [Flight Records By Destination](https://github.com/AmericanAirlines/Flight-Engine/blob/main/docs/FLIGHTS.md#desitnation-success-response): `GET /flights?date=YYYY-MM-DD&destination=<IATA-CODE>`
 
 ---
 

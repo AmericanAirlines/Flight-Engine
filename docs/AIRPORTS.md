@@ -16,7 +16,8 @@ Get the details of a given airport by its IATA (Airport Code)
 
 **Examples**
 
-## 
+##
+
 ```json
 {
   "code": "DFW",
@@ -29,14 +30,14 @@ Get the details of a given airport by its IATA (Airport Code)
 }
 ```
 
-
 ## 404 Response
+
 ```html
 Airport not found
-
 ```
 
 ## Malformed Request Response
+
 ```html
 Please enter a valid flight code i.e. DFW, GSO, ATL...
 ```
