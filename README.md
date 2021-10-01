@@ -16,7 +16,7 @@ If you would like to just use Flight Engine as we have designed it, deploy a cop
 
 **NOTE**: If you go with this approach, you will not be able to customize Flight Engine.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AmericanAirlines/Flight-Engine)
 
 ---
 
