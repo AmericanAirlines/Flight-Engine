@@ -57,7 +57,7 @@ When you are ready to commit code, please do so on a feature/bugfix branch and c
 - `checkstyle:fix` which will checkstyle all changed files and perform corrections where possible
 - `git add` which will re-add any files that were modified by these scripts
 - `test` which will run through the full test suite
-If the above is unable to complete because of a `lint`, `checkstyle`, or `test` error, the commit will fail and you will be required to address the problem before being able to commit successfully.
+  If the above is unable to complete because of a `lint`, `checkstyle`, or `test` error, the commit will fail and you will be required to address the problem before being able to commit successfully.
 
 Finally, if you need to install a new dependency, please use `git add --patch package-lock.json` to add any relevant hunks from `package-lock.json` to your commit, instead of adding _all_ changes in the file.
 
@@ -67,8 +67,8 @@ As soon as you're ready for a code review, create a [pull request](https://help.
 
 1. Use the `Flight-Engine:main` branch as your PR's base branch and select your branch as the `compare` branch
 1. Make sure your PR branch is as up-to-date as possible (we'll handle merge conflicts if one arises)
-1. Fill out all fields suggested by the template, including links to issue(s) your PR addresses.  This will help prevent duplication of efforts. For information on how to reference issues to close them, read up on [closing issues using keywords here](https://help.github.com/articles/closing-issues-using-keywords/).
-1. If it's your first contribution, make sure your PR includes a modification to `AUTHORS.md` to include your first and last name as well as your email address *or* your GitHub handle
+1. Fill out all fields suggested by the template, including links to issue(s) your PR addresses. This will help prevent duplication of efforts. For information on how to reference issues to close them, read up on [closing issues using keywords here](https://help.github.com/articles/closing-issues-using-keywords/).
+1. If it's your first contribution, make sure your PR includes a modification to `AUTHORS.md` to include your first and last name as well as your email address _or_ your GitHub handle
 
 #### Attribution
 
