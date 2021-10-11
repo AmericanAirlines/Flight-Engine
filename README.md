@@ -23,6 +23,7 @@ If you would like to just use Flight Engine as we have designed it, deploy a cop
 ## Airport Information
 
 Each endpoint displays information related to the airport whose IATA (Airport Code) is provided with the request:
+
 <details><summary> Examples </summary>
 
 Get the details of a given airport by its IATA (Airport Code)
