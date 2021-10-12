@@ -20,6 +20,9 @@ If you would like to just use Flight Engine as we have designed it, deploy a cop
 
 ---
 
+# Retrieving Data
+Once your app is up and running (either locally or hosted somewhere like Heroku), make HTTP requests to retrieve the data documented below.
+
 ## Airport Information
 
 Each endpoint displays information related to the airport whose IATA (Airport Code) is provided with the request:
