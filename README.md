@@ -6,7 +6,7 @@ Mock flight data delivered simply and quickly without a database.
 
 ### 👉 [I just want flight data](#deploy-flight-engine-and-use-now)
 
-### 👉 [I want a backend that I can customize](#running-flight-engine-locally)
+### 👉 [I want a backend that I can customize](./docs/LOCAL_DEVELOPMENT.MD)
 
 ---
 
@@ -20,73 +20,357 @@ If you would like to just use Flight Engine as we have designed it, deploy a cop
 
 ---
 
-## Running Flight Engine Locally
+# Retrieving Data
 
-### Running the App Locally
+Once your app is up and running (either locally or hosted somewhere like Heroku), make HTTP requests to retrieve the data documented below.
 
-First, make sure you have [Node.js (which includes `npm`)](https://nodejs.org/en/download/). Then navigate to the project directory and install project dependencies by running `npm install`.
+## Airport Information
 
-After dependencies have been installed, run `npm run dev` to start the app. Once the app has started, try going to `localhost:3030` from a browser. When you're ready to start getting data, see the [Retrieving Data](#retrieving-data) and [Modifying Flight Engine](#modifying-flight-engine) sections.
+Each endpoint displays information related to the airport whose IATA (Airport Code) is provided with the request:
 
-## Retrieving Data
+<details><summary> Examples </summary>
 
-Once the app is running (either locally or in a cloud environment - e.g., `your-app.herokuapp.com` or `localhost:3030`) navigate to its URL in a browser and you should see a "👋". To start retrieving flight information, make a `GET` request to `/flights` with a `date` query parameter and a date value with the following format: `YYYY-MM-DD`. For example, `your-app.herokuapp.com/flights?date=2020-01-01` will return flight details for January 1st, 2020. If you'd like to specify an origin or a destination, use the `origin` and/or `destination` query parameters with an airport code as the value; for example, `your-app.herokuapp.com/flights?date=2020-01-01&origin=DFW&destination=LGA` will retrieve flights from DFW to LGA on January 1st, 2020.
+Get the details of a given airport by its IATA (Airport Code)
 
-### Explore the app with Postman
+**URL** : `/airports?code= <IATA-CODE>`
 
-A quick way to start exploring the app is to use Postman. [Download the app](https://www.postman.com/downloads/) and import the `Flight Engine.postman_collection.json` Postman collection contained within this project. After importing, you can edit the collection and modify the `baseURL` variable if you've deployed to a cloud environment if needed.
+**Method**: `GET`
 
-The collection contains several example requests, including `/flights` and shows how to request data from the API, including the use of the `date`, `origin`, and `destination` query parameters.
+**Auth required**: No
 
-## Modifying Flight Engine
+**Permissions required**: None
 
-You can customize Flight Engine to tweak existing routes, add data, or even add new routes so it can be used as your app's backend.
+**Success Response**:
 
-### Adding a new Route
+**Code**: `200 OK`
 
-If you want to create a new API route, use the `app` variable defined within/exported from `src/app.ts` and follow the documentation for [Express.js](https://github.com/expressjs/express) to create a new listener. For example, you could create the `/theMeaningOfLife` endpoint by adding the following code to `src/app.ts` (at the bottom but above `export default app;`):
+**Respones**
 
-```typescript
-app.get('/theMeaningOfLife', (_: express.Request, res: express.Response): void => {
-  res.send('42');
-});
-```
-
-You could also create a new file and consume that route from within `src/app.ts`:
-
-```typescript
-// src/theMeaningOfLife.ts
-import express from 'express';
-
-export default function theMeaningOfLife(_: express.Request, res: express.Response): void {
-  res.send('42');
+```json
+{
+  "code": "DFW",
+  "city": "Dallas-Fort Worth",
+  "timezone": "America/Chicago",
+  "location": {
+    "latitude": 32.8998,
+    "longitude": 97.0403
+  }
 }
-
-// src/app.ts
-import theMeaningOfLife from './theMeaningOfLife';
-// ...
-app.use('/theMeaningOfLife', theMeaningOfLife);
 ```
 
-### Randomization via a Seed Value
+## 404 Response
 
-In order to keep the app lightweight and eliminate the need for a database, this project uses [_seed randomization_](https://en.wikipedia.org/wiki/Random_seed) (credit to [@JohnKahn](https://github.com/johnkahn) for the amazing idea!). If you plan to modify routes that use flight data, make sure to read this content carefully as it is critical in order to maintain data integrity.
+```html
+Airport not found
+```
 
-Here are some important things to note if you plan to modify the random data generation:
+## Malformed Request Response
 
-- After a `Generator` is initialized with a `seed`, the `random` method will generate random data each time it is called, however, this data generation is _deterministic_...
-- Because this method of random generation is _deterministic_, the _order_ and _value_ of the "random" value sets generated by multiple calls to `random` for a given seed will _always_ be the same
-  - That was a lot... let's say we have `generatorA` and `generatorB` and each have been initialized with a seed value of `RANDOMIZATION_IS_COOL!`. If we call the `random` method of each generator (e.g., `A1` and `B1`), the result will be _the same_ (`A1 === B1`). If, however, we call the `random` method again, the new values will again be the same (`A2 === B2`) but they _should_ differ from the first set of values generated by each of the generators (`A1 !== A2 && B1 !== B2`).
-- Whenever a `GET /flights` call is performed, the app generates _all_ flights for the specified `date`, _regardless_ of the presence of `origin` and/or `destination`
-  - If we only generate a subset of the data based on origin and/or destination, the order in which the flights generated for each O&D pair would differ and flight data would be different depending on the request parameters (e.g., flight `123` retrieved via`/flights?date=2020-01-01` and `/flights?date=2020-01-01&origin=DFW` would differ). Here's an example:
-    - `random` method calls 1-10 with a seed of `2020-01-01` will _ALWAYS_ result in: `[1, 7, 9, 1, 8, 4, 5, 7, 2, 3]`
-    - `/flights?date=2020-01-01`:
-      1. Generate LGA flights (`random` calls 1-4)
-      1. Generate MIA flights (`random` calls 6-7)
-      1. Generate DFW flights (`random` calls 8-10), flight `123` was call 9 and got a random value of `2`
-    - `/flights?date=2020-01-01&origin=DFW`:
-      1. Generate DFW flights (`random` calls 1-3), flight `123` was call 2 and got a random value of `7`
-    - Because the values are different, the data for flight 123 will not be the same for those two calls
+```html
+Please enter a valid flight code i.e. DFW, GSO, ATL...
+```
+
+</details>
+
+---
+
+## Flight Information
+
+<details><summary> Examples </summary>
+
+Get the details of a given airport by its IATA (Airport Code)
+
+## Default Request
+
+**URL** : `/flights?date=YYYY-MM-DD`
+
+**Method**: `GET`
+
+**Auth required**: No
+
+**Permissions required**: None
+
+### <a id="default-success-response"></a> Success Response
+
+**Code**: `200 OK`
+
+```json
+[
+  {
+    "flightNumber": "0978",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "PHL",
+      "city": "Philadelphia",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 39.8729,
+        "longitude": -75.2437
+      }
+    },
+    "distance": 7393,
+    "duration": {
+      "locale": "18h 36m",
+      "hours": 18,
+      "minutes": 36
+    },
+    "departureTime": "2017-08-29T02:36:00.000-05:00",
+    "arrivalTime": "2017-08-29T22:12:00.000-04:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  "..."
+]
+```
+
+---
+
+## Flight Record From Specified Airport Destination Request
+
+Will display flights filtered by airport destination
+
+**URL** : `/flights?date=YYYY-MM-DD&destination=<IATA-CODE>`
+
+**Method**: `GET`
+
+**Auth required**: No
+
+**Permissions required**: None
+
+### <a id="desitnation-success-response"></a> Success Response
+
+**Code**: `200 OK`
+
+**Examples**
+
+<details><summary> Flights by Destination</summary>
+
+**Sample Endpoint** : `/flights?date=YYYY-MM-DD&destination=GSO`
+
+```json
+[
+  {
+    "flightNumber": "8124",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "GSO",
+      "city": "Greensboro",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 36.0726,
+        "longitude": -79.792
+      }
+    },
+    "distance": 7675,
+    "duration": {
+      "locale": "21h 46m",
+      "hours": 21,
+      "minutes": 46
+    },
+    "departureTime": "2021-08-29T05:10:00.000-05:00",
+    "arrivalTime": "2021-08-30T03:56:00.000-04:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1643",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "GSO",
+      "city": "Greensboro",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 36.0726,
+        "longitude": -79.792
+      }
+    },
+    "distance": 7675,
+    "duration": {
+      "locale": "20h 50m",
+      "hours": 20,
+      "minutes": 50
+    },
+    "departureTime": "2021-08-29T09:25:00.000-05:00",
+    "arrivalTime": "2021-08-30T07:15:00.000-04:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  "..."
+]
+```
+
+</details>
+
+---
+
+## Flight Record From Specified Airport Origin Request
+
+Will display flights filtered by airport destination
+
+**URL** : `/flights?date=YYYY-MM-DD&origin=IATA-CODE`
+
+**Method**: `GET`
+
+**Auth required**: No
+
+**Permissions required**: None
+
+### <a id="origin-success-response"></a> Success Response
+
+**Code**: `200 OK`
+
+**Examples**
+
+<details><summary> Flights by Origin</summary>
+<p>
+
+**Sample Endpoint** : `/flights?date=YYYY-MM-DD&origin=PHL`
+
+```json
+[
+  {
+    "flightNumber": "0216",
+    "origin": {
+      "code": "PHL",
+      "city": "Philadelphia",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 39.8729,
+        "longitude": -75.2437
+      }
+    },
+    "destination": {
+      "code": "SAN",
+      "city": "San Diego",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 32.7338,
+        "longitude": -117.1933
+      }
+    },
+    "distance": 2368,
+    "duration": {
+      "locale": "6h 38m",
+      "hours": 6,
+      "minutes": 38
+    },
+    "departureTime": "2021-08-29T02:18:00.000-04:00",
+    "arrivalTime": "2021-08-29T05:56:00.000-07:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "3815",
+    "origin": {
+      "code": "PHL",
+      "city": "Philadelphia",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 39.8729,
+        "longitude": -75.2437
+      }
+    },
+    "destination": {
+      "code": "SAN",
+      "city": "San Diego",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 32.7338,
+        "longitude": -117.1933
+      }
+    },
+    "distance": 2368,
+    "duration": {
+      "locale": "6h 1m",
+      "hours": 6,
+      "minutes": 1
+    },
+    "departureTime": "2021-08-29T03:48:00.000-04:00",
+    "arrivalTime": "2021-08-29T06:49:00.000-07:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  "..."
+]
+```
+
+</p>
+</details>
+
+---
+
+## Malformed Request Response
+
+```html
+'date' value (2017-08-299) is malformed; 'date' must use the following format: YYYY-MM-DD
+```
+
+## Missing Date Response
+
+```html
+'date' is a required parameter and must use the following format: YYYY-MM-DD
+```
+
+</details>
 
 ---
 
