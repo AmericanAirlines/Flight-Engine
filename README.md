@@ -30,9 +30,9 @@ Each endpoint displays information related to the airport whose IATA (Airport Co
 
 <details><summary> Examples </summary>
 
-Get the details of a given airport by its IATA (Airport Code)
+### **Get the details of a given airport by its IATA (Airport Code)**
 
-**URL** : `/airports?code= <IATA-CODE>`
+**URL** : `/airports?code=<IATA-CODE>`
 
 **Method**: `GET`
 
@@ -68,6 +68,46 @@ Airport not found
 
 ```html
 Please enter a valid flight code i.e. DFW, GSO, ATL...
+```
+
+### **Get the details of all supported airports**
+
+**URL** : `/airports/all`
+
+**Method**: `GET`
+
+**Auth required**: No
+
+**Permissions required**: None
+
+**Success Response**:
+
+**Code**: `200 OK`
+
+**Respones**
+
+```json
+[
+  {
+    "code": "DFW",
+    "city": "Dallas-Fort Worth",
+    "timezone": "America/Chicago",
+    "location": {
+      "latitude": 32.8998,
+      "longitude": 97.0403
+    }
+  },
+  {
+    "code": "JFK",
+    "city": "New York City",
+    "timezone": "America/New_York",
+    "location": {
+      "latitude": 40.6413,
+      "longitude": 73.7781
+    }
+  }
+  //...
+]
 ```
 
 </details>

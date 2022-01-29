@@ -23,3 +23,7 @@ airportRouter.get('/', (req, res) => {
     res.status(404).send('Airport not found');
   }
 });
+
+airportRouter.get('/all', (req, res) => {
+  res.json(airports);
+});
