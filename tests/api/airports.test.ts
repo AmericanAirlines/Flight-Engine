@@ -28,4 +28,11 @@ describe('airports', () => {
     const { body: airport } = await testHandler(testApp).get(`/?code=${airportCode}`).expect(404);
     expect(airport).toEqual({});
   });
+
+  it('returns airport list', async () => {
+    const testApp = createTestApp(airportRouter);
+
+    const airports = await testHandler(testApp).get('/all').expect(200);
+    expect(airports).not.toBeNull();
+  });
 });
