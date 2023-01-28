@@ -7,7 +7,7 @@ export const airports: Airport[] = [
     timezone: 'America/Chicago',
     location: {
       latitude: 32.8998,
-      longitude: 97.0403,
+      longitude: -97.0403,
     },
   },
   {
@@ -16,7 +16,7 @@ export const airports: Airport[] = [
     timezone: 'America/New_York',
     location: {
       latitude: 40.6413,
-      longitude: 73.7781,
+      longitude: -73.7781,
     },
   },
   {
@@ -25,7 +25,7 @@ export const airports: Airport[] = [
     timezone: 'America/Los_Angeles',
     location: {
       latitude: 33.9416,
-      longitude: 118.4085,
+      longitude: -118.4085,
     },
   },
   {
@@ -34,7 +34,7 @@ export const airports: Airport[] = [
     timezone: 'America/Chicago',
     location: {
       latitude: 41.9742,
-      longitude: 87.9073,
+      longitude: -87.9073,
     },
   },
   {
