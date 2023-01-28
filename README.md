@@ -14,9 +14,11 @@ Mock flight data delivered simply and quickly without a database.
 
 If you would like to just use Flight Engine as we have designed it, deploy a copy to Heroku using the button below.
 
-**NOTE**: If you go with this approach, you will not be able to customize Flight Engine.
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AmericanAirlines/Flight-Engine)
+
+> :information_source: **Heroku no longer supports free dyno hours for all users.** However, you can still get a free dyno by signing up to their collab with the [Github Student program](https://www.heroku.com/github-students/signup).
+
+> :warning: If you choose to deploy Flight Engine to Heroku, you will not be able to customize Flight Engine.
 
 ---
 
