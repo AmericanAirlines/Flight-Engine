@@ -399,6 +399,114 @@ Will display flights filtered by airport destination
 </details>
 
 ---
+## Flight Record For Specific Flight Number Request
+
+Will display flights filtered by flight number
+
+**URL** : `/flights?date=YYYY-MM-DD&flightNumber=<flight_number>`
+
+**Method**: `GET`
+
+**Auth required**: No
+
+**Permissions required**: None
+
+### <a id="origin-success-response"></a> Success Response
+
+**Code**: `200 OK`
+
+**Examples**
+
+<details><summary> Flights by Number</summary>
+<p>
+
+**Sample Endpoint** : `/flights?date=YYYY-MM-DD&flightNumber=4211`
+
+```json
+[
+  {
+    "flightNumber": "4211",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": -97.0403
+      }
+    },
+    "destination": {
+      "code": "PHL",
+      "city": "Philadelphia",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 39.8729,
+        "longitude": -75.2437
+      }
+    },
+    "distance": 1302,
+    "duration": {
+      "locale": "3h 28m",
+      "hours": 3,
+      "minutes": 28
+    },
+    "departureTime": "2024-01-26T02:37:32.307-06:00",
+    "arrivalTime": "2024-01-26T07:05:32.307-05:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "4211",
+    "origin": {
+      "code": "GSO",
+      "city": "Greensboro",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 36.0726,
+        "longitude": -79.792
+      }
+    },
+    "destination": {
+      "code": "TPA",
+      "city": "Tampa",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 36.1043,
+        "longitude": -79.935
+      }
+    },
+    "distance": 8,
+    "duration": {
+      "locale": "0h 1m",
+      "hours": 0,
+      "minutes": 1
+    },
+    "departureTime": "2024-01-26T16:33:51.420-05:00",
+    "arrivalTime": "2024-01-26T16:34:51.420-05:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  }
+]
+```
+
+</p>
+</details>
+
+---
 
 ## Malformed Request Response
 
