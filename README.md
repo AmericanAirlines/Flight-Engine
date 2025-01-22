@@ -12,11 +12,46 @@ Mock flight data delivered simply and quickly without a database.
 
 ## Deploy Flight Engine and Use Now
 
-If you would like to just use Flight Engine as we have designed it, deploy a copy to Heroku using the button below.
+If you would like to just use Flight Engine as we have designed it, you can deploy directly to one of the following hosting services:
+
+### Render
+Render is an easy-to-use hosting platform. It has a free Hobby tier, which should be more than sufficient for your hackathon needs.
+
+<details><summary> <b><i>Expand for instructions on deploying with Render</i></b> </summary>
+
+To get started, [create an account](https://dashboard.render.com/register) on Render, or log in with another account such as Google or Github.
+
+After creating an account, use the dashboard to create a new "Web Service". It should open up a form for you to fill out. (*Click [this link](https://dashboard.render.com/web/new) if you have trouble getting to it*)
+
+#### **Fill out Details**
+
+For the `Source Code` option, select the `Public Git Repository` option and then paste the following into the url field: 
+```
+https://github.com/AmericanAirlines/Flight-Engine
+```
+
+Then click `Connect`. Render will then auto-populate some fields after inspecting the repo you provided.
+
+In the new fields that appear, change the following:
+- `Build Command` ➡️ Change to:
+    ```
+    npm install && npm run build
+    ```
+- `Instance Type` ➡️ Select the Free option.
+
+Finally, click `Deploy Web Service`, and you should be up and running in a few minutes! Render will generate a URL where you can reach your app.
+</details>
+
+---
+
+### Heroku
+Heroku is another good option for hosting - however, unless you have enrolled in the [Github Student Developer Pack](https://education.github.com/discount_requests/application?type=student), it will cost $5 a month for the basic tier.
+> :information_source: **Heroku no longer supports free dyno hours for all users.** However, you can still get a free dyno by signing up to their collab with the [Github Student program](https://www.heroku.com/github-students/signup).
+
+If you wish to use Heroku, click the button below to deploy Flight Engine in your Heroku account:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AmericanAirlines/Flight-Engine)
 
-> :information_source: **Heroku no longer supports free dyno hours for all users.** However, you can still get a free dyno by signing up to their collab with the [Github Student program](https://www.heroku.com/github-students/signup).
 
 > :warning: If you choose to deploy Flight Engine to Heroku, you will not be able to customize Flight Engine.
 
