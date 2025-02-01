@@ -59,11 +59,11 @@ If you wish to use Heroku, click the button below to deploy Flight Engine in you
 
 ### Railway
 
-Railway is a additional free hosting - however, it does require purchasing a minimum of $5/mo in credits.
+Railway is a additional hosting option offering easy deploymeny - however, it does require purchasing a minimum of $5/mo in credits.
 
-If you wish to use Railway, click the button below to deploy Flight Engine in your Heroku account:
+If you wish to use Railway, click the button below to deploy Flight Engine in your Railway account:
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/2N2RdE?referralCode=IQmKrJ)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/2N2RdE)
 
 ---
 
